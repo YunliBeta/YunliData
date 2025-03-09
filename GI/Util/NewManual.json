@@ -1,0 +1,4065 @@
+{
+    "INFO_AVATAR_BREAKOUT_ENERGY": {
+        "TextMapContentTextMapHash": {
+            "hash": 3526909280,
+            "CHS": "暂时无法使用"
+        },
+        "TextMapId": "INFO_AVATAR_BREAKOUT_ENERGY",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "TIP_DIETIP_SCENE_YST": {
+        "TextMapContentTextMapHash": {
+            "hash": 3792051789,
+            "CHS": "受金光灼烧而死"
+        },
+        "TextMapId": "TIP_DIETIP_SCENE_YST",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "QUICK_LAUNCH_ACTIVATED": {
+        "TextMapContentTextMapHash": {
+            "hash": 2410016248,
+            "CHS": "「{0}」已开启快速体验"
+        },
+        "TextMapId": "QUICK_LAUNCH_ACTIVATED",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "QUEST_ProgressGuide_7516901": {
+        "TextMapContentTextMapHash": {
+            "hash": 110843386,
+            "CHS": "前往「挖掘地」寻找线索（可选）"
+        },
+        "TextMapId": "QUEST_ProgressGuide_7516901",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "QUEST_ProgressGuide_7516902": {
+        "TextMapContentTextMapHash": {
+            "hash": 183956746,
+            "CHS": "前往「喷发遗迹」寻找线索（可选）"
+        },
+        "TextMapId": "QUEST_ProgressGuide_7516902",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_NyxSpaceChallange_Climate_Desc_11": {
+        "TextMapContentTextMapHash": {
+            "hash": 1693704187,
+            "CHS": "争夺的试炼：在此试炼中，雳震·大灵显化身将持续维持具有高额抗性的「霆斥」状态。同时，场中将间歇性地出现「夜祝晶球」。尽可能多地收集「夜祝晶球」，即可产生随身的「夜祝祭场」，以抵消雳震·大灵显化身的「霆斥」状态。不过，雳震·大灵显化身也会吸收「夜祝晶球」并生成雷元素护罩。在试炼进行一段时间之后，雳震·大灵显化身将持续召唤多个「夜祝晶球」飞向自身，此时需要收集更多「夜祝晶球」产生「巡礼护盾」，以抵抗雳震·大灵显化身的高额伤害技能。"
+        },
+        "TextMapId": "UI_NyxSpaceChallange_Climate_Desc_11",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_NyxSpaceChallange_Climate_Desc_12": {
+        "TextMapContentTextMapHash": {
+            "hash": 3182689467,
+            "CHS": "回击的试炼：在此试炼中，敌人会冲向角色进行重击，或持续向角色发射扇形的子弹。当角色被赋予护盾时，敌人的重击将被反制，发射的子弹也将被弹回。"
+        },
+        "TextMapId": "UI_NyxSpaceChallange_Climate_Desc_12",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_ZSK_Lava": {
+        "TextMapContentTextMapHash": {
+            "hash": 1125976868,
+            "CHS": "（test）燃素中的知识涌入脑中……"
+        },
+        "TextMapId": "LEVEL_ZSK_Lava",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_ZSK_Jinpan": {
+        "TextMapContentTextMapHash": {
+            "hash": 1376913700,
+            "CHS": "（test）在岩浆的炽热浸泡中，燃素的力量如洪流般涌入脑海，转瞬间化作古老的语言，从口中低声诵祷般流淌而出。"
+        },
+        "TextMapId": "LEVEL_ZSK_Jinpan",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Volcano_Bone_A": {
+        "TextMapContentTextMapHash": {
+            "hash": 1189213197,
+            "CHS": "（test）「火龙大人，我终究…没能守住…」"
+        },
+        "TextMapId": "LEVEL_Volcano_Bone_A",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Volcano_Bone_B": {
+        "TextMapContentTextMapHash": {
+            "hash": 1261529149,
+            "CHS": "（test）「一定要守住，最后的燃素太阳…」"
+        },
+        "TextMapId": "LEVEL_Volcano_Bone_B",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Volcano_Bone_C": {
+        "TextMapContentTextMapHash": {
+            "hash": 2377928045,
+            "CHS": "（test）「将最后的力量，全都汇入燃素…」"
+        },
+        "TextMapId": "LEVEL_Volcano_Bone_C",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Volcano_01": {
+        "TextMapContentTextMapHash": {
+            "hash": 3557673434,
+            "CHS": "（test）一段牛逼的播片表现…"
+        },
+        "TextMapId": "LEVEL_Volcano_01",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Volcano_02": {
+        "TextMapContentTextMapHash": {
+            "hash": 305542594,
+            "CHS": "（test）重新启动了大岩蛇"
+        },
+        "TextMapId": "LEVEL_Volcano_02",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Volcano_03": {
+        "TextMapContentTextMapHash": {
+            "hash": 847924330,
+            "CHS": "（test）火山的通道奇迹般的打开了"
+        },
+        "TextMapId": "LEVEL_Volcano_03",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Volcano_EZhaoSnake": {
+        "TextMapContentTextMapHash": {
+            "hash": 55493554,
+            "CHS": "秘源龙仆驱动金文进行了运作…"
+        },
+        "TextMapId": "LEVEL_Volcano_EZhaoSnake",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Volcano_Snakecome": {
+        "TextMapContentTextMapHash": {
+            "hash": 826726498,
+            "CHS": "机械的运作声从远处传来。\n一具秘源龙像似乎受到了无形的召唤，向此处飞来。"
+        },
+        "TextMapId": "LEVEL_Volcano_Snakecome",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Volcano_TTHChuansong": {
+        "TextMapContentTextMapHash": {
+            "hash": 1485003194,
+            "CHS": "（test）在固化的岩浆瀑布上爬了一段时间…"
+        },
+        "TextMapId": "LEVEL_Volcano_TTHChuansong",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Volcano_Gather": {
+        "TextMapContentTextMapHash": {
+            "hash": 3840256850,
+            "CHS": "（test）卫从的木哨"
+        },
+        "TextMapId": "LEVEL_Volcano_Gather",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_BLACKSCREEN": {
+        "TextMapContentTextMapHash": {
+            "hash": 911648923,
+            "CHS": "(test)大蛇蜕去身上的蚀土，艰难的起身蜉蝣…"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_BLACKSCREEN",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_BUTTON_VARESAORCHARD_APPLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1658390748,
+            "CHS": "多汁的苹果"
+        },
+        "TextMapId": "LEVEL_BUTTON_VARESAORCHARD_APPLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_BUTTON_VARESAORCHARD_RAINBOWCORN": {
+        "TextMapContentTextMapHash": {
+            "hash": 3876583364,
+            "CHS": "饱满的颗粒果"
+        },
+        "TextMapId": "LEVEL_BUTTON_VARESAORCHARD_RAINBOWCORN",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_BUTTON_VARESAORCHARD_CACAO": {
+        "TextMapContentTextMapHash": {
+            "hash": 2412442076,
+            "CHS": "成熟的苦种"
+        },
+        "TextMapId": "LEVEL_BUTTON_VARESAORCHARD_CACAO",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_BUTTON_VARESAORCHARD_PERUVIANA": {
+        "TextMapContentTextMapHash": {
+            "hash": 2439213012,
+            "CHS": "新鲜的青蜜梅"
+        },
+        "TextMapId": "LEVEL_BUTTON_VARESAORCHARD_PERUVIANA",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_BUTTON_VARESAORCHARD_MUSHROOM": {
+        "TextMapContentTextMapHash": {
+            "hash": 3123624596,
+            "CHS": "特产蘑菇"
+        },
+        "TextMapId": "LEVEL_BUTTON_VARESAORCHARD_MUSHROOM",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_BLACKSCREENTEXT_XIAOHUOSHAN_1": {
+        "TextMapContentTextMapHash": {
+            "hash": 1040977290,
+            "CHS": "巨大的石蛇在岩浆里游了几圈，原本流动的液态燃素居然逐渐凝结成了坚固的岩石…"
+        },
+        "TextMapId": "LEVEL_BLACKSCREENTEXT_XIAOHUOSHAN_1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_BUTTON_ZHUAZHUXIAOTUJIAOLONG": {
+        "TextMapContentTextMapHash": {
+            "hash": 3680549411,
+            "CHS": "(test)快回去！"
+        },
+        "TextMapId": "LEVEL_BUTTON_ZHUAZHUXIAOTUJIAOLONG",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_MoXiangDao_LandTip": {
+        "TextMapContentTextMapHash": {
+            "hash": 3756598280,
+            "CHS": "随着巨大机械运转的声音，垩色的龙像将头低伏…"
+        },
+        "TextMapId": "LEVEL_MoXiangDao_LandTip",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_NatlanTribalWorldQuest_75178_BlackScreen": {
+        "TextMapContentTextMapHash": {
+            "hash": 2637608552,
+            "CHS": "派蒙摸了摸温泉中的水…"
+        },
+        "TextMapId": "UI_NatlanTribalWorldQuest_75178_BlackScreen",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_NatlanTribalWorldQuest_75178_BlackScreen2": {
+        "TextMapContentTextMapHash": {
+            "hash": 3351840952,
+            "CHS": "大师似乎只是热晕了过去，身体并没有大碍。在你们的帮助下，晕倒的大师被尤鲁赫接走了…\n看起来。大师本人的「烈度」，或许还有待进一步的提升…"
+        },
+        "TextMapId": "UI_NatlanTribalWorldQuest_75178_BlackScreen2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_NatlanVolcanoRain_7513101_BlackScreen": {
+        "TextMapContentTextMapHash": {
+            "hash": 1962857806,
+            "CHS": "你们将留影机检查了一番后发现，留影机内部不仅存有一组周边风景的画片，同时还装有一种特殊装置，这种装置似乎能使留影机在地面发生振动时自动进行留影。"
+        },
+        "TextMapId": "LEVEL_NatlanVolcanoRain_7513101_BlackScreen",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_BUTTON_SMALLVOLCANO_NOTE_1": {
+        "TextMapContentTextMapHash": {
+            "hash": 1812183008,
+            "CHS": "触碰"
+        },
+        "TextMapId": "LEVEL_BUTTON_SMALLVOLCANO_NOTE_1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_BUTTON_SMALLVOLCANO_NOTE_2": {
+        "TextMapContentTextMapHash": {
+            "hash": 1968016856,
+            "CHS": "触碰"
+        },
+        "TextMapId": "LEVEL_BUTTON_SMALLVOLCANO_NOTE_2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_VOLCANO_BK_EQUIPE_1": {
+        "TextMapContentTextMapHash": {
+            "hash": 2200957112,
+            "CHS": "游学者的爪杯"
+        },
+        "TextMapId": "LEVEL_VOLCANO_BK_EQUIPE_1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_VOLCANO_BK_EQUIPE_2": {
+        "TextMapContentTextMapHash": {
+            "hash": 304925808,
+            "CHS": "巡山客的信标"
+        },
+        "TextMapId": "LEVEL_VOLCANO_BK_EQUIPE_2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_VOLCANO_BK_EQUIPE_3": {
+        "TextMapContentTextMapHash": {
+            "hash": 258102616,
+            "CHS": "魔战士的羽面"
+        },
+        "TextMapId": "LEVEL_VOLCANO_BK_EQUIPE_3",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_VOLCANO_BK_EQUIPE_4": {
+        "TextMapContentTextMapHash": {
+            "hash": 3660630352,
+            "CHS": "驯兽师的护符"
+        },
+        "TextMapId": "LEVEL_VOLCANO_BK_EQUIPE_4",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_VOLCANO_BK_EQUIPE_5": {
+        "TextMapContentTextMapHash": {
+            "hash": 974578416,
+            "CHS": "秘术家的金盘"
+        },
+        "TextMapId": "LEVEL_VOLCANO_BK_EQUIPE_5",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_VOLCANO_BK_EQUIPE_6": {
+        "TextMapContentTextMapHash": {
+            "hash": 1773888144,
+            "CHS": "纷争的前宴"
+        },
+        "TextMapId": "LEVEL_VOLCANO_BK_EQUIPE_6",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_VOLCANO_BK_EQUIPE_7": {
+        "TextMapContentTextMapHash": {
+            "hash": 4047615496,
+            "CHS": "灵髓的根脉"
+        },
+        "TextMapId": "LEVEL_VOLCANO_BK_EQUIPE_7",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_VOLCANO_BK_EQUIPE_8": {
+        "TextMapContentTextMapHash": {
+            "hash": 2623997464,
+            "CHS": "诸圣的礼冠"
+        },
+        "TextMapId": "LEVEL_VOLCANO_BK_EQUIPE_8",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_VOLCANO_BK_EQUIPE_9": {
+        "TextMapContentTextMapHash": {
+            "hash": 281166840,
+            "CHS": "异种的期许"
+        },
+        "TextMapId": "LEVEL_VOLCANO_BK_EQUIPE_9",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_VOLCANO_BK_EQUIPE_10": {
+        "TextMapContentTextMapHash": {
+            "hash": 3539864744,
+            "CHS": "夜域的迷思"
+        },
+        "TextMapId": "LEVEL_VOLCANO_BK_EQUIPE_10",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Button_YeHunShiLian_1": {
+        "TextMapContentTextMapHash": {
+            "hash": 2886916817,
+            "CHS": "觐见夜魂之柱"
+        },
+        "TextMapId": "LEVEL_Button_YeHunShiLian_1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_Button_YeHunShiLian_2": {
+        "TextMapContentTextMapHash": {
+            "hash": 704600729,
+            "CHS": "返回"
+        },
+        "TextMapId": "LEVEL_Button_YeHunShiLian_2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "Level_Button_Interact_Operator_1": {
+        "TextMapContentTextMapHash": {
+            "hash": 3375309159,
+            "CHS": "拉动"
+        },
+        "TextMapId": "Level_Button_Interact_Operator_1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_LOADING": {
+        "TextMapContentTextMapHash": {
+            "hash": 1315619355,
+            "CHS": "追踪清剿的程序已终止，秘源龙像即将返回设定好的路线起点…"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_LOADING",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "TIP_DIETIP_DRAGONCITY_FALL": {
+        "TextMapContentTextMapHash": {
+            "hash": 6246493,
+            "CHS": "因坠入无底处死亡"
+        },
+        "TextMapId": "TIP_DIETIP_DRAGONCITY_FALL",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "Quest_SpecHint_Content_YZTD": {
+        "TextMapContentTextMapHash": {
+            "hash": 1515071357,
+            "CHS": "进入光芒之中，让圣山之火洗涤一切。\n接下来的故事较为连贯，为保证最好的体验，推荐在时间宽裕的情况下进行。"
+        },
+        "TextMapId": "Quest_SpecHint_Content_YZTD",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "LEVEL_BUTTON_FOODPROTECTION_NOTE_1": {
+        "TextMapContentTextMapHash": {
+            "hash": 424441048,
+            "CHS": "警告留言板"
+        },
+        "TextMapId": "LEVEL_BUTTON_FOODPROTECTION_NOTE_1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_YLLYB_LOADING": {
+        "TextMapContentTextMapHash": {
+            "hash": 970545052,
+            "CHS": "你们将方才得来的浮标数据全部交给了库蕾玛娜。"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_YLLYB_LOADING",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_ADD_BUTTON": {
+        "TextMapContentTextMapHash": {
+            "hash": 2468931041,
+            "CHS": "加入待兑换清单"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_ADD_BUTTON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_ADD_REMIND1": {
+        "TextMapContentTextMapHash": {
+            "hash": 3250145913,
+            "CHS": "已加入待兑换清单"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_ADD_REMIND1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_ADD_REMIND2": {
+        "TextMapContentTextMapHash": {
+            "hash": 85647537,
+            "CHS": "待兑换的物品种类已达上限"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_ADD_REMIND2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_ADD_REMIND3": {
+        "TextMapContentTextMapHash": {
+            "hash": 2562749561,
+            "CHS": "物品加购数超过限购数"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_ADD_REMIND3",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_BAGFULL_REMIND": {
+        "TextMapContentTextMapHash": {
+            "hash": 2276865040,
+            "CHS": "背包内该物品可持有数已达上限"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_BAGFULL_REMIND",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 4256338105,
+            "CHS": "待兑换清单"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_PICKALL_BUTTON": {
+        "TextMapContentTextMapHash": {
+            "hash": 499410481,
+            "CHS": "全部选中"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_PICKALL_BUTTON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_PICKNULL_BUTTON": {
+        "TextMapContentTextMapHash": {
+            "hash": 4128497812,
+            "CHS": "取消选择"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_PICKNULL_BUTTON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_BUYALL_BUTTON": {
+        "TextMapContentTextMapHash": {
+            "hash": 1060787359,
+            "CHS": "批量兑换"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_BUYALL_BUTTON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_COSTNUM": {
+        "TextMapContentTextMapHash": {
+            "hash": 1754613249,
+            "CHS": "总计消耗"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_COSTNUM",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_NUMMAX_REMIND": {
+        "TextMapContentTextMapHash": {
+            "hash": 840246173,
+            "CHS": "已添加至最大数量"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_NUMMAX_REMIND",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_EMPTY_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3152492052,
+            "CHS": "暂无物品"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_EMPTY_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_EMPTY_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 2555648900,
+            "CHS": "选择物品加入待兑换清单后可批量兑换"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_EMPTY_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_": {
+        "TextMapContentTextMapHash": {
+            "hash": 3774956937,
+            "CHS": "背包内该物品可持有数已达上限"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_REMOVED_TIPS": {
+        "TextMapContentTextMapHash": {
+            "hash": 274227447,
+            "CHS": "以下物品无法兑换，并将从待兑换清单中移除"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_REMOVED_TIPS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_CLEAR_TIPS": {
+        "TextMapContentTextMapHash": {
+            "hash": 771925624,
+            "CHS": "是否将选中的物品移除出待兑换清单"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_CLEAR_TIPS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_HOMEWORLD_SHOPPINGCART_BUY_FAIL": {
+        "TextMapContentTextMapHash": {
+            "hash": 2234821174,
+            "CHS": "兑换失败"
+        },
+        "TextMapId": "UI_HOMEWORLD_SHOPPINGCART_BUY_FAIL",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_DUNGEONENTRY_RECOMMEND_TIPS_044": {
+        "TextMapContentTextMapHash": {
+            "hash": 2532713362,
+            "CHS": "·在队伍中编入能够更有效触发下落攻击的角色，可以利用地脉异常造成更多的伤害。"
+        },
+        "TextMapId": "UI_DUNGEONENTRY_RECOMMEND_TIPS_044",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_RELIC_DEFINITION_BUFF_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3198728664,
+            "CHS": "祝圣之霜定义"
+        },
+        "TextMapId": "UI_RELIC_DEFINITION_BUFF_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_RELIC_DEFINITION_BUFF_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 1818063392,
+            "CHS": "消耗祝圣之霜定义的圣遗物，强化至满级时至少会命中<color=#FFCC33>{0}</color>次指定的追加属性。\n\n当前圣遗物指定的追加属性 （已命中<color=#FFCC33>{1}</color>次）：\n<color=#ECE5D8>·{2}</color>\n<color=#ECE5D8>·{3}</color>"
+        },
+        "TextMapId": "UI_RELIC_DEFINITION_BUFF_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_RELIC_DEFINITION_LABEL": {
+        "TextMapContentTextMapHash": {
+            "hash": 1324071630,
+            "CHS": "祝圣之霜定义"
+        },
+        "TextMapId": "UI_RELIC_DEFINITION_LABEL",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_DUNGEON_ENTRY_1191": {
+        "TextMapContentTextMapHash": {
+            "hash": 978275411,
+            "CHS": "荒废砌造坞"
+        },
+        "TextMapId": "UI_DUNGEON_ENTRY_1191",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_DUNGEON_ENTRY_1491": {
+        "TextMapContentTextMapHash": {
+            "hash": 2442157939,
+            "CHS": "？？？"
+        },
+        "TextMapId": "UI_DUNGEON_ENTRY_1491",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_DUNGEON_ENTRY_1493": {
+        "TextMapContentTextMapHash": {
+            "hash": 2945609243,
+            "CHS": "？？？"
+        },
+        "TextMapId": "UI_DUNGEON_ENTRY_1493",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_City6_TITLE_51": {
+        "TextMapContentTextMapHash": {
+            "hash": 1044967561,
+            "CHS": "安饶之野"
+        },
+        "TextMapId": "UI_MAP_City6_TITLE_51",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_City6_TITLE_800": {
+        "TextMapContentTextMapHash": {
+            "hash": 1523614801,
+            "CHS": "远古圣山"
+        },
+        "TextMapId": "UI_MAP_City6_TITLE_800",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA51_TITLE_1": {
+        "TextMapContentTextMapHash": {
+            "hash": 2844485945,
+            "CHS": "「沃陆之邦」"
+        },
+        "TextMapId": "UI_MAP_AREA51_TITLE_1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA51_TITLE_2": {
+        "TextMapContentTextMapHash": {
+            "hash": 3901681313,
+            "CHS": "石火坠陨处"
+        },
+        "TextMapId": "UI_MAP_AREA51_TITLE_2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA51_TITLE_3": {
+        "TextMapContentTextMapHash": {
+            "hash": 1682972673,
+            "CHS": "孑遗的留迹"
+        },
+        "TextMapId": "UI_MAP_AREA51_TITLE_3",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA51_TITLE_4": {
+        "TextMapContentTextMapHash": {
+            "hash": 2735716041,
+            "CHS": "「天火之冠」"
+        },
+        "TextMapId": "UI_MAP_AREA51_TITLE_4",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA51_TITLE_5": {
+        "TextMapContentTextMapHash": {
+            "hash": 1607860361,
+            "CHS": "觐山古道"
+        },
+        "TextMapId": "UI_MAP_AREA51_TITLE_5",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA800_TITLE_1": {
+        "TextMapContentTextMapHash": {
+            "hash": 3111243944,
+            "CHS": "候召的厅堂"
+        },
+        "TextMapId": "UI_MAP_AREA800_TITLE_1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA800_TITLE_2": {
+        "TextMapContentTextMapHash": {
+            "hash": 672115104,
+            "CHS": "分流识海"
+        },
+        "TextMapId": "UI_MAP_AREA800_TITLE_2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA800_TITLE_3": {
+        "TextMapContentTextMapHash": {
+            "hash": 2145996160,
+            "CHS": "聚火祭验所"
+        },
+        "TextMapId": "UI_MAP_AREA800_TITLE_3",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA800_TITLE_4": {
+        "TextMapContentTextMapHash": {
+            "hash": 792217192,
+            "CHS": "审议之庭"
+        },
+        "TextMapId": "UI_MAP_AREA800_TITLE_4",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA800_TITLE_5": {
+        "TextMapContentTextMapHash": {
+            "hash": 2674993664,
+            "CHS": "衍术阵列"
+        },
+        "TextMapId": "UI_MAP_AREA800_TITLE_5",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA800_TITLE_6": {
+        "TextMapContentTextMapHash": {
+            "hash": 1904106672,
+            "CHS": "力向逆心"
+        },
+        "TextMapId": "UI_MAP_AREA800_TITLE_6",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA800_TITLE_7": {
+        "TextMapContentTextMapHash": {
+            "hash": 3791889720,
+            "CHS": "支离武备所"
+        },
+        "TextMapId": "UI_MAP_AREA800_TITLE_7",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA800_TITLE_8": {
+        "TextMapContentTextMapHash": {
+            "hash": 3914854672,
+            "CHS": "拟星的台座"
+        },
+        "TextMapId": "UI_MAP_AREA800_TITLE_8",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAP_AREA800_TITLE_9": {
+        "TextMapContentTextMapHash": {
+            "hash": 2177678232,
+            "CHS": "圣山之心"
+        },
+        "TextMapId": "UI_MAP_AREA800_TITLE_9",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_LOGOUT_CONFIRM_CONTINUE_GAME": {
+        "TextMapContentTextMapHash": {
+            "hash": 673759355,
+            "CHS": "继续游戏"
+        },
+        "TextMapId": "UI_LOGOUT_CONFIRM_CONTINUE_GAME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_LOGOUT_CONFIRM_EXIT_TO_TITLE_SCREEN": {
+        "TextMapContentTextMapHash": {
+            "hash": 1104246945,
+            "CHS": "退出至登录界面"
+        },
+        "TextMapId": "UI_LOGOUT_CONFIRM_EXIT_TO_TITLE_SCREEN",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_LOGOUT_CONFIRM_EXIT_TO_DESKTOP": {
+        "TextMapContentTextMapHash": {
+            "hash": 2207307294,
+            "CHS": "退出至桌面"
+        },
+        "TextMapId": "UI_LOGOUT_CONFIRM_EXIT_TO_DESKTOP",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_LOGOUT_CONFIRM_EXIT_TO_GAME": {
+        "TextMapContentTextMapHash": {
+            "hash": 2397076166,
+            "CHS": "退出游戏"
+        },
+        "TextMapId": "UI_LOGOUT_CONFIRM_EXIT_TO_GAME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_MAINPAGE_TITLE_6": {
+        "TextMapContentTextMapHash": {
+            "hash": 667338191,
+            "CHS": "祝圣移涌"
+        },
+        "TextMapId": "UI_OPACTIVITY_MAINPAGE_TITLE_6",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_MAINPAGE_DETAIL_6": {
+        "TextMapContentTextMapHash": {
+            "hash": 188622634,
+            "CHS": "近期在秘境中，汇聚着过往孑遗的记忆。\n注入「原粹树脂」的力量，让银白之树盛放，获得来自过往的祝福吧。"
+        },
+        "TextMapId": "UI_OPACTIVITY_MAINPAGE_DETAIL_6",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_MD1": {
+        "TextMapContentTextMapHash": {
+            "hash": 4225304903,
+            "CHS": "祝圣秘境·「仲夏庭园」 - 蒙德"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_MD1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_MD2": {
+        "TextMapContentTextMapHash": {
+            "hash": 3572126911,
+            "CHS": "祝圣秘境·「铭记之谷」 - 蒙德"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_MD2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_MD3": {
+        "TextMapContentTextMapHash": {
+            "hash": 3012274463,
+            "CHS": "祝圣秘境·「芬德尼尔之顶」 - 蒙德"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_MD3",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_LY1": {
+        "TextMapContentTextMapHash": {
+            "hash": 1915213567,
+            "CHS": "祝圣秘境·「孤云凌霄之处」 - 璃月"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_LY1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_LY2": {
+        "TextMapContentTextMapHash": {
+            "hash": 903960335,
+            "CHS": "祝圣秘境·「无妄引咎密宫」 - 璃月"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_LY2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_LY3": {
+        "TextMapContentTextMapHash": {
+            "hash": 1224935423,
+            "CHS": "祝圣秘境·「华池岩岫」 - 璃月"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_LY3",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_LY4": {
+        "TextMapContentTextMapHash": {
+            "hash": 450041191,
+            "CHS": "祝圣秘境·「山脊守望」 - 蒙德"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_LY4",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_LY5": {
+        "TextMapContentTextMapHash": {
+            "hash": 3704848519,
+            "CHS": "祝圣秘境·「岩中幽谷」 - 璃月"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_LY5",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_DQ1": {
+        "TextMapContentTextMapHash": {
+            "hash": 450303575,
+            "CHS": "祝圣秘境·「椛染之庭」 - 稻妻"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_DQ1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_DQ2": {
+        "TextMapContentTextMapHash": {
+            "hash": 3091997647,
+            "CHS": "祝圣秘境·「沉眠之庭」 - 稻妻"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_DQ2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_XM1": {
+        "TextMapContentTextMapHash": {
+            "hash": 1447890951,
+            "CHS": "祝圣秘境·「缘觉塔」 - 须弥"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_XM1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_XM2": {
+        "TextMapContentTextMapHash": {
+            "hash": 642321983,
+            "CHS": "祝圣秘境·「赤金的城墟」 - 须弥"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_XM2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_XM3": {
+        "TextMapContentTextMapHash": {
+            "hash": 1669666927,
+            "CHS": "祝圣秘境·「熔铁的孤塞」 - 须弥"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_XM3",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_FD1": {
+        "TextMapContentTextMapHash": {
+            "hash": 2208429471,
+            "CHS": "祝圣秘境·「罪祸的终末」 - 枫丹"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_FD1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_FD2": {
+        "TextMapContentTextMapHash": {
+            "hash": 194135015,
+            "CHS": "祝圣秘境·「临瀑之城」 - 枫丹"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_FD2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_FD3": {
+        "TextMapContentTextMapHash": {
+            "hash": 258739543,
+            "CHS": "祝圣秘境·「褪色的剧场」 - 枫丹"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_FD3",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_NT1": {
+        "TextMapContentTextMapHash": {
+            "hash": 2388384311,
+            "CHS": "祝圣秘境·「虹灵的净土」 - 纳塔"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_NT1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_NT2": {
+        "TextMapContentTextMapHash": {
+            "hash": 1092600535,
+            "CHS": "祝圣秘境·「荒废砌造坞」 - 纳塔"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_DUNGEON_RELIQUARY_NT2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_BONUS_MAINPAGE_EXPLAIN_6": {
+        "TextMapContentTextMapHash": {
+            "hash": 2735346904,
+            "CHS": "<color=#D3BC8EFF>【祝圣移涌·活动规则】</color>\n活动期间，使用「原粹树脂」激活完成指定「祝圣秘境」时，可以消耗一次「原粹树脂」获得多次的产出。\n\n「祝圣移涌」活动具有如下限制：\n·使用「浓缩树脂」时，无法获得此活动提供的多次产出。\n·每日能获得的多次产出机会有限，可用的剩余机会与机会上限以「祝圣移涌」活动界面中的条目为准。\n·有时，适用多次产出的祝圣秘境会具有区域限制。若存在具体适用区域，以「祝圣移涌」活动界面中的条目为准。\n·「祝圣移涌」与「星之归还」活动的额外产出同时生效时，获取符合条件且适用的多次产出时，优先消耗倍率更高的机会；倍率相同时，优先消耗「星之归还」活动提供的机会。"
+        },
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_EXPLAIN_6",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_OPACTIVITY_TAB_6": {
+        "TextMapContentTextMapHash": {
+            "hash": 188532797,
+            "CHS": "祝圣移涌"
+        },
+        "TextMapId": "UI_OPACTIVITY_TAB_6",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_Rel_Salvage_Confirm_Content_A7": {
+        "TextMapContentTextMapHash": {
+            "hash": 158170611,
+            "CHS": "将{0}个圣遗物（包含<color=#F39000>5星圣遗物</color>）分解转化为经验，并存储。"
+        },
+        "TextMapId": "UI_Rel_Salvage_Confirm_Content_A7",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_Rel_Salvage_Confirm_Content_A8": {
+        "TextMapContentTextMapHash": {
+            "hash": 1650412339,
+            "CHS": "将{0}个圣遗物分解转化为经验，并存储。"
+        },
+        "TextMapId": "UI_Rel_Salvage_Confirm_Content_A8",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_Rel_Salvage_FastAdd_Title2": {
+        "TextMapContentTextMapHash": {
+            "hash": 1989721475,
+            "CHS": "不包含已强化圣遗物"
+        },
+        "TextMapId": "UI_Rel_Salvage_FastAdd_Title2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_MAX_WAVE": {
+        "TextMapContentTextMapHash": {
+            "hash": 485856360,
+            "CHS": "击退波次"
+        },
+        "TextMapId": "UI_ACTIVITY_MAX_WAVE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_INVESTIGATION_LOCATIONGUIDE": {
+        "TextMapContentTextMapHash": {
+            "hash": 826823264,
+            "CHS": "追踪并引导"
+        },
+        "TextMapId": "UI_INVESTIGATION_LOCATIONGUIDE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_INVESTIGATION_LOCATIONGUIDE_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 1342912203,
+            "CHS": "*点击后将创建额外指引挑战的标记点"
+        },
+        "TextMapId": "UI_INVESTIGATION_LOCATIONGUIDE_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_INVESTIGATION_TELEPORT": {
+        "TextMapContentTextMapHash": {
+            "hash": 2145441488,
+            "CHS": "传送并追踪"
+        },
+        "TextMapId": "UI_INVESTIGATION_TELEPORT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_INVESTIGATION_MARKTITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 191538808,
+            "CHS": "挑战之路的指引"
+        },
+        "TextMapId": "UI_INVESTIGATION_MARKTITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_INVESTIGATION_MARKDESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 186098968,
+            "CHS": "前往挑战{0}的路途指引。\n据说只要沿着道路，就可以在路途的终点看到强敌的身影。\n想要向{0}发起挑战之人，就从此处踏上试炼之路吧。"
+        },
+        "TextMapId": "UI_INVESTIGATION_MARKDESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_RELIC_SCREEN_STATE_LEVELUP": {
+        "TextMapContentTextMapHash": {
+            "hash": 2169208478,
+            "CHS": "已强化"
+        },
+        "TextMapId": "UI_RELIC_SCREEN_STATE_LEVELUP",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_RELIC_SCREEN_STATE_LEVELUP_NOT": {
+        "TextMapContentTextMapHash": {
+            "hash": 2055596173,
+            "CHS": "未强化"
+        },
+        "TextMapId": "UI_RELIC_SCREEN_STATE_LEVELUP_NOT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_RELIC_SCREEN_STATE_LEVELUP_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3133023061,
+            "CHS": "是否强化"
+        },
+        "TextMapId": "UI_RELIC_SCREEN_STATE_LEVELUP_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_RELIC_SCREEN_STATE_DEFINITION": {
+        "TextMapContentTextMapHash": {
+            "hash": 4155052246,
+            "CHS": "祝圣之霜定义"
+        },
+        "TextMapId": "UI_RELIC_SCREEN_STATE_DEFINITION",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_RELIC_SCREEN_STATE_SOURCE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3254022406,
+            "CHS": "来源"
+        },
+        "TextMapId": "UI_RELIC_SCREEN_STATE_SOURCE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "REPUTATION_NATLAN_GADGET_OPEN_06": {
+        "TextMapContentTextMapHash": {
+            "hash": 364052820,
+            "CHS": "我在「沃陆之邦」的声望…"
+        },
+        "TextMapId": "REPUTATION_NATLAN_GADGET_OPEN_06",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 781826184,
+            "CHS": "退出挑战"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 2796824848,
+            "CHS": "是否离开秘源的光束炮，回到挑战的起点"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_QUIT": {
+        "TextMapContentTextMapHash": {
+            "hash": 1334591776,
+            "CHS": "确认退出"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_QUIT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_CONTINUE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3010602584,
+            "CHS": "继续挑战"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_CONTINUE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_SETTING": {
+        "TextMapContentTextMapHash": {
+            "hash": 874616792,
+            "CHS": "灵敏度调整"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_SETTING",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_MONSTERTITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1215075560,
+            "CHS": "该区域深渊侵蚀度"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_MONSTERTITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_GOAL1": {
+        "TextMapContentTextMapHash": {
+            "hash": 1177988976,
+            "CHS": "摧毁「淤泥悬核」"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_GOAL1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_GOAL2": {
+        "TextMapContentTextMapHash": {
+            "hash": 996737800,
+            "CHS": "摧毁逃逸的「淤泥悬核」"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_GOAL2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_ULTRA": {
+        "TextMapContentTextMapHash": {
+            "hash": 3583250816,
+            "CHS": "流炎增幅"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_ULTRA",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_RMD1": {
+        "TextMapContentTextMapHash": {
+            "hash": 4218208856,
+            "CHS": "此处镜头设置将只会影响当前玩法"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_RMD1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_CHALLENGE_NT_LYJP_AIMING": {
+        "TextMapContentTextMapHash": {
+            "hash": 995188280,
+            "CHS": "瞄准"
+        },
+        "TextMapId": "UI_CHALLENGE_NT_LYJP_AIMING",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MAPMARK_OTHERSCENE_EXPLORATION": {
+        "TextMapContentTextMapHash": {
+            "hash": 3487707908,
+            "CHS": "探索度：{0}%"
+        },
+        "TextMapId": "UI_MAPMARK_OTHERSCENE_EXPLORATION",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_GUIDE_T_BUTTON_CONTINUOUS_CLICK_PS": {
+        "TextMapContentTextMapHash": {
+            "hash": 1979308614,
+            "CHS": "持续按住{SPRITE_JOYPAD_ICON#[S2]TriggerWheelMenuEvent}并按下{SPRITE_JOYPAD_ICON#[S2]ExteraSelectLeftEvent}即可连续触发"
+        },
+        "TextMapId": "UI_GUIDE_T_BUTTON_CONTINUOUS_CLICK_PS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BEST_WAVE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3956296621,
+            "CHS": "最多击退波次"
+        },
+        "TextMapId": "UI_ACTIVITY_BEST_WAVE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_TEXT_EXTREME": {
+        "TextMapContentTextMapHash": {
+            "hash": 697823163,
+            "CHS": "极难"
+        },
+        "TextMapId": "UI_TEXT_EXTREME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_BOTTON_SUBMIT": {
+        "TextMapContentTextMapHash": {
+            "hash": 2104591266,
+            "CHS": "提交"
+        },
+        "TextMapId": "UI_BOTTON_SUBMIT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "MAIL_SEARCH_HINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 2983151335,
+            "CHS": "搜索标题或发件人"
+        },
+        "TextMapId": "MAIL_SEARCH_HINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "MAIL_SEARCH_RESULT": {
+        "TextMapContentTextMapHash": {
+            "hash": 2760773271,
+            "CHS": "搜索结果"
+        },
+        "TextMapId": "MAIL_SEARCH_RESULT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "MAIL_SEARCH_NO_RETURN": {
+        "TextMapContentTextMapHash": {
+            "hash": 3182613910,
+            "CHS": "暂无「<color=#FFCC33>{0}</color>」相关邮件"
+        },
+        "TextMapId": "MAIL_SEARCH_NO_RETURN",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "MAIL_SEARCH_EMPTY_SEARCH": {
+        "TextMapContentTextMapHash": {
+            "hash": 132892191,
+            "CHS": "请输入内容"
+        },
+        "TextMapId": "MAIL_SEARCH_EMPTY_SEARCH",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "MAIL_ACTIVITY_REMAIN_TIME": {
+        "TextMapContentTextMapHash": {
+            "hash": 709718885,
+            "CHS": "剩余时间：{0}"
+        },
+        "TextMapId": "MAIL_ACTIVITY_REMAIN_TIME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "MAIL_GOTO_ACTIVITY": {
+        "TextMapContentTextMapHash": {
+            "hash": 419673094,
+            "CHS": "前往"
+        },
+        "TextMapId": "MAIL_GOTO_ACTIVITY",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "MAIL_ACTIVITY_FINISH": {
+        "TextMapContentTextMapHash": {
+            "hash": 2381820295,
+            "CHS": "活动已结束"
+        },
+        "TextMapId": "MAIL_ACTIVITY_FINISH",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "MAIL_ACTIVITY_CAN_NOT_OPEN": {
+        "TextMapContentTextMapHash": {
+            "hash": 4037946942,
+            "CHS": "暂时无法打开该界面"
+        },
+        "TextMapId": "MAIL_ACTIVITY_CAN_NOT_OPEN",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "MAIL_MONTHCARD_REMAIN_TIME": {
+        "TextMapContentTextMapHash": {
+            "hash": 3167389289,
+            "CHS": "剩余时间：{0}天"
+        },
+        "TextMapId": "MAIL_MONTHCARD_REMAIN_TIME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "MAIL_MONTHCARD_FINISH": {
+        "TextMapContentTextMapHash": {
+            "hash": 1662081971,
+            "CHS": "空月祝福已到期"
+        },
+        "TextMapId": "MAIL_MONTHCARD_FINISH",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_ACT_BANNED": {
+        "TextMapContentTextMapHash": {
+            "hash": 2627855389,
+            "CHS": "挑战中，无法进行该操作"
+        },
+        "TextMapId": "UI_ACTIVITY_ACT_BANNED",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "MAIL_SEARCH_QUIT_SEARCH": {
+        "TextMapContentTextMapHash": {
+            "hash": 2694830128,
+            "CHS": "退出搜索"
+        },
+        "TextMapId": "MAIL_SEARCH_QUIT_SEARCH",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_GadgetUI_73004072": {
+        "TextMapContentTextMapHash": {
+            "hash": 3131678326,
+            "CHS": "运转机器"
+        },
+        "TextMapId": "UI_GadgetUI_73004072",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_GadgetUI_73004073": {
+        "TextMapContentTextMapHash": {
+            "hash": 3000537310,
+            "CHS": "运转机器"
+        },
+        "TextMapId": "UI_GadgetUI_73004073",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_FTCLIMIT_NAMESTART": {
+        "TextMapContentTextMapHash": {
+            "hash": 1522999501,
+            "CHS": "由于年龄要求，您暂时无法修改昵称。该功能将在您的年龄满足要求后启用。"
+        },
+        "TextMapId": "UI_FTCLIMIT_NAMESTART",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_FTCLIMIT_NAMECHANGE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3544011213,
+            "CHS": "由于年龄要求，您暂时无法修改昵称。该功能将在您的年龄满足要求后启用。"
+        },
+        "TextMapId": "UI_FTCLIMIT_NAMECHANGE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_FTCLIMIT_FRIENDSTART": {
+        "TextMapContentTextMapHash": {
+            "hash": 4061431301,
+            "CHS": "由于您账户的隐私设置，您暂时无法使用好友功能。您的监护人可以在家长控制系统调整您的账户隐私状态。"
+        },
+        "TextMapId": "UI_FTCLIMIT_FRIENDSTART",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_JoypadExtraSelect_Modify_01": {
+        "TextMapContentTextMapHash": {
+            "hash": 4022345994,
+            "CHS": "功能调整"
+        },
+        "TextMapId": "UI_JoypadExtraSelect_Modify_01",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_MONSTER_LAVATITAN_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 4295556,
+            "CHS": "熔岩辉龙像"
+        },
+        "TextMapId": "UI_ACTIVITY_MONSTER_LAVATITAN_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_MONSTER_LAVATITAN": {
+        "TextMapContentTextMapHash": {
+            "hash": 3597482705,
+            "CHS": "在地热的裂隙之中，曾一度为复兴远古的种族而创造，却徒具伟物之型的魔物无智无觉。仅仅依靠最初的本能，猎杀一切靠近的来者…"
+        },
+        "TextMapId": "UI_ACTIVITY_MONSTER_LAVATITAN",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_NAME": {
+        "TextMapContentTextMapHash": {
+            "hash": 2661706937,
+            "CHS": "无极限超激格斗赛"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_NAME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_ACHIEVEMENT": {
+        "TextMapContentTextMapHash": {
+            "hash": 3613693881,
+            "CHS": "最高击穿数"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_ACHIEVEMENT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_ACHIEVEMENT_CLEAR": {
+        "TextMapContentTextMapHash": {
+            "hash": 868658500,
+            "CHS": "已完全击破"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_ACHIEVEMENT_CLEAR",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_ACHIEVEMENT_NUM": {
+        "TextMapContentTextMapHash": {
+            "hash": 165836124,
+            "CHS": "×{0}"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_ACHIEVEMENT_NUM",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_RECORD_RESET_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 2281274500,
+            "CHS": "重置挑战进度不会影响最佳纪录。在重置后，将放弃当前关卡的挑战进度，从头开始。"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_RECORD_RESET_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_BOSS": {
+        "TextMapContentTextMapHash": {
+            "hash": 617870033,
+            "CHS": "对决强敌"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_BOSS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_DIFFICULTY1": {
+        "TextMapContentTextMapHash": {
+            "hash": 2393707921,
+            "CHS": "普通"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_DIFFICULTY1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_DIFFICULTY2": {
+        "TextMapContentTextMapHash": {
+            "hash": 1951837409,
+            "CHS": "困难"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_DIFFICULTY2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_DIFFICULTY3": {
+        "TextMapContentTextMapHash": {
+            "hash": 1498496873,
+            "CHS": "绝境"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_DIFFICULTY3",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_DIFFICULTY_HINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 3979159205,
+            "CHS": "不同难度下对手的强度不同，最高能够达成的奖牌也不同"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_DIFFICULTY_HINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_MONSTER_LIST": {
+        "TextMapContentTextMapHash": {
+            "hash": 3020367691,
+            "CHS": "主要战斗对手"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_MONSTER_LIST",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_LEVEL_HALF1": {
+        "TextMapContentTextMapHash": {
+            "hash": 3297171302,
+            "CHS": "上半场"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_LEVEL_HALF1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_LEVEL_HALF2": {
+        "TextMapContentTextMapHash": {
+            "hash": 3619583550,
+            "CHS": "下半场"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_LEVEL_HALF2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_BOSS_HP_COUNT": {
+        "TextMapContentTextMapHash": {
+            "hash": 694152279,
+            "CHS": "强敌生命值×{0}"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_BOSS_HP_COUNT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_LEVEL_MEDAL": {
+        "TextMapContentTextMapHash": {
+            "hash": 3720504838,
+            "CHS": "该难度可达成最高奖牌及对应条件"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_LEVEL_MEDAL",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_LEVEL_WATCHER": {
+        "TextMapContentTextMapHash": {
+            "hash": 3989143078,
+            "CHS": "击穿强敌生命值{0}次"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_LEVEL_WATCHER",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_CHALLENGE_GOAL_1": {
+        "TextMapContentTextMapHash": {
+            "hash": 371236707,
+            "CHS": "上半场：提升支持率，为下半场的战斗获得可叠加的增益。"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_CHALLENGE_GOAL_1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_CHALLENGE_GOAL_2": {
+        "TextMapContentTextMapHash": {
+            "hash": 2517512763,
+            "CHS": "下半场：利用增益效果在限定时间内尽可能多地击穿强敌生命值。"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_CHALLENGE_GOAL_2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_RECORD_RESET_TITLE_CHANGE": {
+        "TextMapContentTextMapHash": {
+            "hash": 637311707,
+            "CHS": "重置挑战进度"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_RECORD_RESET_TITLE_CHANGE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_NEED_RESET": {
+        "TextMapContentTextMapHash": {
+            "hash": 3189748283,
+            "CHS": "重置配置后，可重新选择参与上半场战斗的角色"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_NEED_RESET",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_AVATAR_ON_OTHER_TEAM": {
+        "TextMapContentTextMapHash": {
+            "hash": 130652448,
+            "CHS": "该角色已被编入其他队伍，是否替换至当前队伍？"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_AVATAR_ON_OTHER_TEAM",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_HALF_FINISH": {
+        "TextMapContentTextMapHash": {
+            "hash": 3484947899,
+            "CHS": "上半场挑战已完成"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_HALF_FINISH",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_HALF_RECORD": {
+        "TextMapContentTextMapHash": {
+            "hash": 4294488123,
+            "CHS": "阶段赛绩"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_HALF_RECORD",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_BUFF": {
+        "TextMapContentTextMapHash": {
+            "hash": 675553169,
+            "CHS": "增益详情"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_BUFF",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_HALF_RETRY": {
+        "TextMapContentTextMapHash": {
+            "hash": 3906626035,
+            "CHS": "重新尝试"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_HALF_RETRY",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_TEAM_RETRY": {
+        "TextMapContentTextMapHash": {
+            "hash": 3951620479,
+            "CHS": "重新配置队伍"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_TEAM_RETRY",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_HALF_GOTO": {
+        "TextMapContentTextMapHash": {
+            "hash": 1756366267,
+            "CHS": "继续挑战"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_HALF_GOTO",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_RESULT": {
+        "TextMapContentTextMapHash": {
+            "hash": 2734233817,
+            "CHS": "击穿强敌生命值次数"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_RESULT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_NEW_RECORD": {
+        "TextMapContentTextMapHash": {
+            "hash": 269985711,
+            "CHS": "新纪录"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_NEW_RECORD",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_RETRY_TIPS": {
+        "TextMapContentTextMapHash": {
+            "hash": 3858995758,
+            "CHS": "选择「重新挑战」将从上半场重新开始。\n选择「重试本场」则将在继承上半场支持率等级的情况下，重新挑战下半场的战斗。"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_RETRY_TIPS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_RETRY_CHOOSE1": {
+        "TextMapContentTextMapHash": {
+            "hash": 3290612982,
+            "CHS": "重新挑战"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_RETRY_CHOOSE1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_RETRY_CHOOSE2": {
+        "TextMapContentTextMapHash": {
+            "hash": 3009398846,
+            "CHS": "重试本场"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_RETRY_CHOOSE2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_GOTO_BATTLE_2": {
+        "TextMapContentTextMapHash": {
+            "hash": 4212411048,
+            "CHS": "下半场即将开幕"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_GOTO_BATTLE_2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_RECORD_TIPS": {
+        "TextMapContentTextMapHash": {
+            "hash": 381379035,
+            "CHS": "已继承上一次上半场的试炼结果，可继续或重置挑战"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_RECORD_TIPS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_HOMEWORLD_LOCK": {
+        "TextMapContentTextMapHash": {
+            "hash": 2950647179,
+            "CHS": "所处地区特殊，暂时无法开启"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_HOMEWORLD_LOCK",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_SCORE_RECORD": {
+        "TextMapContentTextMapHash": {
+            "hash": 2305559551,
+            "CHS": "挑战赛绩"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_SCORE_RECORD",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_METAL_1": {
+        "TextMapContentTextMapHash": {
+            "hash": 2263102618,
+            "CHS": "困难难度及以上可达成"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_METAL_1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_METAL_2": {
+        "TextMapContentTextMapHash": {
+            "hash": 3808602898,
+            "CHS": "绝境难度可达成"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_METAL_2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_EXIT_TIPS": {
+        "TextMapContentTextMapHash": {
+            "hash": 2975172474,
+            "CHS": "是否退出挑战并以当前成绩结算？"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_EXIT_TIPS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_LEVEL3_HINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 434182109,
+            "CHS": "击倒敌人将持续恢复生命值"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_LEVEL3_HINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANARENA_LEVEL3_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 1047656597,
+            "CHS": "地脉异常：队伍中所有角色被施加「侵蚀」状态，持续损失生命值。在<color=#FFCC33>击倒敌人</color>后的一段时间内，角色每秒将恢复生命值上限<color=#FFCC33>3</color>%的生命值，此效果持续<color=#FFCC33>5</color>秒。"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANARENA_LEVEL3_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_RECORD_TIME": {
+        "TextMapContentTextMapHash": {
+            "hash": 554991087,
+            "CHS": "最短用时"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_RECORD_TIME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_RECORD_WAVE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1258677127,
+            "CHS": "最多击退波次"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_RECORD_WAVE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1269212734,
+            "CHS": "荣花演武"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_MAPMARK_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 4181374032,
+            "CHS": "荣花竞捷之争·荣花演武"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_MAPMARK_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_MAPMARK_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 1169744800,
+            "CHS": "荣花演武的主会场，在其内可以选择参加「进攻战」或「守备战」，以学习验证不同情景下的战术。"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_MAPMARK_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_INTERACT": {
+        "TextMapContentTextMapHash": {
+            "hash": 4227483886,
+            "CHS": "荣花演武"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_INTERACT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_BUFF": {
+        "TextMapContentTextMapHash": {
+            "hash": 3600845278,
+            "CHS": "演武情景"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_BUFF",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_ROLE_REQUIRE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1178159033,
+            "CHS": "<color=#CA6445FF>{0}</color>必须在本次演武中出战"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_ROLE_REQUIRE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_ROLE_MISSED": {
+        "TextMapContentTextMapHash": {
+            "hash": 3131873793,
+            "CHS": "<color=#CA6445FF>{0}</color>必须在本次演武中出战"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_ROLE_MISSED",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_RULEDETAIL_TAB_BASIC": {
+        "TextMapContentTextMapHash": {
+            "hash": 197589893,
+            "CHS": "演武规则"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_RULEDETAIL_TAB_BASIC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_RULEDETAIL_TAB_SPECIAL": {
+        "TextMapContentTextMapHash": {
+            "hash": 2194462397,
+            "CHS": "部族挑战规则"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_RULEDETAIL_TAB_SPECIAL",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_RULEDETAIL_TAB_MONSTER": {
+        "TextMapContentTextMapHash": {
+            "hash": 2148018565,
+            "CHS": "敌人详情"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_RULEDETAIL_TAB_MONSTER",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_ENEMYHEALTH": {
+        "TextMapContentTextMapHash": {
+            "hash": 3977728569,
+            "CHS": "剩余结界层数：{0}"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_ENEMYHEALTH",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_TARGET_MAIN": {
+        "TextMapContentTextMapHash": {
+            "hash": 1496123500,
+            "CHS": "完成挑战"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_TARGET_MAIN",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_LAUNCHFIRE": {
+        "TextMapContentTextMapHash": {
+            "hash": 961105145,
+            "CHS": "使用仪式道具"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_LAUNCHFIRE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_TAKEHOLD": {
+        "TextMapContentTextMapHash": {
+            "hash": 2316657137,
+            "CHS": "占领据点"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_TAKEHOLD",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_FIRE_READY": {
+        "TextMapContentTextMapHash": {
+            "hash": 3956581130,
+            "CHS": "仪式道具已就绪，尽快前往使用"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_FIRE_READY",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_AREA_OUT": {
+        "TextMapContentTextMapHash": {
+            "hash": 1032101659,
+            "CHS": "即将离开挑战区域"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_AREA_OUT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_SNEAK": {
+        "TextMapContentTextMapHash": {
+            "hash": 4162056,
+            "CHS": "己方据点被占领"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_SNEAK",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_BREAK": {
+        "TextMapContentTextMapHash": {
+            "hash": 332867232,
+            "CHS": "仪式道具已就绪"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_BREAK",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_SPECIAL": {
+        "TextMapContentTextMapHash": {
+            "hash": 4028643256,
+            "CHS": "部族挑战已出现"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_SPECIAL",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_POINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 1969687938,
+            "CHS": "已占领据点"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_POINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_STRONGHOLD_EVENT1": {
+        "TextMapContentTextMapHash": {
+            "hash": 3426774965,
+            "CHS": "突发事件·其一"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_STRONGHOLD_EVENT1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_STRONGHOLD_EVENT2": {
+        "TextMapContentTextMapHash": {
+            "hash": 1010677,
+            "CHS": "突发事件·其二"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_STRONGHOLD_EVENT2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_STRONGHOLD_EVENT3": {
+        "TextMapContentTextMapHash": {
+            "hash": 1404639133,
+            "CHS": "突发事件·其三"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_HINT_STRONGHOLD_EVENT3",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_SUPPLY_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1080461990,
+            "CHS": "TEST物资需求"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_SUPPLY_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_SUPPLY_NEED": {
+        "TextMapContentTextMapHash": {
+            "hash": 2895962166,
+            "CHS": "TEST所需物资"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_SUPPLY_NEED",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_FAIL_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 2437835133,
+            "CHS": "通过占领据点、完成突发事件以夺取演武的胜利"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_FAIL_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_DEF_FAIL_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 1500414939,
+            "CHS": "保护旗帜，小心敌人的进攻"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_DEF_FAIL_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_CANNON_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1746170646,
+            "CHS": "仪式道具"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_CANNON_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_CANNON_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 2579976542,
+            "CHS": "由「烟谜主」提供的特殊仪式道具，可以发射出醒目的能量束，用以在演武中模拟各种大型兵器的攻击。"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_CANNON_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_CAMP_TAKE_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1705229168,
+            "CHS": "占领据点"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_CAMP_TAKE_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_CAMP_BUFFHINT1": {
+        "TextMapContentTextMapHash": {
+            "hash": 1570072603,
+            "CHS": "进攻方占有据点时，可获得如下增益："
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_CAMP_BUFFHINT1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_CAMP_BUFFHINT2": {
+        "TextMapContentTextMapHash": {
+            "hash": 1513419739,
+            "CHS": "已生效增益："
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_CAMP_BUFFHINT2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_CAMP_TAKEHINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 1271530419,
+            "CHS": "所需物资"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_CAMP_TAKEHINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_EVENT_REWARD": {
+        "TextMapContentTextMapHash": {
+            "hash": 3995768817,
+            "CHS": "完成事件后可获得"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_MAP_EVENT_REWARD",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_NUM": {
+        "TextMapContentTextMapHash": {
+            "hash": 1475878305,
+            "CHS": "<color=#FF5E41>{0}</color>/{1}"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_COMBAT_OFF_NUM",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1409539806,
+            "CHS": "谜烟之邀"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_FRAME_STORY_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 293007813,
+            "CHS": "救助小龙"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_FRAME_STORY_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_FRAME_CONTENT_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 2650572965,
+            "CHS": "演武诸事"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_FRAME_CONTENT_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_COND": {
+        "TextMapContentTextMapHash": {
+            "hash": 771526022,
+            "CHS": "邀请条件"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_COND",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_PREVIEW": {
+        "TextMapContentTextMapHash": {
+            "hash": 11726054,
+            "CHS": "角色预览"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_PREVIEW",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_BUTTON": {
+        "TextMapContentTextMapHash": {
+            "hash": 550922270,
+            "CHS": "邀请角色"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_BUTTON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_COND_HINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 2795480900,
+            "CHS": "未满足条件"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_COND_HINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_FINISHED": {
+        "TextMapContentTextMapHash": {
+            "hash": 3679979526,
+            "CHS": "已邀请"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_FRAME_CHARAINVITE_FINISHED",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_FRAME_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3551305900,
+            "CHS": "荣花竞捷之争"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_FRAME_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3331056126,
+            "CHS": "龙龙寻宝"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_STARTCHALLENGE": {
+        "TextMapContentTextMapHash": {
+            "hash": 759932094,
+            "CHS": "开始挑战"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_STARTCHALLENGE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_BESTNUM": {
+        "TextMapContentTextMapHash": {
+            "hash": 3762385918,
+            "CHS": "最高收集宝物记录"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_BESTNUM",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_BESTHP": {
+        "TextMapContentTextMapHash": {
+            "hash": 1414827430,
+            "CHS": "最高剩余活力值"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_BESTHP",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_STARTHINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 925282102,
+            "CHS": "选择前进方向"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_STARTHINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LEVELDETAILS": {
+        "TextMapContentTextMapHash": {
+            "hash": 3374271958,
+            "CHS": "挑战详情"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LEVELDETAILS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_CHARALIST": {
+        "TextMapContentTextMapHash": {
+            "hash": 1585686918,
+            "CHS": "我方阵容"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_CHARALIST",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LEVELITEMS": {
+        "TextMapContentTextMapHash": {
+            "hash": 2071819638,
+            "CHS": "关卡布设"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LEVELITEMS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LEVELINFO": {
+        "TextMapContentTextMapHash": {
+            "hash": 4288399222,
+            "CHS": "挑战详情"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LEVELINFO",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_GUIDE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1598719526,
+            "CHS": "玩法教学"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_GUIDE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_COLLECTEDNUM": {
+        "TextMapContentTextMapHash": {
+            "hash": 1826353574,
+            "CHS": "已收集"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_COLLECTEDNUM",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_COLLECTEDBOX": {
+        "TextMapContentTextMapHash": {
+            "hash": 3071287174,
+            "CHS": "开启宝箱数"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_COLLECTEDBOX",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_ADD": {
+        "TextMapContentTextMapHash": {
+            "hash": 2147651006,
+            "CHS": "+{0}"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_ADD",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_REMOVE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1336625150,
+            "CHS": "-{0}"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_REMOVE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_PROGRESS": {
+        "TextMapContentTextMapHash": {
+            "hash": 2463376846,
+            "CHS": "{0}/{1}"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_PROGRESS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_QUITCHALLENGE": {
+        "TextMapContentTextMapHash": {
+            "hash": 390630118,
+            "CHS": "退出并结算"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_QUITCHALLENGE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LANDTOSEA": {
+        "TextMapContentTextMapHash": {
+            "hash": 1384716614,
+            "CHS": "潮水上涨，部分陆地被淹没…"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LANDTOSEA",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SEATOLAND": {
+        "TextMapContentTextMapHash": {
+            "hash": 3833047318,
+            "CHS": "潮水退去，被淹没的陆地已恢复正常…"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SEATOLAND",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LANDTOSEA_NOTICE": {
+        "TextMapContentTextMapHash": {
+            "hash": 300314689,
+            "CHS": "{0}秒后将涨潮"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LANDTOSEA_NOTICE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SEATOLAND_NOTICE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3653856074,
+            "CHS": "{0}秒后将退潮"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SEATOLAND_NOTICE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_MAPMARK_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1042955481,
+            "CHS": "荣花竞捷之争·龙龙寻宝"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_MAPMARK_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_MAPMARK_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 1350716321,
+            "CHS": "寻找「海风草」的小队已然出发，不过，还有些热情但不理解「海风草」为何物的小龙想要帮忙。为了不辜负这些小龙的热情，大家还是决定让这些小龙出发远征，去搜觅自己眼中的宝物…"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_MAPMARK_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SNEAK_TARGET": {
+        "TextMapContentTextMapHash": {
+            "hash": 733152412,
+            "CHS": "剩余活力值"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SNEAK_TARGET",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_COLLECT_TARGET": {
+        "TextMapContentTextMapHash": {
+            "hash": 4133678109,
+            "CHS": "收集宝物数量"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_COLLECT_TARGET",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SNEAK_FAILREASON": {
+        "TextMapContentTextMapHash": {
+            "hash": 1258058180,
+            "CHS": "留意敌人的视野，避免被敌人发现！"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SNEAK_FAILREASON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_QUITNOTICE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3897958742,
+            "CHS": "是否确认退出？"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_QUITNOTICE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_DEFAULTVIEW": {
+        "TextMapContentTextMapHash": {
+            "hash": 2097780790,
+            "CHS": "视角回正"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_DEFAULTVIEW",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SWITCH_CD": {
+        "TextMapContentTextMapHash": {
+            "hash": 3342899041,
+            "CHS": "切换小龙正在冷却中"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SWITCH_CD",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_OPEN_HINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 2667334260,
+            "CHS": "荣花竞捷之争·已开启"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_OPEN_HINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SWITCH_POINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 3638665505,
+            "CHS": "切换路径点"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_SWITCH_POINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LOCKCOND": {
+        "TextMapContentTextMapHash": {
+            "hash": 4192359710,
+            "CHS": "在前置关卡中获得赤铜评价后解锁"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_LOCKCOND",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_CAMERA_HINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 3946738802,
+            "CHS": "拖动视角"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_CAMERA_HINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_DIRECTION_HINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 3765490819,
+            "CHS": "<color=#F39000>点击路口箭头</color>以规划小龙行进路线"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_DIRECTION_HINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_TIMELIMIT": {
+        "TextMapContentTextMapHash": {
+            "hash": 1627091950,
+            "CHS": "限定时间内收集所有宝物箱"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_TIMELIMIT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_ACCELERATION": {
+        "TextMapContentTextMapHash": {
+            "hash": 521211750,
+            "CHS": "点击以加速"
+        },
+        "TextMapId": "UI_ACTIVITY_NATLANDRILL_DRUGCOLLECT_ACCELERATION",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_THEME_POINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 604420841,
+            "CHS": "当前阶段可获得"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_THEME_POINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_THEME_POINT1": {
+        "TextMapContentTextMapHash": {
+            "hash": 2284712777,
+            "CHS": "{0}/{1}"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_THEME_POINT1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_THEME_POINT2": {
+        "TextMapContentTextMapHash": {
+            "hash": 3031741585,
+            "CHS": "{0}后解锁「奇逸本领点」上限至{1}"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_THEME_POINT2",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_NAME": {
+        "TextMapContentTextMapHash": {
+            "hash": 1433890452,
+            "CHS": "奇逸角技隆隆擂台"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_NAME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_ITEM": {
+        "TextMapContentTextMapHash": {
+            "hash": 1413199497,
+            "CHS": "本关奇逸道具"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_ITEM",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_REWARD": {
+        "TextMapContentTextMapHash": {
+            "hash": 2621591689,
+            "CHS": "首次通过试炼后可领取"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_REWARD",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_FINISH": {
+        "TextMapContentTextMapHash": {
+            "hash": 2162057017,
+            "CHS": "已达成"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_FINISH",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_POINT_FINISH": {
+        "TextMapContentTextMapHash": {
+            "hash": 1247071294,
+            "CHS": "当前阶段可获得"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_POINT_FINISH",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_POINT_TOTAL": {
+        "TextMapContentTextMapHash": {
+            "hash": 1531327998,
+            "CHS": "{0}/{1}"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_POINT_TOTAL",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_POINT_DAY": {
+        "TextMapContentTextMapHash": {
+            "hash": 2857508310,
+            "CHS": "{0}后解锁「奇逸本领点」上限至{1}"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_POINT_DAY",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_REWARD": {
+        "TextMapContentTextMapHash": {
+            "hash": 2673441492,
+            "CHS": "试炼奖励"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_REWARD",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_MATE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3349746260,
+            "CHS": "匹配挑战"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_MATE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_LOCK": {
+        "TextMapContentTextMapHash": {
+            "hash": 1631987801,
+            "CHS": "尚未解锁"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_LOCK",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_LOCKTIME": {
+        "TextMapContentTextMapHash": {
+            "hash": 2366023849,
+            "CHS": "{0}天后解锁"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_LOCKTIME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_LOCKSTAGE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3795680953,
+            "CHS": "突破前置挑战后解锁"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_LOCKSTAGE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_POINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 3085286249,
+            "CHS": "积分说明"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_POINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_CHAR": {
+        "TextMapContentTextMapHash": {
+            "hash": 4154319969,
+            "CHS": "试用角色"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_CHAR",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_RANDOM_LOADING": {
+        "TextMapContentTextMapHash": {
+            "hash": 3491800808,
+            "CHS": "加载中"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_RANDOM_LOADING",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_BIG_ITEM": {
+        "TextMapContentTextMapHash": {
+            "hash": 3360350073,
+            "CHS": "强力道具"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_BIG_ITEM",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_REWARD_NOTDONE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3417379921,
+            "CHS": "将根据被选中的挑战匹配试用角色"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_REWARD_NOTDONE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_LOADING": {
+        "TextMapContentTextMapHash": {
+            "hash": 3585798217,
+            "CHS": "挑战选择中…"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_LOADING",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_WAITING": {
+        "TextMapContentTextMapHash": {
+            "hash": 4268781713,
+            "CHS": "等待所有玩家就位"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_WAITING",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_OVER": {
+        "TextMapContentTextMapHash": {
+            "hash": 1315403537,
+            "CHS": "挑战完成"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_OVER",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_ENDTIME": {
+        "TextMapContentTextMapHash": {
+            "hash": 2584919833,
+            "CHS": "{0}秒后继续"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_ENDTIME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_BACK": {
+        "TextMapContentTextMapHash": {
+            "hash": 3791655889,
+            "CHS": "将返回游戏开始前的位置"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_BACK",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_GETPOINT": {
+        "TextMapContentTextMapHash": {
+            "hash": 1387610337,
+            "CHS": "奇逸本领点"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_GETPOINT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_RANDOMTIPS": {
+        "TextMapContentTextMapHash": {
+            "hash": 4255375505,
+            "CHS": "将根据被选中的挑战匹配试用角色"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_RANDOMTIPS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_STAGE_GOAL": {
+        "TextMapContentTextMapHash": {
+            "hash": 1485517345,
+            "CHS": "你击中了<color=#FFCC33>{0}</color>"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_STAGE_GOAL",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_BIG_ITEM1": {
+        "TextMapContentTextMapHash": {
+            "hash": 2197177577,
+            "CHS": "将根据被选中的挑战匹配试用角色"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_BIG_ITEM1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_POINT_MAX": {
+        "TextMapContentTextMapHash": {
+            "hash": 3838166230,
+            "CHS": "可获得的「奇逸本领点」上限已全部解锁"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_POINT_MAX",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_ROOM_BOOM": {
+        "TextMapContentTextMapHash": {
+            "hash": 2199749124,
+            "CHS": "剩余挑战玩家不足，即将返回自己的游戏进度"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_ROOM_BOOM",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_MAX_COIN": {
+        "TextMapContentTextMapHash": {
+            "hash": 1681919921,
+            "CHS": "本关最高冒险币数量：{0}"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_MAX_COIN",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_JM_NO_COIN": {
+        "TextMapContentTextMapHash": {
+            "hash": 1226189743,
+            "CHS": "暂无挑战记录"
+        },
+        "TextMapId": "UI_ACTIVITY_JM_NO_COIN",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_PREVIEW_RULE_BUTTON": {
+        "TextMapContentTextMapHash": {
+            "hash": 3215988353,
+            "CHS": "玩法规则"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_PREVIEW_RULE_BUTTON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_PREVIEW_LAST_QUEST": {
+        "TextMapContentTextMapHash": {
+            "hash": 1474702363,
+            "CHS": "后日谈"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_PREVIEW_LAST_QUEST",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_PREVIEW_ENTER_BUTTON": {
+        "TextMapContentTextMapHash": {
+            "hash": 475317798,
+            "CHS": "活动详情"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_PREVIEW_ENTER_BUTTON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_MAIN_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 1510216267,
+            "CHS": "节拍撞球·梅兹特利篇"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_MAIN_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_MAIN_BOSS_INFO": {
+        "TextMapContentTextMapHash": {
+            "hash": 3471989552,
+            "CHS": "节拍首领详情"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_MAIN_BOSS_INFO",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_MAIN_RULE_BUTTON": {
+        "TextMapContentTextMapHash": {
+            "hash": 19685186,
+            "CHS": "玩法规则"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_MAIN_RULE_BUTTON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_MAIN_GOTO_BUTTON": {
+        "TextMapContentTextMapHash": {
+            "hash": 1842927031,
+            "CHS": "前往游玩"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_MAIN_GOTO_BUTTON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_MAIN_SCORE_NONE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3671974628,
+            "CHS": "尚未挑战"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_MAIN_SCORE_NONE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_MAIN_SCORE_SHOW": {
+        "TextMapContentTextMapHash": {
+            "hash": 4054772964,
+            "CHS": "最高得分"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_MAIN_SCORE_SHOW",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_WORLD_MARK_NAME": {
+        "TextMapContentTextMapHash": {
+            "hash": 1139402156,
+            "CHS": "节拍撞球·梅兹特利篇"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_WORLD_MARK_NAME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_WORLD_MARK_DESC": {
+        "TextMapContentTextMapHash": {
+            "hash": 2807499444,
+            "CHS": "「流泉之众」举办特殊「音乐派对」的现场，借助希诺宁的力量，在此安设了「热舞乐台」。宽敞的舞台足以让客人们尽情施展，通过玛拉妮和瑞希一同设计的「节拍撞球」，将烦恼统统打飞…"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_WORLD_MARK_DESC",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_CHALLENGE_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 2943219548,
+            "CHS": "特别挑战"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_CHALLENGE_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_SELECT_AVATAR": {
+        "TextMapContentTextMapHash": {
+            "hash": 2848935841,
+            "CHS": "选择角色"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_SELECT_AVATAR",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_ENTER_BUTTON": {
+        "TextMapContentTextMapHash": {
+            "hash": 3728955531,
+            "CHS": "开始挑战"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_ENTER_BUTTON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_INSIDE_SCORE_SHOW": {
+        "TextMapContentTextMapHash": {
+            "hash": 4104875322,
+            "CHS": "当前得分"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_INSIDE_SCORE_SHOW",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_INSIDE_COMBO_SHOW": {
+        "TextMapContentTextMapHash": {
+            "hash": 1471817892,
+            "CHS": "连击数"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_INSIDE_COMBO_SHOW",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_INSIDE_BALL_SHOW": {
+        "TextMapContentTextMapHash": {
+            "hash": 2485432712,
+            "CHS": "备用球"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_INSIDE_BALL_SHOW",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_SUCCESS_TIME": {
+        "TextMapContentTextMapHash": {
+            "hash": 3018844321,
+            "CHS": "挑战用时"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_SUCCESS_TIME",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_SUCCESS_COMBO": {
+        "TextMapContentTextMapHash": {
+            "hash": 3286974913,
+            "CHS": "最高连击"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_SUCCESS_COMBO",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_SUCCESS_SCORE_SHOW": {
+        "TextMapContentTextMapHash": {
+            "hash": 1565620561,
+            "CHS": "得分"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_SUCCESS_SCORE_SHOW",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_SUCCESS_BOSS_SCORE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3230974565,
+            "CHS": "打击首领得分"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_SUCCESS_BOSS_SCORE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_SUCCESS_TIME_SCORE": {
+        "TextMapContentTextMapHash": {
+            "hash": 2086228776,
+            "CHS": "用时得分"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_SUCCESS_TIME_SCORE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_FAIL_TIPS": {
+        "TextMapContentTextMapHash": {
+            "hash": 1596277839,
+            "CHS": "合理运用元素反应，可以更高效地摧毁砖块"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_FAIL_TIPS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_THEME_TITLE": {
+        "TextMapContentTextMapHash": {
+            "hash": 3585757802,
+            "CHS": "攻略技巧"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_THEME_TITLE",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_AVATAR_ESSENTIAL": {
+        "TextMapContentTextMapHash": {
+            "hash": 908387072,
+            "CHS": "需要元素"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_AVATAR_ESSENTIAL",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_AVATAR_DEFAULT": {
+        "TextMapContentTextMapHash": {
+            "hash": 4187202832,
+            "CHS": "上阵角色"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_AVATAR_DEFAULT",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_GUIDE_BUTTON": {
+        "TextMapContentTextMapHash": {
+            "hash": 1915672730,
+            "CHS": "点击查看玩法规则"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_GUIDE_BUTTON",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_SELECT_FAIL_TIPS": {
+        "TextMapContentTextMapHash": {
+            "hash": 2521287627,
+            "CHS": "未满足上阵元素要求"
+        },
+        "TextMapId": "UI_ACTIVITY_BRICKBREAKERV2_LEVEL_SELECT_FAIL_TIPS",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_21765": {
+        "TextMapContentTextMapHash": {
+            "hash": 3934672084,
+            "CHS": "？？？"
+        },
+        "TextMapId": "NPC_EXPNAME_21765",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_21766": {
+        "TextMapContentTextMapHash": {
+            "hash": 3118177004,
+            "CHS": "？？？"
+        },
+        "TextMapId": "NPC_EXPNAME_21766",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_21767": {
+        "TextMapContentTextMapHash": {
+            "hash": 3626824036,
+            "CHS": "？？？"
+        },
+        "TextMapId": "NPC_EXPNAME_21767",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_21768": {
+        "TextMapContentTextMapHash": {
+            "hash": 79213644,
+            "CHS": "？？？"
+        },
+        "TextMapId": "NPC_EXPNAME_21768",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_21769": {
+        "TextMapContentTextMapHash": {
+            "hash": 2257573268,
+            "CHS": "？？？"
+        },
+        "TextMapId": "NPC_EXPNAME_21769",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_21791": {
+        "TextMapContentTextMapHash": {
+            "hash": 652311716,
+            "CHS": "？？？"
+        },
+        "TextMapId": "NPC_EXPNAME_21791",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_21800": {
+        "TextMapContentTextMapHash": {
+            "hash": 1317011804,
+            "CHS": "「阿玛鲁」"
+        },
+        "TextMapId": "NPC_EXPNAME_21800",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_21805": {
+        "TextMapContentTextMapHash": {
+            "hash": 590226508,
+            "CHS": "「阿万尤」"
+        },
+        "TextMapId": "NPC_EXPNAME_21805",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_21813": {
+        "TextMapContentTextMapHash": {
+            "hash": 904693052,
+            "CHS": "秘源龙仆"
+        },
+        "TextMapId": "NPC_EXPNAME_21813",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_21881": {
+        "TextMapContentTextMapHash": {
+            "hash": 1889040860,
+            "CHS": "幼小的嵴锋龙"
+        },
+        "TextMapId": "NPC_EXPNAME_21881",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_6344": {
+        "TextMapContentTextMapHash": {
+            "hash": 783600428,
+            "CHS": "莉娜夏"
+        },
+        "TextMapId": "NPC_EXPNAME_6344",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_6388": {
+        "TextMapContentTextMapHash": 3789618860,
+        "TextMapId": "NPC_EXPNAME_6388",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_6391": {
+        "TextMapContentTextMapHash": 4191899764,
+        "TextMapId": "NPC_EXPNAME_6391",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_6394": {
+        "TextMapContentTextMapHash": 2129205964,
+        "TextMapId": "NPC_EXPNAME_6394",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_6431": {
+        "TextMapContentTextMapHash": 3812692228,
+        "TextMapId": "NPC_EXPNAME_6431",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_EXPNAME_6471": {
+        "TextMapContentTextMapHash": {
+            "hash": 1353498324,
+            "CHS": "秘源龙仆"
+        },
+        "TextMapId": "NPC_EXPNAME_6471",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_30802": {
+        "TextMapContentTextMapHash": {
+            "hash": 3645707097,
+            "CHS": "控碟乐师"
+        },
+        "TextMapId": "NPC_TITLE_30802",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6305": {
+        "TextMapContentTextMapHash": {
+            "hash": 1850624561,
+            "CHS": "「沃陆之邦」首领"
+        },
+        "TextMapId": "NPC_TITLE_6305",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6328": {
+        "TextMapContentTextMapHash": {
+            "hash": 1589720649,
+            "CHS": "「沃陆之邦」训练大师"
+        },
+        "TextMapId": "NPC_TITLE_6328",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6382": {
+        "TextMapContentTextMapHash": {
+            "hash": 1102261593,
+            "CHS": "物资管理人"
+        },
+        "TextMapId": "NPC_TITLE_6382",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6383": {
+        "TextMapContentTextMapHash": {
+            "hash": 107735121,
+            "CHS": "「飞行队」成员"
+        },
+        "TextMapId": "NPC_TITLE_6383",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6385": {
+        "TextMapContentTextMapHash": {
+            "hash": 1800662545,
+            "CHS": "火山警备员"
+        },
+        "TextMapId": "NPC_TITLE_6385",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6386": {
+        "TextMapContentTextMapHash": {
+            "hash": 1093848977,
+            "CHS": "「涂鸦联盟」成员"
+        },
+        "TextMapId": "NPC_TITLE_6386",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6387": {
+        "TextMapContentTextMapHash": {
+            "hash": 1949689649,
+            "CHS": "信使"
+        },
+        "TextMapId": "NPC_TITLE_6387",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6392": {
+        "TextMapContentTextMapHash": {
+            "hash": 52260641,
+            "CHS": "冒险家"
+        },
+        "TextMapId": "NPC_TITLE_6392",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6393": {
+        "TextMapContentTextMapHash": {
+            "hash": 2634121993,
+            "CHS": "厨师"
+        },
+        "TextMapId": "NPC_TITLE_6393",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6395": {
+        "TextMapContentTextMapHash": {
+            "hash": 712666857,
+            "CHS": "健身教练"
+        },
+        "TextMapId": "NPC_TITLE_6395",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6396": {
+        "TextMapContentTextMapHash": {
+            "hash": 2100022401,
+            "CHS": "健身学员"
+        },
+        "TextMapId": "NPC_TITLE_6396",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6397": {
+        "TextMapContentTextMapHash": {
+            "hash": 2965563425,
+            "CHS": "健身学员"
+        },
+        "TextMapId": "NPC_TITLE_6397",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6398": {
+        "TextMapContentTextMapHash": {
+            "hash": 4001997545,
+            "CHS": "健身学员"
+        },
+        "TextMapId": "NPC_TITLE_6398",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6423": {
+        "TextMapContentTextMapHash": {
+            "hash": 1565490281,
+            "CHS": "「沃陆之邦」训练大师"
+        },
+        "TextMapId": "NPC_TITLE_6423",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6428": {
+        "TextMapContentTextMapHash": {
+            "hash": 2054494201,
+            "CHS": "摔角裁判"
+        },
+        "TextMapId": "NPC_TITLE_6428",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6429": {
+        "TextMapContentTextMapHash": {
+            "hash": 3712043945,
+            "CHS": "健康饮品商人"
+        },
+        "TextMapId": "NPC_TITLE_6429",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6431": {
+        "TextMapContentTextMapHash": {
+            "hash": 1932817033,
+            "CHS": "健身器材商人"
+        },
+        "TextMapId": "NPC_TITLE_6431",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6431_1": {
+        "TextMapContentTextMapHash": 2844156747,
+        "TextMapId": "NPC_TITLE_6431_1",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6432": {
+        "TextMapContentTextMapHash": {
+            "hash": 939073609,
+            "CHS": "铁匠"
+        },
+        "TextMapId": "NPC_TITLE_6432",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "NPC_TITLE_6451": {
+        "TextMapContentTextMapHash": {
+            "hash": 4228842017,
+            "CHS": "「沃陆之邦」训练大师"
+        },
+        "TextMapId": "NPC_TITLE_6451",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE",
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MGB_HOME_JOIN": {
+        "TextMapContentTextMapHash": {
+            "hash": 2699922729,
+            "CHS": "玩家 {0} 正在加入，加入后将自动收纳「千音雅集」"
+        },
+        "TextMapId": "UI_MGB_HOME_JOIN",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MGB_HOME_JOINED": {
+        "TextMapContentTextMapHash": {
+            "hash": 3641424161,
+            "CHS": "「千音雅集」已被自动收纳"
+        },
+        "TextMapId": "UI_MGB_HOME_JOINED",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MGB_MULTIPLAYER": {
+        "TextMapContentTextMapHash": {
+            "hash": 185151164,
+            "CHS": "当前处于多人游戏状态，不可使用"
+        },
+        "TextMapId": "UI_MGB_MULTIPLAYER",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MGB_MULTIPLAYER_SOLO": {
+        "TextMapContentTextMapHash": {
+            "hash": 2536075807,
+            "CHS": "当前处于多人游戏状态，不可使用"
+        },
+        "TextMapId": "UI_MGB_MULTIPLAYER_SOLO",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    "UI_MGB_HOME_FIRSTOPEN": {
+        "TextMapContentTextMapHash": {
+            "hash": 2672554185,
+            "CHS": "单人游戏状态下，可以在尘歌壶内游玩「千音雅集」。\n其他玩家访问尘歌壶时，将导致游玩中断。"
+        },
+        "TextMapId": "UI_MGB_HOME_FIRSTOPEN",
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    }
+}
