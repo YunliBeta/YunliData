@@ -323,7 +323,8 @@
             "Activity_StarFightActivity_08": [
                 "Activity_StarFightActivity_08_Main",
                 "Activity_StarFightActivity_08_DotDamage",
-                "Activity_StarFightActivity_08_DotTag",
+                "Activity_StarFightActivity_08_DotDamage_ToBeKill",
+                "Activity_StarFightActivity_08_InsertAimModifier",
                 "Activity_StarFightActivity_08_DotDamage_BeforKill"
             ],
             "Activity_StarFightActivity_08_AttackAbility": [
@@ -1442,6 +1443,7 @@
             "Avatar_Anaxa_00_Skill01_Phase02": [],
             "Avatar_Anaxa_00_Skill02_Phase01": [],
             "Avatar_Anaxa_00_Skill02_Phase02": [
+                "M_Anaxa_00_BPSkill_ModifyDamage",
                 "M_Anaxa_00_Skill02_HitMark",
                 "MAvatar_Anaxa_00_BPSkill_Buff"
             ],
@@ -1472,7 +1474,8 @@
                 "MAvatar_Anaxa_00_Rank01_FirstBP"
             ],
             "Avatar_Anaxa_00_Rank02": [
-                "MAvatar_Anaxa_00_Rank02"
+                "MAvatar_Anaxa_00_Rank02",
+                "M_Anaxa_00_Rank02_Buff_OnCharacterCreate"
             ],
             "Avatar_Anaxa_00_Rank06": [
                 "MAvatar_Anaxa_00_Rank06",
@@ -1838,7 +1841,6 @@
             "Avatar_Castorice_00_PassiveSkill_1": [
                 "MAvatar_Castorice_00_Passive",
                 "MAvatar_Castorice_00_Passive02_OnListenHPChange",
-                "MAvatar_Castorice_00_PointB3_Onlisten",
                 "MAvatar_Castorice_00_Rank04_Listen",
                 "MAvatar_Castorice_00_Rank06_OnListen"
             ],
@@ -1851,12 +1853,11 @@
             "MAvatar_Castorice_00_Skill03_Field",
             "MAvatar_Castorice_00_Skill03_AllDamageTypeResistance",
             "MAvatar_Castorice_00_Passive_AllDamageTypeAddedRatio",
-            "MServant_Castorice_PointB1_OnListen",
+            "MServant_Castorice_PointB2_OnListen",
             "MServant_Castorice_SpeedRatio",
-            "MAvatar_Castorice_00_PointB2_HealTaxes",
-            "MAvatar_Castorice_00_PointB2_HealTaxesListen",
+            "MAvatar_Castorice_00_PointB1_HealTaxes",
+            "MAvatar_Castorice_00_PointB1_HealTaxesListen",
             "MAvatar_Castorice_00_Rank01_AllDamageTypeAddedRatio",
-            "MAvatar_Castorice_00_Rank02_AllDamageTypeAddedRatio",
             "MAvatar_Castorice_00_Rank02_Check",
             "MAvatar_Castorice_00_Rank02_OnListenValueChange",
             "MAvatar_Castorice_00_Rank02_Count",
@@ -18020,8 +18021,8 @@
             "StageAbility_SetFullHP": [
                 "MStageAbility_SetFullHP"
             ],
-            "StageAbility_SetFullHPFirst": [
-                "MStageAbility_SetFullHPFirst"
+            "StageAbility_20423091": [
+                "MStageAbility_20423091"
             ],
             "StageAbility_0.8SP": [
                 "StageAbility_HalfSP_Modifier"
@@ -26199,6 +26200,7 @@
             "MMonster_W2_LycanKing_00_IF_ChampionHPEnhance",
             "MMonster_W2_LycanKing_00_IF_ChampionEnhanceHitMark",
             "MMonster_W2_LycanKing_00_IF_ChampionEnhanceForever",
+            "MMonster_W2_LycanKing_00_IF_ChampionEnhanceForeverStatus",
             "MMonster_W2_LycanKing_00_IF_ProtectWeaknessController",
             "MMonster_W2_LycanKing_00_IF_LycanDeathrattle",
             "MMonster_W2_LycanKing_00_IF_LycanLimboMark",
@@ -29487,14 +29489,15 @@
             "MServant_CastoriceServant_LoseHPPreShow",
             "MServant_CastoriceServant_OnListenHitDamageSplit",
             "MServant_CastoriceServant_HitDamageSplit",
+            "MServant_CastoriceServant_00_PointB3_Listen",
             "MServant_CastoriceServant_GoDie",
+            "MServant_CastoriceServant_InsideExplode",
             "MServant_CastoriceServant_Flag01",
             "MServant_CastoriceServant_BPCost_1",
             "MServant_CastoriceServant_BPCost_2",
             "MServant_CastoriceServant_BPCost_3",
             "MServant_CastoriceServant_Disable",
             "MServant_CastoriceServant_BP_Explode",
-            "MServant_CastoriceServant_Rank06_ListenHPRatio",
             "MServant_CastoriceServant_00_Skill23Check"
         ]
     },
@@ -29791,6 +29794,7 @@
         "Modifiers": [
             "ADV_StageAbility_Maze_Anaxa_00",
             "ADV_StageAbility_Anaxa_00_BeforeBattleFearListener",
+            "ADV_StageAbility_Anaxa_00_LineupAttackListener",
             "ADV_StageAbility_Anaxa_00_IgnoreWeakness"
         ]
     },
