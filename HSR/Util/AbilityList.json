@@ -1857,7 +1857,7 @@
             "MServant_Castorice_SpeedRatio",
             "MAvatar_Castorice_00_PointB1_HealTaxes",
             "MAvatar_Castorice_00_PointB1_HealTaxesListen",
-            "MAvatar_Castorice_00_Rank01_AllDamageTypeAddedRatio",
+            "MAvatar_Castorice_00_PointB3_AllDamageTypeAddedRatio",
             "MAvatar_Castorice_00_Rank02_Check",
             "MAvatar_Castorice_00_Rank02_OnListenValueChange",
             "MAvatar_Castorice_00_Rank02_Count",
@@ -21898,7 +21898,9 @@
             "Monster_W4_FireProwler_01_Skill02_Camera": [],
             "Monster_W4_FireProwler_01_Skill03_Camera": [],
             "Monster_W4_FireProwler_01_Skill04_Camera": [],
-            "Monster_W4_FireProwler_01_Skill05_Camera": []
+            "Monster_W4_FireProwler_01_Skill05_Camera": [],
+            "Monster_W4_FireProwler_01_Skill01_Camera_FantasticStory": [],
+            "Monster_W4_FireProwler_01_Skill02_Camera_FantasticStory": []
         },
         "Modifiers": []
     },
@@ -28410,6 +28412,10 @@
         "Abilities": {
             "Monster_W4_FireProwler_01_PassiveSkillInitiate": [],
             "Monster_W4_FireProwler_01_PassiveSkillInitiate_FantasticStory": [],
+            "Monster_W4_FireProwler_01_Skill01_Phase01_FantasticStory": [],
+            "Monster_W4_FireProwler_01_Skill01_Phase02_FantasticStory": [],
+            "Monster_W4_FireProwler_01_Skill02_Phase01_FantasticStory": [],
+            "Monster_W4_FireProwler_01_Skill02_Phase02_FantasticStory": [],
             "Monster_W4_FireProwler_01_Skill01_Assist": [],
             "Monster_W4_FireProwler_01_Skill02_Assist": [],
             "Monster_W4_FireProwler_01_NoDeathRattle": []
@@ -29489,7 +29495,6 @@
             "MServant_CastoriceServant_LoseHPPreShow",
             "MServant_CastoriceServant_OnListenHitDamageSplit",
             "MServant_CastoriceServant_HitDamageSplit",
-            "MServant_CastoriceServant_00_PointB3_Listen",
             "MServant_CastoriceServant_GoDie",
             "MServant_CastoriceServant_InsideExplode",
             "MServant_CastoriceServant_Flag01",
