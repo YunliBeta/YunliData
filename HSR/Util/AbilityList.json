@@ -1478,7 +1478,6 @@
                 "M_Anaxa_00_Rank02_Buff_OnCharacterCreate"
             ],
             "Avatar_Anaxa_00_Rank06": [
-                "MAvatar_Anaxa_00_Rank06",
                 "MAvatar_Anaxa_00_Rank06_DamageUp"
             ]
         },
@@ -9494,6 +9493,7 @@
             ],
             "Ability23041": [
                 "MEquip_23041_Main",
+                "MEquip_23041_SubOnEmemy",
                 "MEquip_23041_Sub"
             ]
         },
@@ -26162,6 +26162,7 @@
             "Monster_W2_LycanKing_00_IF_SkillEX02": [],
             "Monster_W2_LycanKing_00_IF_SkillEX03": [],
             "Monster_W2_LycanKing_00_IF_SkillEX04": [],
+            "Monster_W2_LycanKing_00_SkillP04": [],
             "Monster_W2_LycanKing_00_IF_Skill08_Phase01": [],
             "Monster_W2_LycanKing_00_IF_Skill08_Phase02": [
                 "MMonster_W2_Lycan_RageStatus",
@@ -28740,7 +28741,7 @@
     "../Config/ConfigAbility/Monster/Monster_W4_Pollux_00_Ability.json": {
         "Abilities": {
             "Monster_W4_Pollux_00_PassiveSkill_BGM": [
-                "MMonster_W4_Hearse_00_ResetStageBGM"
+                "MMonster_W4_Pollux_00_ResetStageBGM"
             ],
             "Monster_W4_Pollux_00_Skill01_Phase01": [],
             "Monster_W4_Pollux_00_Skill01_Phase02": [],
@@ -28781,6 +28782,7 @@
             "Monster_W4_Pollux_00_Strengthen_BreakMark",
             "Monster_W4_Pollux_00_Strengthen_Break",
             "Monster_W4_Pollux_00_DisableAction",
+            "Monster_W4_Pollux_00_Main_DisableAction",
             "Monster_W4_PolluxPart_00_Shield",
             "Monster_W4_Pollux_00_BloodRange",
             "Monster_W4_Pollux_00_Fatigue",
