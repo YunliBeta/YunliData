@@ -1839,6 +1839,7 @@
             "Avatar_Castorice_00_Skill03_Phase02": [],
             "Avatar_Castorice_00_PassiveSkill_1": [
                 "MAvatar_Castorice_00_Passive",
+                "MAvatar_Castorice_00_RefreshMaxSpecialSPFlag",
                 "MAvatar_Castorice_00_Passive02_OnListenHPChange",
                 "MAvatar_Castorice_00_Rank04_Listen",
                 "MAvatar_Castorice_00_Rank06_OnListen"
@@ -29505,7 +29506,9 @@
             "MServant_CastoriceServant_BPCost_3",
             "MServant_CastoriceServant_Disable",
             "MServant_CastoriceServant_BP_Explode",
-            "MServant_CastoriceServant_00_Skill23Check"
+            "MServant_CastoriceServant_00_Skill23Check",
+            "MServant_CastoriceServant_00_Rank06_ForceStanceDamage",
+            "MServant_CastoriceServant_00_Rank06_StancePreview"
         ]
     },
     "../Config/ConfigAbility/Servant/Servant_PlayerBoyServant_30_Ability.json": {
