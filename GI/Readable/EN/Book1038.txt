@@ -6,7 +6,7 @@ CL-02 "Jade Maiden" Ix Je'lal K'ua'l Ka'
 CL-03 "Weaver of Secrets" Ix Kemonel Jasjatem Oox
 CL-04 "Hermit of Myriad Fates" Aj Awaj K'umilal Kan
 CL-05 "Bestower of Bitter Springs" Aj K'astajibal Cha'ama' Ho'o
-CL-06 "One Whose Wrath Shakes the Earth Like Thunder" Aj Tininik Oyowal Waak
+CL-06 "He Who Shakes the Earth Like Thunder in His Wrath" Aj Tininik Oyowal Waak
 CL-07 "Toxic Rain Over Boundless Forests" Aj Chojojik Kamikabal U'uk
 CL-08 "Priestess of Floral Candles and Skyborne Feathers" Ix Ajkotz'i'j Iq'ismal Waxak
 CL-09 "Chronicler of the End Times" Ix Uxul Tz'ib Bolon

@@ -16,7 +16,7 @@ CL-12: Venerable Speaker, what kind of an explanation do you wish for? The words
 
 CL-08: I have no intention of defending myself. If any of you believe I have betrayed our kind and defiled our Sovereign's vision, then cast your vote for my execution. Only a weakling would waste words on such matters.
 
-CL-12: How dignified your haughty grace, my dear sister. Yet as I see it, you are merely grasping for an excuse — one you cannot find — to explain your own betrayal. How else would you justify why the human you keep — that vile bandit, that brazen harborer of degenerates we had exiled, that insect who dared trespass upon my domain whom you dare call "daughter," who wields a weapon forged by dragon-smiths — has chosen to follow in Xbalanque's path, assisting him in slaughtering our kin? And why, even now, do you continue to tolerate her savagery rather than cast her out yourself? Is that not so, our ever-venerable High Priestess of Floral Candles and Skyborne Feathers?
+CL-12: How dignified your haughty grace, my dear sister. Yet as I see it, you are merely grasping for an excuse — one you cannot find — to explain your own betrayal. How else would you justify why the human you keep — that vile reaver, that brazen harborer of degenerates we had exiled, that insect who dared trespass upon my domain whom you dare call "daughter," who wields a weapon forged by dragon-smiths — has chosen to follow in Xbalanque's path, assisting him in slaughtering our kin? And why, even now, do you continue to tolerate her savagery rather than cast her out yourself? Is that not so, our ever-venerable Paragon Priestess of Floral Candles and Skyborne Feathers?
 
 CL-08: You name me a traitor, Twelfth Lord. If I truly were one, you would now be lying at my feet, begging for mercy to save your pitiful life. As for my beloved daughter, you have no right to make such accusations. She has chosen her path, just as I have chosen to remain loyal to our Sovereign. If a weak worm like you cannot even kill her, or maintain the territory granted to you by our Sovereign — then that is your fault, neither mine nor hers.
 
@@ -26,7 +26,7 @@ CL-07: You would speak in puny humanity's defense?
 
 CL-01: I have no intention of defending anyone, Seventh Lord. My words are crystal clear, surely as my teeth gleam with the brilliance of gemstones. I esteem the formidable enemy named Xbalanque, just as I long to tear open his chest in glorious battle, and to bathe my very heart in his blood out of respect for his nobility. If you would call this a defense, I would not mind so defending your honor either, Seventh Lord.
 
-CL-07: ...I request your pardon. My intent was not to provoke you.
+CL-07: ...I request your pardon. It was not my intent to provoke you.
 
 CL-01: Such an outrageous proposal is itself an affront to the Chamber of Deliberation. I, too, do not consider following Xbalanque to be an unforgivable crime. Perhaps you should call for my execution as well?
 
