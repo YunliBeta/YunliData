@@ -1,3 +1,3 @@
 VER_GI = "5.8v5"//GI
 
-VER_SR = "3.5v4"//SR
+VER_SR = "3.5v5"//SR
