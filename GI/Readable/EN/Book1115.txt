@@ -1,10 +1,10 @@
 Experiment Objective:
 To test the stability of the new barrier generator when generating protective barriers in various settings.
 
-Experiment Location:
-Pictured in illustration.
+Experiment Location: Refer to illustration.
+<image name=UI_ReadPic_FatuiShieldMap/>
 
 Current Status:
-We have successfully established a lunar moment energy conversion mechanism, and its feasibility for generating high-density energy barriers has been experimentally verified. With current technology, barrier generators can stably produce energy barriers in various shapes, including spherical configurations.
-Prolonged, high-intensity operation of the generator can cause overheating and material fatigue. This not only reduces the device’s lifespan but may also result in minor energy leakage. Although currently minimal, the long-term effects are uncertain and could present potential risks. Continued monitoring and attention are advisable.
+We have successfully established a tidal energy harnessing mechanism, and its feasibility for generating high-density energy barriers has been experimentally verified. With current technology, barrier generators can stably produce energy barriers in various shapes, including spherical configurations.
+Prolonged, high-intensity operation of the generator can cause overheating and material fatigue. This not only reduces the device's lifespan but may also result in minor energy leakage. Although currently minimal, the long-term effects are uncertain and could present potential risks. Continued monitoring and attention are advisable.
 For us to obtain further insights, data must be collected from multiple sources for aggregated analysis.
