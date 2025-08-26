@@ -1,3 +1,3 @@
-VER_GI = "6.0v4"//GI
+VER_GI = "6.0v5"//GI
 
-VER_SR = "3.6v2"//SR
+VER_SR = "3.6v3"//SR
