@@ -1,0 +1,2277 @@
+{
+    "GI": {
+        "946598638": "Amb_NDKL60_BGC_Core_Interrupt_NormalToGentle",
+        "844203763": "Amb_NDKL60_BGC_Core_Interrupt_NormalToGentle",
+        "589940827": "Amb_NDKL60_BGC_Core_Interrupt_PowerToGentle",
+        "1068299923": "Amb_NDKL60_BGC_Core_Interrupt_PowerToGentle",
+        "914228987": "Amb_NDKL60_BGC_Core_Interrupt_PowerToNormal",
+        "55080188": "Amb_NDKL60_BGC_Core_Interrupt_PowerToNormal",
+        "475283464": "Amb_NDKL60_BGC_Core_Strat_GentleToNormal",
+        "956671988": "Amb_NDKL60_BGC_Core_Strat_GentleToPower",
+        "280664089": "Amb_NDKL60_BGC_Core_Strat_GentleToPower",
+        "752525266": "Amb_NDKL60_BGC_Core_Strat_NormalToPower",
+        "684039501": "Amb_NDKL60_BGC_Core_Strat_NormalToPower",
+        "317664851": "Amb_NDKL60_BGC_Core_Working_Gentle_01",
+        "440108825": "Amb_NDKL60_BGC_Core_Working_Gentle_02",
+        "550672338": "Amb_NDKL60_BGC_Core_Working_Gentle_03",
+        "169073984": "Amb_NDKL60_BGC_Core_Working_Normal_01",
+        "265647505": "Amb_NDKL60_BGC_Core_Working_Normal_02",
+        "250462556": "Amb_NDKL60_BGC_Core_Working_Normal_03",
+        "1017727953": "Amb_NDKL60_BGC_Core_Working_Power_01",
+        "156187120": "Amb_NDKL60_BGC_Core_Working_Power_02",
+        "630189012": "Amb_NDKL60_BGC_Core_Working_Power_03",
+        "492937576": "L10_music_explore_WangShuKeZhan_day",
+        "819547704": "L11_music_explore_LiYue_B",
+        "915471035": "L12_music_explore_QingCeZhuang_A_3_0",
+        "425157580": "L18_music_explore_GuiLiYuan_B",
+        "358742658": "L19_music_explore_MinLin_A",
+        "734442114": "L27_music_explore_BiShuiYuan_H_WhistleFlute",
+        "420760486": "L27_music_explore_BiShuiYuan_H_Zhudi",
+        "644852138": "L28_music_explore_WangShuKeZhan_night",
+        "359468913": "L31_music_explore_LiYue_A",
+        "714351481": "L34_music_explore_YaoGuangTan_A",
+        "266582907": "L35_music_explore_YaoGuangTan_B",
+        "701589675": "L36_music_explore_GuiLiYuan_C",
+        "345152271": "L37_music_explore_GuiLiYuan_D",
+        "939409772": "L39_music_explore_MinLin_E",
+        "555803006": "L41_music_explore_BiShuiYuan_A",
+        "1007875621": "L42_music_explore_BiShuiYuan_B",
+        "211986270": "L43_music_explore_zone_winery_day_NEW_A",
+        "510415257": "L45_music_explore_MinLin_C",
+        "961406772": "L46_music_explore_BiShuiYuan_E",
+        "20714195": "L47_music_explore_GuiLiYuan_A",
+        "569123759": "L50_music_explore_QingQuanZhen_Q_v3",
+        "236173520": "L51_music_explore_BiShuiYuan_C",
+        "983468122": "L53_music_explore_QingQuanZhen_day_R",
+        "68853304": "L54_music_explore_MinLin_H",
+        "807191371": "L55_music_combat_LupiBoreasS01_edited",
+        "764591658": "L56_music_explore_LiYue_F",
+        "603706746": "L57_music_explore_LiYue_G",
+        "816167065": "L58_music_explore_LiYue_H",
+        "685287793": "L59_music_explore_MinLin_G",
+        "47765947": "L60_music_explore_MinLin_I",
+        "837487996": "L61_music_explore_LiYue_E_ErHu",
+        "1042743755": "L61_music_explore_LiYue_E_GuZheng",
+        "231862063": "L62_music_explore_QingYunDing_A_ErHu",
+        "678002557": "L62_music_explore_QingYunDing_A_Piano",
+        "11724092": "L63_music_explore_QingYunDing_B_Erhu",
+        "914281916": "L63_music_explore_QingYunDing_B_Piano",
+        "325273075": "L64_music_explore_QingYunDing_C_ErHu",
+        "292322451": "L64_music_explore_QingYunDing_C_Piano",
+        "227869223": "L65_music_explore_QingYunDing_D",
+        "899988241": "L66_music_explore_HuaGuangLin_A_Erhu",
+        "1063998538": "L66_music_explore_HuaGuangLin_A_ST",
+        "453797814": "L67_music_explore_HuaGuangLin_B",
+        "859698720": "L68_music_explore_HuaGuangLin_C",
+        "813383861": [
+            "L69_music_explore_HuaGuangLin_D",
+            "Music_v58_Activity_YeLanZhuiXiong_Level1_2_L069"
+        ],
+        "158002514": "L70_music_explore_DiZhongZhiYan_B",
+        "1035020670": "L71_music_explore_DiZhongZhiYan_C",
+        "976005551": "L74_music_explore_BiShuiYuan_D",
+        "701877439": "L75_music_explore_BiShuiYuan_F",
+        "542707292": "L76_music_explore_BiShuiYuan_G",
+        "831956517": "L76_music_explore_BiShuiYuan_G_Erhu+Piano",
+        "651648887": "L77_music_explore_BiShuiYuan_I",
+        "836732735": "L78_music_explore_DiZhongZhiYan_A",
+        "634364563": "L79_music_explore_LiYue_B",
+        "309603890": "L80_music_explore_LiYue_C",
+        "79358565": "L81_music_explore_MinLin_B",
+        "763655864": "L82_music_explore_MinLin_D",
+        "1042324215": "L83_music_explore_MinLin_F",
+        "991643561": "L84_music_explore_QingCeZhuang_B",
+        "88585574": "L85_music_transition_MengDe-LiYue_B",
+        "996278057": "L86_music_explore_LiShaJiao_A",
+        "1061799042": [
+            "L87_music_explore_LiShaJiao_B",
+            "music_chapter01_HaiDengJieXian_L062"
+        ],
+        "983716814": "L88_music_explore_LiShaJiao_C",
+        "861835323": "L89_music_explore_LiShaJiao_D",
+        "440888190": "L90_music_explore_LiShaJiao_E",
+        "339786332": "L91_music_explore_LiShaJiao_F",
+        "240206009": "L92_music_explore_BiShuiYuan_J",
+        "544297093": "L93_music_explore_BiShuiYuan_K",
+        "255057382": "M20_music_boss_dvalinS01",
+        "617768508": [
+            "M26_music_theme_amber",
+            "music_chapter_Emo_GR01_TianMeiDeWeiXiao"
+        ],
+        "888998327": "M33_music_quest_honor",
+        "886696199": [
+            "M45_music_explore_MinLin_negative",
+            "Music_v58_Activity_YeLanZhuiXiong_Level1_2_M045"
+        ],
+        "686562829": [
+            "M63_music_quest_happy",
+            "music_chapter_Emo_GR09_KaiXinDeYiTian"
+        ],
+        "175355110": "M65_music_quest_niceDay",
+        "897626607": "Music_Combat_FengYinTaNei_F209",
+        "475430678": [
+            "Music_Combat_HuiJinJie_N241",
+            "Music_v57_Quest_ShuangZiXian_HuiJinJie_Combat_CopyWorld_N241_Loop",
+            "Music_v57_Quest_ShuangZiXian_HuiJinJie_Combat_CopyWorld_N241_Start"
+        ],
+        "338493503": "Music_Combat_JianShiLianYu_N076",
+        "270510672": "Music_Combat_JinSeDaTingShanHui_S03_Filter_F626",
+        "101072941": "Music_Combat_KaLai_K010",
+        "698572790": "Music_Combat_KaLai_K023",
+        "751523682": "Music_Combat_KaLai_K025",
+        "443672658": "Music_Combat_KaLai_K033",
+        "730563915": "Music_Combat_KuangLieWeather_K073",
+        "240935884": "Music_Combat_LaJiJvRen_K070",
+        "666054470": "Music_Combat_Limacidae_JJHCopyWord_N823",
+        "1057994826": "Music_Combat_MoRenGuaiWu_BingGongChang_KaLai_K082",
+        "9151653": [
+            "Music_Combat_NaTa_N011",
+            "Music_Combat_WuJinYanYu_N011"
+        ],
+        "495974317": "Music_Combat_NaTa_N012",
+        "230396117": "Music_Combat_NaTa_N013",
+        "679529144": "Music_Combat_NanShanYinShou_F431",
+        "100494426": [
+            "Music_Combat_Nutcracker_S01",
+            "Music_Combat_Nutcracker_S01_loop"
+        ],
+        "280277610": [
+            "Music_Combat_Nutcracker_S02",
+            "Music_Combat_Nutcracker_S02_loop"
+        ],
+        "832868701": "Music_Combat_RenMa_F626",
+        "1039197988": "Music_Combat_RenMa_F626",
+        "133822853": [
+            "Music_Combat_SiXiangFengYin_AB_F214",
+            "Music_Explore_SiXiangFengYin_AB_F214"
+        ],
+        "853299061": [
+            "Music_Combat_WeiGuanYuZhou_F012",
+            "music_combat_FengDan_F012"
+        ],
+        "1064267811": "Music_Combat_YiShouLongBoss_N232",
+        "32986972": "Music_Combat_YunQi_F432",
+        "261238672": "Music_Combat_v55_GuLongYiJi_N522_Loop",
+        "913999972": "Music_Combat_v55_GuLongYiJi_N522_Start",
+        "610225428": [
+            "Music_Dungeon_Activity_BuYuDaRe_I609",
+            "music_explore_LP_B1"
+        ],
+        "998325863": [
+            "Music_Dungeon_Activity_BuYuDaRen_GR02",
+            "music_chapter_Emo_GR02_KuaiLeDeLvCheng"
+        ],
+        "655471437": "Music_Dungeon_Combat_Gi_Stage02_Ending_N603_Outro",
+        "718469346": "Music_Emo_17QianXing_DuoMaoMao",
+        "742059817": "Music_Explore_AnXiZhiDian_F630",
+        "160951663": "Music_Explore_AnXiZhiDian_S02_FR26",
+        "448801771": "Music_Explore_BW_BingGongChang_Day_K021",
+        "359583283": "Music_Explore_BW_BingGongChang_Day_K027",
+        "437020807": "Music_Explore_BW_BingGongChang_Day_K032",
+        "449610657": "Music_Explore_BW_BingGongChang_Night_K013",
+        "197775325": "Music_Explore_BW_BingGongChang_Night_K052",
+        "943329497": "Music_Explore_BW_BingGongChang_Night_K053",
+        "79481073": "Music_Explore_BW_FaTiaoZhen_F806",
+        "93162745": "Music_Explore_BW_GongYueShenJi_Day_K000",
+        "851597634": "Music_Explore_BW_GongYueShenJi_Day_K004",
+        "125331166": "Music_Explore_BW_GongYueShenJi_Day_K022",
+        "14603357": [
+            "Music_Explore_BW_GongYueShenJi_Day_K030",
+            "music_chapter10_ZhuXian_K030"
+        ],
+        "619047632": [
+            "Music_Explore_BW_GongYueShenJi_Night_S01_K026",
+            "Music_Explore_BW_GongYueShenJi_Night_S02_K026"
+        ],
+        "612769422": [
+            "Music_Explore_BW_GongYueShenJi_Night_S01_K047",
+            "Music_Explore_BW_GongYueShenJi_Night_S02_K047"
+        ],
+        "508757889": [
+            "Music_Explore_BW_GongYueShenJi_Night_S01_K048",
+            "Music_Explore_BW_GongYueShenJi_Night_S02_K048"
+        ],
+        "635730919": [
+            "Music_Explore_BW_GongYueShenJi_Night_S02_K059",
+            "Music_Explore_PingLiuCeng_Track03_K059"
+        ],
+        "52616357": "Music_Explore_BW_HuiJingCheng_N224",
+        "434035090": "Music_Explore_BW_HuiJingCheng_N226",
+        "514345416": [
+            "Music_Explore_BW_HuoShanQuYu_Day_N002",
+            "Music_Explore_BW_Smr_JiNiQi_Day_N002",
+            "music_chapter05_DaHuoDong_N002"
+        ],
+        "348041036": [
+            "Music_Explore_BW_HuoShanQuYu_Day_N008",
+            "Music_Explore_BW_Smr_JiNiQi_Day_N008"
+        ],
+        "551482449": [
+            "Music_Explore_BW_HuoShanQuYu_Day_N023",
+            "Music_Explore_BW_Smr_JiNiQi_Day_N023",
+            "music_chapter04_DaHuoDong_N023"
+        ],
+        "802575907": [
+            "Music_Explore_BW_HuoShanQuYu_Day_N025",
+            "Music_Explore_BW_Smr_JiNiQi_Day_N025",
+            "music_chapter01_DaHuoDong_N025"
+        ],
+        "510961083": [
+            "Music_Explore_BW_HuoShanQuYu_Day_N037",
+            "Music_Explore_BW_Smr_JiNiQi_Day_N037"
+        ],
+        "914209542": [
+            "Music_Explore_BW_HuoShanQuYu_Day_N044",
+            "Music_Explore_BW_Smr_JiNiQi_Day_N044"
+        ],
+        "656062043": [
+            "Music_Explore_BW_HuoShanQuYu_Day_N049",
+            "Music_Explore_BW_NaTa_Day_N049",
+            "Music_Explore_BW_Smr_JiNiQi_Day_N049"
+        ],
+        "517776705": [
+            "Music_Explore_BW_HuoShanQuYu_Day_N054",
+            "Music_Explore_BW_Smr_JiNiQi_Day_N054"
+        ],
+        "111077348": [
+            "Music_Explore_BW_HuoShanQuYu_Day_N057",
+            "Music_Explore_BW_Smr_JiNiQi_Day_N057"
+        ],
+        "289871309": [
+            "Music_Explore_BW_HuoShanQuYu_Night_N009",
+            "Music_Explore_BW_Smr_JiNiQi_Night_N009",
+            "music_chapter06_DaHuoDong_N009"
+        ],
+        "692461395": [
+            "Music_Explore_BW_HuoShanQuYu_Night_N024",
+            "Music_Explore_BW_Smr_JiNiQi_Night_N024",
+            "music_chapter02_ShuangZiXian_N024"
+        ],
+        "413413746": [
+            "Music_Explore_BW_HuoShanQuYu_Night_N040",
+            "Music_Explore_BW_Smr_JiNiQi_Night_N040"
+        ],
+        "751449173": [
+            "Music_Explore_BW_HuoShanQuYu_Night_N046",
+            "Music_Explore_BW_Smr_JiNiQi_Night_N046"
+        ],
+        "817281373": [
+            "Music_Explore_BW_HuoShanQuYu_Night_N047",
+            "Music_Explore_BW_Smr_JiNiQi_Night_N047",
+            "music_chapter02_ZhuXian_N047"
+        ],
+        "563246378": [
+            "Music_Explore_BW_HuoShanQuYu_Night_N052",
+            "Music_Explore_BW_Smr_JiNiQi_Night_N052",
+            "music_chapter06_ZhuXian_N052"
+        ],
+        "708566546": [
+            "Music_Explore_BW_HuoShanQuYu_Night_N077",
+            "Music_Explore_BW_Smr_JiNiQi_Night_N077",
+            "music_chapter05_ShuangZiXian_N077",
+            "music_chapter07_DaHuoDong_N077"
+        ],
+        "6150806": [
+            "Music_Explore_BW_HuoShanQuYu_Night_N079",
+            "Music_Explore_BW_Smr_JiNiQi_Night_N079"
+        ],
+        "786026601": [
+            "Music_Explore_BW_JinSeDaTingShanHui_S02_F608",
+            "Music_Explore_BW_JiuRiZhiHai_F608"
+        ],
+        "142017290": [
+            "Music_Explore_BW_JinSeDaTingShanHui_S04_F621",
+            "Music_Explore_BW_JiuRiZhiHai_F621"
+        ],
+        "37936081": [
+            "Music_Explore_BW_JiuRiZhiHai_F603",
+            "Music_Explore_JinSeDaTingShanHui_S03_NonCombat_F603"
+        ],
+        "431469240": "Music_Explore_BW_JiuRiZhiHai_F605",
+        "460606830": "Music_Explore_BW_JiuRiZhiHai_F606",
+        "296536006": "Music_Explore_BW_JiuRiZhiHai_F607",
+        "690867587": "Music_Explore_BW_JiuRiZhiHai_F613",
+        "535868659": "Music_Explore_BW_NaXiaZhen_Day_K003",
+        "857389490": [
+            "Music_Explore_BW_NaXiaZhen_Day_K019",
+            "music_chapter09_ZhuXian_K019"
+        ],
+        "99843302": "Music_Explore_BW_NaXiaZhen_Day_K037",
+        "128266555": "Music_Explore_BW_NaXiaZhen_Day_K051",
+        "1006535231": "Music_Explore_BW_NaXiaZhen_Day_K054",
+        "725374454": "Music_Explore_BW_NaXiaZhen_Day_K078",
+        "866570133": "Music_Explore_BW_NaXiaZhen_Night_K035",
+        "1018469348": "Music_Explore_BW_NaXiaZhen_Night_K036",
+        "805792976": "Music_Explore_BW_NaXiaZhen_Night_K079",
+        "689780334": "Music_Explore_BW_NaXiaZhen_Night_K080",
+        "598834395": "Music_Explore_BW_NaXiaZhen_Night_K081",
+        "186210148": "Music_Explore_BW_NaXiaZhen_Night_K083",
+        "639713326": "Music_Explore_BW_NiHongWeiQiang_Day_N055",
+        "59061851": "Music_Explore_BW_NiHongWeiQiang_Day_N202",
+        "716409109": [
+            "Music_Explore_BW_NiHongWeiQiang_Day_N204",
+            "Music_Explore_NiHongWeiQiangXiaBu_N204",
+            "music_chapter03_DaHuoDong_N204",
+            "music_chapter04_QiaSiKa_N204"
+        ],
+        "118706531": [
+            "Music_Explore_BW_NiHongWeiQiang_Day_N217",
+            "music_chapter02_XiTeLaLi_N217"
+        ],
+        "1056607003": "Music_Explore_BW_NiHongWeiQiang_Day_N221",
+        "212978004": "Music_Explore_BW_NiHongWeiQiang_Day_N229",
+        "4982092": "Music_Explore_BW_NiHongWeiQiang_Night_N017",
+        "669585747": "Music_Explore_BW_NiHongWeiQiang_Night_N056",
+        "923440407": "Music_Explore_BW_NiHongWeiQiang_Night_N203",
+        "292530427": "Music_Explore_BW_NiHongWeiQiang_Night_N220",
+        "609632517": "Music_Explore_BW_NiHongWeiQiang_Night_N230",
+        "552894039": [
+            "Music_Explore_BW_NiHongWeiQiang_Night_N243",
+            "music_chapter01_XiTeLaLi_N243"
+        ],
+        "51946258": "Music_Explore_BW_NuoSiTuoYiQu_F216",
+        "488465688": "Music_Explore_BW_Smr_JiNiQi_Cave_N071",
+        "654473504": [
+            "Music_Explore_BW_Smr_JiNiQi_Cave_N072",
+            "Music_Explore_RanSuKaiCaiZhongXin_N072",
+            "Music_Explore_v52_Cave_N072",
+            "music_chapter03_ZhuXianJianMu_N072"
+        ],
+        "504142361": "Music_Explore_BaiSheDongFu_F430",
+        "892079681": "Music_Explore_Barcarolla_F407a",
+        "521624942": "Music_Explore_Barcarolla_F407b",
+        "899970908": "Music_Explore_Barcarolla_F441a",
+        "554716832": "Music_Explore_Barcarolla_F441b",
+        "417142648": "Music_Explore_BeiFangXunLianChang_Two_Day_K034",
+        "33631911": "Music_Explore_BeiFangXunLianChang_Two_Night_K058",
+        "1063693806": "Music_Explore_BingGongChang_Exterior_K005",
+        "514758330": "Music_Explore_BingGongChang_Exterior_K046",
+        "967411535": "Music_Explore_BingGongChang_Interior_K006",
+        "841957866": [
+            "Music_Explore_BingGongChang_Interior_K007",
+            "Music_Explore_DiXiaZhiZaoJian_K007"
+        ],
+        "883840105": [
+            "Music_Explore_CaiCaiYa_Two_Night_N825",
+            "music_chapter02_DaHuoDongXian_N825"
+        ],
+        "615545271": "Music_Explore_CaiCaiYa_Two_day_N803",
+        "832869003": [
+            "Music_Explore_Cave44_F406",
+            "Music_Explore_LaiXinShanShanDing_F406"
+        ],
+        "114297353": "Music_Explore_Cave44_F434",
+        "2414094": "Music_Explore_Cave44_F436",
+        "45001406": "Music_Explore_ChaoBaiChu_Two_K044",
+        "310333078": "Music_Explore_ChaoBaiChu_Two_K044a",
+        "1058486431": [
+            "Music_Explore_ChenChuanJiuGuan_F207",
+            "Music_Explore_MoNiJingYing_Day_F207"
+        ],
+        "912081968": [
+            "Music_Explore_ChuanSongMenYiJi_N222",
+            "Music_Explore_YangYuJian_N222"
+        ],
+        "740217930": [
+            "Music_Explore_CiBaoDao_Two_S01_K015",
+            "Music_Explore_CiLiXiaGu_YiKongJian_K015"
+        ],
+        "138049865": "Music_Explore_CiBaoDao_Two_S02_K067",
+        "346489053": "Music_Explore_CiLiXiaGu_Two_K064",
+        "460577867": [
+            "Music_Explore_DaZhuanKuaiHuiChang_N051_End",
+            "Music_Explore_DaZhuanKuaiHuiChang_N051_Loop",
+            "Music_Explore_DaZhuanKuaiHuiChang_N051_Start",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N051_End",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N051_Loop",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N051_Start",
+            "Music_Explore_ZuanDiLongBuLuo_N051_End",
+            "Music_Explore_ZuanDiLongBuLuo_N051_Loop",
+            "Music_Explore_ZuanDiLongBuLuo_N051_Start"
+        ],
+        "186109437": [
+            "Music_Explore_DaZhuanKuaiHuiChang_N051_End",
+            "Music_Explore_DaZhuanKuaiHuiChang_N051_Loop",
+            "Music_Explore_DaZhuanKuaiHuiChang_N051_Start",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N051_End",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N051_Loop",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N051_Start",
+            "Music_Explore_ZuanDiLongBuLuo_N051_End",
+            "Music_Explore_ZuanDiLongBuLuo_N051_Loop",
+            "Music_Explore_ZuanDiLongBuLuo_N051_Start"
+        ],
+        "215951637": [
+            "Music_Explore_FeiXingJiaXiao_N031",
+            "Music_v52_Activity_YiShouLongTiaoZhan_N031"
+        ],
+        "824517896": "Music_Explore_FengYinTaNei_F208",
+        "728579289": "Music_Explore_FengYinTaShuiXia_F019",
+        "452685309": [
+            "Music_Explore_FengYinTaShuiXia_F054",
+            "music_explore_UW_F054"
+        ],
+        "717578032": [
+            "Music_Explore_FengYinTaShuiXia_F055",
+            "Music_explore_KeLuoLinDeCangBao_F055",
+            "music_explore_UW_F055"
+        ],
+        "687204785": [
+            "Music_Explore_FengYinTaShuiXia_F057",
+            "music_explore_LeiShuiZhiCheng_F057"
+        ],
+        "948760470": "Music_Explore_FengYinTaWai_F213",
+        "896368359": "Music_Explore_Foggy44_F413b",
+        "942919583": "Music_Explore_Foggy44_F437",
+        "418125493": "Music_Explore_Foggy44_F442",
+        "54953150": "Music_Explore_GouZhuaLongBuLuo_Day_N005",
+        "248568326": "Music_Explore_GouZhuaLongBuLuo_Day_N020",
+        "167789070": "Music_Explore_GouZhuaLongBuLuo_Night_N019",
+        "502806478": "Music_Explore_GouZhuaLongBuLuo_Night_N026",
+        "1062036818": [
+            "Music_Explore_GouZhuaLongGuoDuTongDao_N016",
+            "Music_Explore_MiShiTianJing_N016"
+        ],
+        "610018273": [
+            "Music_Explore_GuLongYiJiCheng_F01_N501",
+            "Music_Explore_HeiAnZhiDi_S02_N501"
+        ],
+        "179055266": [
+            "Music_Explore_GuLongYiJiCheng_F01_N507",
+            "Music_Explore_HeiAnZhiDi_S02_N507"
+        ],
+        "210384742": "Music_Explore_GuLongYiJiCheng_F02_N505",
+        "715789823": "Music_Explore_GuLongYiJiCheng_F02_N515",
+        "600190079": "Music_Explore_GuLongYiShiTing_S01_N508b",
+        "687638529": "Music_Explore_GuLongYiShiTing_S02_N508",
+        "296962878": "Music_Explore_HeiAnZhiDi_S01_N519",
+        "708444703": "Music_Explore_HongSeHuiJinCheng_CopyWorld_N308",
+        "501939320": [
+            "Music_Explore_HuGuangJingTu_N007",
+            "Music_Explore_LiuCaiGaoYuan_Night_N007"
+        ],
+        "550024149": [
+            "Music_Explore_HuGuangJingTu_N053",
+            "Music_Explore_LiuCaiGaoYuan_Day_N053",
+            "music_chapter01_MaLaNi_N053"
+        ],
+        "136321755": "Music_Explore_HuHuQiu_Two_N804",
+        "815762924": "Music_Explore_HuHuQiu_Two_N806",
+        "270330867": "Music_Explore_HuHuQiu_Two_N818",
+        "1039164107": "Music_Explore_HuZhongChuiLiu_S01_F203",
+        "394203291": "Music_Explore_HuZhongChuiLiu_S02_F204",
+        "533537616": [
+            "Music_Explore_HuiJinCheng_DuiZhangMuBei_NR16",
+            "music_chapter_Emo_NR16"
+        ],
+        "645722356": "Music_Explore_HuiJinJieShanDingQuYu_N215",
+        "988678625": "Music_Explore_HuiJinJieShanDingQuYu_N227",
+        "1001283486": "Music_Explore_HuiJinJie_N225",
+        "824136044": "Music_Explore_HuiJinJie_N237",
+        "80159230": "Music_Explore_HuiJinJie_N239",
+        "287172054": "Music_Explore_HuiJinJie_N242",
+        "139739428": "Music_Explore_HuiJingJieGuoDao_N218",
+        "890703226": "Music_Explore_JiGuangHu_Two_S01_K009a",
+        "473094273": "Music_Explore_JiGuangHu_Two_S02_K009",
+        "559797983": "Music_Explore_JianShiLianYu_N073",
+        "253753521": "Music_Explore_JinJiHai_Two_N816",
+        "936279135": "Music_Explore_JinLuoTing_F412",
+        "327783609": "Music_Explore_JingJiChang_Day_N010",
+        "368843231": "Music_Explore_JingJiChang_Day_N027",
+        "467757647": "Music_Explore_JingJiChang_Day_N028",
+        "51978677": "Music_Explore_JingJiChang_Night_N035",
+        "880226977": "Music_Explore_JingJiChang_Night_N039",
+        "92916709": "Music_Explore_JingJiChang_Night_N041",
+        "301130699": "Music_Explore_JingYanZhiMai_N066",
+        "600271670": "Music_Explore_JingYanZhiMai_N070",
+        "281287650": [
+            "Music_Explore_JiuBaShan_N809",
+            "Music_v58_Activity_MaoXianQu_QingDian_N809"
+        ],
+        "1054855751": "Music_Explore_JuChangSuoLianGanDong_F604",
+        "874610895": "Music_Explore_JueBieCiShiZhiDi_N078",
+        "824291353": [
+            "Music_Explore_KaPiTuoLiMu_InDiving_F610",
+            "Music_Explore_XieLvYuan_InDiving_F610"
+        ],
+        "58586513": [
+            "Music_Explore_KaPiTuoLiMu_InDiving_F614",
+            "Music_Explore_XieLvYuan_InDiving_F614"
+        ],
+        "122276258": [
+            "Music_Explore_KaPiTuoLiMu_InDiving_F620",
+            "Music_Explore_XieLvYuan_InDiving_F620"
+        ],
+        "569398455": [
+            "Music_Explore_KaPiTuoLiMu_InDiving_F624",
+            "Music_Explore_XieLvYuan_InDiving_F624"
+        ],
+        "135051633": [
+            "Music_Explore_KuangHuanQu_Track1_End_CS_N41",
+            "Music_Explore_KuangHuanQu_Track1_Loop_CS_N41",
+            "Music_Explore_KuangHuanQu_Track1_Start_CS_N41",
+            "Music_Explore_Wutai_Track1_End_CS_N41",
+            "Music_Explore_Wutai_Track1_Loop_CS_N41",
+            "Music_Explore_Wutai_Track1_Start_CS_N41"
+        ],
+        "719086540": [
+            "Music_Explore_KuangHuanQu_Track2_End_CS_N41",
+            "Music_Explore_KuangHuanQu_Track2_Loop_CS_N41",
+            "Music_Explore_KuangHuanQu_Track2_Start_CS_N41",
+            "Music_Explore_Wutai_Track2_End_CS_N41",
+            "Music_Explore_Wutai_Track2_Loop_CS_N41",
+            "Music_Explore_Wutai_Track2_Start_CS_N41"
+        ],
+        "696096397": [
+            "Music_Explore_KuangHuanQu_Track3_End_CS_N41",
+            "Music_Explore_KuangHuanQu_Track3_Loop_CS_N41",
+            "Music_Explore_KuangHuanQu_Track3_Start_CS_N41",
+            "Music_Explore_Wutai_Track3_End_CS_N41",
+            "Music_Explore_Wutai_Track3_Loop_CS_N41",
+            "Music_Explore_Wutai_Track3_Start_CS_N41"
+        ],
+        "429150145": "Music_Explore_KuangLieWeather_K073a",
+        "408512483": "Music_Explore_LaJiChang_Two_Day_K055",
+        "787941790": "Music_Explore_LaJiChang_Two_Day_K061",
+        "603007373": "Music_Explore_LaJiChang_Two_Night_K024",
+        "771764863": "Music_Explore_LaJiChang_Two_Night_K066",
+        "982255509": "Music_Explore_LaiXinShan_day_F413a",
+        "218954726": "Music_Explore_LaiXinShan_day_F438",
+        "1024941011": "Music_Explore_LaiXinShan_night_F437",
+        "882255243": "Music_Explore_LaiXinShan_night_F444",
+        "806155699": "Music_Explore_LangLangWan_KaiYeYiShi_Copyworld_N822",
+        "169200267": [
+            "Music_Explore_LangLangWan_Two_N802",
+            "Music_v58_Activity_XiangQianChong_N802"
+        ],
+        "417242574": "Music_Explore_LangLangWan_Two_N813",
+        "603657650": [
+            "Music_Explore_LangLangWan_Two_N815",
+            "Music_v58_Activity_XiangQianChong_N815"
+        ],
+        "659778594": "Music_Explore_LingShiLongBuLuoXiaCeng_N021",
+        "1051178157": "Music_Explore_LingShiLongBuLuo_day_N213",
+        "465339641": "Music_Explore_LingShiLongBuLuo_day_N216",
+        "265732858": "Music_Explore_LingShiLongBuLuo_night_N201",
+        "115286917": "Music_Explore_LingShiLongBuLuo_night_N211",
+        "665349625": "Music_Explore_LiuCaiGaoYuan_Day_N006",
+        "830341525": "Music_Explore_LiuCaiGaoYuan_Day_N048",
+        "324529895": "Music_Explore_LiuCaiGaoYuan_Night_N042",
+        "390142089": [
+            "Music_Explore_LiuCaiGaoYuan_Night_N050",
+            "music_chapter02_MaLaNi_N050"
+        ],
+        "34098516": "Music_Explore_LongYiJi_Two_K014",
+        "331947117": "Music_Explore_MaoXianDao_N819",
+        "627052573": [
+            "Music_Explore_MengDeGongFangZhan_CopyWord_Stage02_M036",
+            "music_explore_mengde_night_04"
+        ],
+        "739531409": "Music_Explore_MiShiTianJing_N059",
+        "544911292": [
+            "Music_Explore_MoNiJingYing_Day_F201",
+            "Music_Explore_RouDengGang_day_F201"
+        ],
+        "876977914": [
+            "Music_Explore_MoNiJingYing_Night_F007",
+            "music_city_FengDan_F007"
+        ],
+        "540188822": [
+            "Music_Explore_MoNiJingYing_Night_F031",
+            "music_city_FengDan_F031"
+        ],
+        "955271570": "Music_Explore_NaTaShaPan_N521",
+        "714659202": "Music_Explore_NaXiaZhen_Two_Day_K011",
+        "1054666659": "Music_Explore_NaXiaZhen_Two_Day_K017",
+        "347742739": "Music_Explore_NaXiaZhen_Two_Day_K045",
+        "592960175": "Music_Explore_NaXiaZhen_Two_Day_K050",
+        "437744414": "Music_Explore_NaXiaZhen_Two_Day_K063",
+        "988965225": "Music_Explore_NaXiaZhen_Two_Night_K002",
+        "994022799": [
+            "Music_Explore_NaXiaZhen_Two_Night_K012",
+            "music_chapter01_DaHuoDongXian_K012"
+        ],
+        "472132947": "Music_Explore_NaXiaZhen_Two_Night_K018",
+        "431525143": "Music_Explore_NaXiaZhen_Two_Night_K040",
+        "599811321": "Music_Explore_NaXiaZhen_ZhuXian_CopyWorld_KR08",
+        "195455311": "Music_Explore_NiHongWeiQiangXiaBu_N212",
+        "45341392": "Music_Explore_NiHongWeiQiangXiaBu_N219",
+        "502608689": [
+            "Music_Explore_NiangZaoDong_N808",
+            "Music_Explore_YouYouJiShi_Two_N808"
+        ],
+        "550746703": "Music_Explore_PeiTeLiKeZhen_Day_F615",
+        "152876619": "Music_Explore_PeiTeLiKeZhen_Day_F617",
+        "822608433": "Music_Explore_PeiTeLiKeZhen_Night_F616",
+        "7123797": "Music_Explore_PeiTeLiKeZhen_Night_F618",
+        "448218104": "Music_Explore_PingLiuCeng_Base_K038",
+        "596587707": [
+            "Music_Explore_PingLiuCeng_Track01_K059a",
+            "Music_Explore_PingLiuCeng_Track02_K059b",
+            "Music_Explore_PingLiuCeng_Track03_K059"
+        ],
+        "73289050": "Music_Explore_PingLiuCeng_Track02_K059b",
+        "313844739": "Music_Explore_QiaoYingZhuang_day_F404",
+        "1001905456": "Music_Explore_QiaoYingZhuang_day_F415",
+        "408887391": "Music_Explore_QiaoYingZhuang_night_F416",
+        "626057251": "Music_Explore_QiaoYingZhuang_night_F417",
+        "152196271": "Music_Explore_QieSaLeMuGong_F611",
+        "176901889": "Music_Explore_Quest_MoNiJingYing_JiNiQiHuiYi_FR02",
+        "324145750": [
+            "Music_Explore_RanSuKaiCaiZhongXin_N065",
+            "Music_Explore_RongYanDongXue_N065"
+        ],
+        "894243070": "Music_Explore_RongYanDongXue_N067",
+        "680276295": "Music_Explore_RouDengGang_night_F202",
+        "1024715610": [
+            "Music_Explore_ShaoNvHuaTian_Blue_K041",
+            "Music_Explore_ShaoNvHuaTian_Zhuxian_Blue_K041",
+            "music_chapter12_ZhuXian_K041"
+        ],
+        "971543283": [
+            "Music_Explore_ShaoNvHuaTian_Blue_K041",
+            "Music_Explore_ShaoNvHuaTian_Zhuxian_Blue_K041"
+        ],
+        "113999030": [
+            "Music_Explore_ShaoNvHuaTian_White_K043",
+            "Music_Explore_ShaoNvHuaTian_Zhuxian_White_K043"
+        ],
+        "940200895": [
+            "Music_Explore_ShaoNvHuaTian_White_K043",
+            "Music_Explore_ShaoNvHuaTian_Zhuxian_White_K043"
+        ],
+        "16124608": "Music_Explore_ShaoNvHuaTian_Zhuxian_Red_K042",
+        "960621596": "Music_Explore_ShaoNvHuaTian_Zhuxian_Red_K042",
+        "189636907": "Music_Explore_ShenZhiHuan_N506",
+        "983006534": "Music_Explore_ShouMuRenMuDi_Two_K062",
+        "86481467": "Music_Explore_SiXiangFengYin_CD_F215",
+        "98202908": "Music_Explore_Smr_MaLaNi_HuGuangArea_NR05",
+        "916592659": "Music_Explore_TianKongCheng_N208",
+        "627451453": "Music_Explore_TianKongCheng_N214",
+        "287873414": [
+            "Music_Explore_TuJiaoLongBuLuoLeiTai_N518_Loop",
+            "Music_Explore_TuJiaoLongBuLuoLeiTai_N518_Start"
+        ],
+        "580128977": [
+            "Music_Explore_TuJiaoLongBuLuoLeiTai_N518b_Loop",
+            "Music_Explore_TuJiaoLongBuLuoLeiTai_N518b_Start"
+        ],
+        "122870537": "Music_Explore_TuJiaoLongBuLuoLeiTai_Stinger_01",
+        "118744935": "Music_Explore_TuJiaoLongBuLuoLeiTai_Stinger_02",
+        "109852573": "Music_Explore_TuJiaoLongBuLuoNongChang_day_N511",
+        "658507763": [
+            "Music_Explore_TuJiaoLongBuLuoNongChang_day_N516",
+            "music_chapter01_WaLeiSha_N516"
+        ],
+        "778110892": "Music_Explore_TuJiaoLongBuLuoNongChang_night_N502",
+        "1006729438": "Music_Explore_TuJiaoLongBuLuoNongChang_night_N503",
+        "305504350": "Music_Explore_TuJiaoLongBuLuo_Day_N512",
+        "707829127": "Music_Explore_TuJiaoLongBuLuo_Day_N517",
+        "189762585": "Music_Explore_TuJiaoLongBuLuo_Night_N510",
+        "475841122": "Music_Explore_TuJiaoLongBuLuo_Night_N523",
+        "51342118": "Music_Explore_TuYaDongXue_N060",
+        "1026928219": "Music_Explore_TuYaXiaGu_Night_N812",
+        "919119265": "Music_Explore_TuYaXiaGu_day_N811",
+        "806612801": "Music_Explore_TuiSeGuBao_F601",
+        "528899082": "Music_Explore_TuiSeGuBao_F612",
+        "409336159": "Music_Explore_TuiSeGuBao_F622",
+        "260729942": "Music_Explore_WangShanTing_F443",
+        "981691867": "Music_Explore_WeiGuanYuZhou_F206",
+        "719107220": [
+            "Music_Explore_WuJinYanYu_N074",
+            "music_chapter01_ZhuXianJianMu_N074"
+        ],
+        "978366601": [
+            "Music_Explore_Wutai_Track2_Start_CS_N41",
+            "Music_Explore_Wutai_Track3_Start_CS_N41"
+        ],
+        "649650249": "Music_Explore_XianLongJiaoTang_N240",
+        "233382762": "Music_Explore_XiaoKongLongYingDi_N068",
+        "428914926": "Music_Explore_XieLvYuan_OutDiving_F602",
+        "536398814": "Music_Explore_XuanLianShan_day_F419",
+        "396619392": "Music_Explore_XuanLianShan_day_F426",
+        "849534046": "Music_Explore_XuanLianShan_night_F423",
+        "657782580": "Music_Explore_XuanLianShan_night_F427",
+        "946759782": "Music_Explore_YanShuDongXue_Cave_K031",
+        "580961534": [
+            "Music_Explore_YangYuJian_Stage02_NR10",
+            "Music_v50_Quest_YeShenKongJianTaoPao_NR10",
+            "music_chapter04_ShuangZiXian_NR10"
+        ],
+        "63841455": "Music_Explore_YaoDieGu_F428",
+        "893426389": "Music_Explore_YaoDieGu_F429",
+        "697822052": "Music_Explore_YeShenKongJian_N036",
+        "157711990": "Music_Explore_YiLiYeZhiGen_F205",
+        "515711657": "Music_Explore_YiLongBu_day_F410",
+        "796146600": "Music_Explore_YiLongBu_day_F424",
+        "532666169": "Music_Explore_YiLongBu_night_F405",
+        "431886206": "Music_Explore_YiLongBu_night_F425",
+        "938605480": "Music_Explore_YiShouLongBuLuo_day_N034",
+        "801153787": [
+            "Music_Explore_YiShouLongBuLuo_day_N038",
+            "music_chapter03_QiaSiKa_N038"
+        ],
+        "156293276": [
+            "Music_Explore_YiShouLongBuLuo_night_N018",
+            "music_chapter02_QiaSiKa_N018"
+        ],
+        "548231107": [
+            "Music_Explore_YiShouLongBuLuo_night_N029",
+            "music_chapter01_QiaSiKa_N029"
+        ],
+        "53051764": "Music_Explore_YouEnHuaYuan_F609",
+        "461235470": "Music_Explore_YouLieLongBuLuo_Day_N004",
+        "866366950": "Music_Explore_YouLieLongBuLuo_Day_N033",
+        "62771243": "Music_Explore_YouLieLongBuLuo_Night_N003",
+        "1054487816": "Music_Explore_YouLieLongBuLuo_Night_N032",
+        "252901596": "Music_Explore_YouLinWuDao_F212",
+        "969331079": "Music_Explore_YouLingWuHai_Cave_K056",
+        "1002719966": "Music_Explore_YouLingWuHai_Ground_K057",
+        "912668350": [
+            "Music_Explore_YouYouDuJiaCun_One_N810",
+            "music_chapter01_DaHuoDongXian_N810"
+        ],
+        "1057749820": "Music_Explore_YouYouDuJiaCun_One_N814",
+        "98508402": "Music_Explore_YouYouDuJiaCun_One_N824",
+        "693864175": "Music_Explore_YouYouDuJiaCun_One_N826",
+        "15859030": "Music_Explore_YouYouDuJiaCun_One_N827",
+        "845705818": "Music_Explore_YouYouDuJiaCun_One_N828",
+        "15615536": [
+            "Music_Explore_YouYouJiShi_Two_N805",
+            "Music_v58_Activity_JuJiHuoDong_N805"
+        ],
+        "401481738": "Music_Explore_YouYouJiShi_Two_N807",
+        "265486470": "Music_Explore_YouYouJiShi_Two_N817",
+        "976438866": "Music_Explore_YuZhaoTongDieNeiBu_N520",
+        "55611639": [
+            "Music_Explore_YuZhaoTongDieWaiBu_S01_N504",
+            "Music_v55_Quest_HuoShanWQ_ChuJian_N504"
+        ],
+        "219273888": [
+            "Music_Explore_ZhenShouZhiSen_CopyWorld",
+            "music_combat_DaoQi_A"
+        ],
+        "375011752": "Music_Explore_ZhiShiKu_N509",
+        "542318383": "Music_Explore_ZhiWuYuan_N205",
+        "668095326": [
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N014_End",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N014_Loop",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N014_Start",
+            "Music_Explore_ZuanDiLongBuLuo_N014_End",
+            "Music_Explore_ZuanDiLongBuLuo_N014_Loop",
+            "Music_Explore_ZuanDiLongBuLuo_N014_Start"
+        ],
+        "657895145": [
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N014_End",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N014_Loop",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N014_Start",
+            "Music_Explore_ZuanDiLongBuLuo_N014_End",
+            "Music_Explore_ZuanDiLongBuLuo_N014_Loop",
+            "Music_Explore_ZuanDiLongBuLuo_N014_Start"
+        ],
+        "11765212": [
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N015_End",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N015_Loop",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N015_Start",
+            "Music_Explore_ZuanDiLongBuLuo_N015_End",
+            "Music_Explore_ZuanDiLongBuLuo_N015_Loop",
+            "Music_Explore_ZuanDiLongBuLuo_N015_Start"
+        ],
+        "828142187": [
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N015_End",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N015_Loop",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N015_Start",
+            "Music_Explore_ZuanDiLongBuLuo_N015_End",
+            "Music_Explore_ZuanDiLongBuLuo_N015_Loop",
+            "Music_Explore_ZuanDiLongBuLuo_N015_Start"
+        ],
+        "841445610": "Music_Explore_v50_Cave_N045",
+        "824146197": [
+            "Music_Explore_v50_Cave_N058",
+            "music_chapter01_XiNuoNing_N058"
+        ],
+        "27416752": "Music_Explore_v50_Cave_N069",
+        "252245887": "Music_Explore_v50_YiJi_N063",
+        "814038025": [
+            "Music_Explore_v50_YiJi_N064",
+            "music_chapter04_XiNuoNing_N064"
+        ],
+        "313140518": [
+            "Music_Explore_v52_Cave_N071",
+            "music_chapter04_ZhuXianJianMu_N071"
+        ],
+        "508402069": "Music_Explore_v52_HaiMian_N223",
+        "370046807": "Music_Explore_v52_HaiMian_N238",
+        "618610642": "Music_Explore_v52_YeShenKongJian_N234",
+        "724034145": [
+            "Music_Explore_v60_Cave_K049",
+            "music_chapter02_ZhuXian_K049"
+        ],
+        "334424056": "Music_Explore_v60_Cave_K068",
+        "944209444": [
+            "Music_GoldenHall_Qte_PART01",
+            "Music_GoldenHall_Qte_PART01_Loop"
+        ],
+        "554391056": [
+            "Music_GoldenHall_Qte_PART02",
+            "Music_GoldenHall_Qte_PART02_Loop"
+        ],
+        "787809741": [
+            "Music_GoldenHall_Qte_PART03",
+            "Music_GoldenHall_Qte_PART03_Loop"
+        ],
+        "156389869": [
+            "Music_GoldenHall_Qte_PART04",
+            "Music_GoldenHall_Qte_PART04_Loop"
+        ],
+        "253918517": [
+            "Music_GoldenHall_Qte_PART05",
+            "Music_GoldenHall_Qte_PART05_Loop"
+        ],
+        "863787033": [
+            "Music_GoldenHall_Qte_PART06",
+            "Music_GoldenHall_Qte_PART06_Loop"
+        ],
+        "1058720737": "Music_GoldenHall_Qte_PART07",
+        "1010792261": [
+            "Music_HomeWorld_FurnitureMusic_FR23",
+            "music_chapter01_LiuYun_FR23"
+        ],
+        "650873085": [
+            "Music_MusicGame_Mainpage_F073",
+            "music_city_FengDan_F073"
+        ],
+        "281264498": [
+            "Music_SpecialQuest_Activity_DaPaoDaBa2_X803",
+            "Music_v55_Activity_DaZhuanKuai_Common_X803",
+            "music_explore_Circus_X803"
+        ],
+        "1034147896": [
+            "Music_SpecialQuest_Activity_DaPaoDaBa2_X809",
+            "Music_v55_Activity_DaZhuanKuai_Common_X809",
+            "music_explore_Circus_X809"
+        ],
+        "724501305": [
+            "Music_SpecialQuest_Activity_DaPaoDaBa2_X817",
+            "Music_v55_Activity_DaZhuanKuai_Boss_X817",
+            "music_explore_Circus_X817"
+        ],
+        "266105252": "Music_SpecialQuest_KaPiMuBanYou_F625",
+        "769386082": "Music_SpecialQuest_QiuQiu_Sneak",
+        "134537761": "Music_SpecialQuest_ShenHaiXiaGuBanYou_F627",
+        "492604506": "Music_interactiveTimeLine_4_6_Mural_F619",
+        "917536113": "Music_v46_YiDouPaiMengChangGe",
+        "433475954": "Music_v50_Activity_HuGuang_NR07",
+        "125358735": "Music_v50_MonsterUkulele_NC01a",
+        "179631739": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "273358127": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "164680225": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "960864615": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "485617727": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "44319413": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "129254575": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "568965452": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "238556962": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "1047638542": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "757934344": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "164930607": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "761847215": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "153858779": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "980337470": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "233785342": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "316352244": [
+            "Music_v50_YouLieLong_BandShow01",
+            "Music_v50_YouLieLong_BandShow02",
+            "Music_v50_YouLieLong_BandShow03"
+        ],
+        "635062334": [
+            "Music_v50_Zhuxian_HuGuang_N011",
+            "Music_v53_HuoShenXian_HuGuang_N011"
+        ],
+        "971222246": [
+            "Music_v52_Activity_LingShiLongTiaoZhan_NR15",
+            "music_chapter_Emo_NR15"
+        ],
+        "1031617941": "Music_v52_MonsterPanflute_NC01b",
+        "913438008": [
+            "Music_v52_Quest_ShangTianKongCheng_N233_Loop",
+            "Music_v52_Quest_ShangTianKongCheng_N233_Start"
+        ],
+        "407560447": [
+            "Music_v53_Activity_JieBaFangKuai_FR22",
+            "music_chapter_Emo_FR22_CunXiangHuanSheng"
+        ],
+        "677480597": "Music_v53_HaiDengJie_HuTaoYiShiKongJian_HuaJuan1",
+        "997313907": "Music_v53_HaiDengJie_HuTaoYiShiKongJian_HuaJuan2",
+        "648865797": "Music_v53_HaiDengJie_HuTaoYiShiKongJian_HuaJuan3",
+        "44220994": "Music_v53_HaiDengJie_MainPage_N307",
+        "186162277": "Music_v53_SpecialCase_YunJinChangXi_KuaiBan",
+        "996549358": "Music_v53_SpecialCase_YunJinChangXi_SanBan",
+        "725354060": "Music_v54_SpecialCase_Activity_ChaPian_Day_NR19",
+        "852818221": "Music_v54_SpecialCase_Activity_ChaPian_Night_NR19b",
+        "474266072": "Music_v55_SpecialCase_HuoShanHuGuang_N513",
+        "206849419": [
+            "Music_v55_SpecialCase_HuoShanTuFa_N514_Loop",
+            "Music_v55_SpecialCase_HuoShanTuFa_N514_Start"
+        ],
+        "352482639": [
+            "Music_v56_Activity_MoNiJingYing_Common_NR25",
+            "music_chapter_Emo_NR25"
+        ],
+        "764724178": [
+            "Music_v56_Activity_MoNiJingYing_YangLiu_FR29",
+            "music_chapter_Emo_FR29"
+        ],
+        "654529730": "Music_v58_Activity_MaoXianQu_BossBattle_N821",
+        "839750548": "Music_v58_Activity_QianXing_Level5_6_K028",
+        "854886431": [
+            "Music_v58_Activity_TuYaPK_N820_Loop",
+            "Music_v58_Activity_TuYaPK_N820_Start"
+        ],
+        "456393212": "Music_v58_SpecialCase_Activity_BengDiCombat_QTE_N801",
+        "1026442924": [
+            "Music_v58_SpecialCase_Activity_BengDiCombat_QTE_N801_Loop",
+            "Music_v58_SpecialCase_Activity_BengDiCombat_QTE_N801_Start"
+        ],
+        "152056928": "Music_v58_SpecialCase_BengDi_Timeline_CS_N41",
+        "239020174": "Music_v60_Activity_CiXuanFu_K069",
+        "791999943": "Music_v60_SpecialCase_JiGuangHu_ShangLvNPC_K072",
+        "248637414": [
+            "music_Chapter01_Pole_FR12",
+            "music_chapter_Emo_FR12_LuHuoWeiAn"
+        ],
+        "79488470": [
+            "music_Chapter03_Pole_F092",
+            "music_dungeon_LinNi_F092"
+        ],
+        "667351013": [
+            "music_Chapter04_Pole_F075",
+            "music_explore_BW_F075"
+        ],
+        "337303617": "music_Cutscene_EQXS4121310",
+        "245258625": "music_OC_F020",
+        "987082728": "music_boss_dvalinS04",
+        "1028727569": "music_chaapter01_LaiXinShan_timeline_F25",
+        "697697607": [
+            "music_chapter01_Cook_F068",
+            "music_vehicle_WaterShip_F068"
+        ],
+        "772272054": [
+            "music_chapter01_HuaShenDanJi_X116",
+            "music_explore_Pyramid_X116"
+        ],
+        "251137469": [
+            "music_chapter01_KeLuoLinDe_F047",
+            "music_explore_BW_F047"
+        ],
+        "774081240": [
+            "music_chapter01_MengDeJianZhang_M207",
+            "music_weather_SM_D4"
+        ],
+        "851902372": [
+            "music_chapter01_MoNiJingYing_F028",
+            "music_explore_HuiHe_F028"
+        ],
+        "176509737": "music_chapter01_MonSad_FR19",
+        "616438816": "music_chapter01_MonSing_FR14",
+        "645338999": [
+            "music_chapter01_PaiGuangGao_M024",
+            "music_explore_mengde_day_02"
+        ],
+        "892511887": [
+            "music_chapter01_SaiNuo_XR01",
+            "music_chapter_Emo_XR01_QuQiuLeFa",
+            "music_quest_XM_humor_XR01"
+        ],
+        "230426508": "music_chapter01_YinYouYinDao_Harp",
+        "911870489": [
+            "music_chapter01_YinYou_D122",
+            "music_chapter03_Cook_D122"
+        ],
+        "610105699": "music_chapter01_ZhuXianZhongZhang_N022",
+        "736090064": [
+            "music_chapter01_ZhuXian_KR01",
+            "music_chapter06_ZhuXian_KR01"
+        ],
+        "58174517": [
+            "music_chapter02_AiKeFei_F046",
+            "music_explore_BW_F046"
+        ],
+        "443130338": "music_chapter02_HaiDengJie_FR21",
+        "712490184": [
+            "music_chapter02_HuaShenDanJi_X027",
+            "music_city_XuMi_X27"
+        ],
+        "76643436": [
+            "music_chapter02_KeLuoLinDe_F085",
+            "music_explore_BW_F085",
+            "music_main_chapter02_F085"
+        ],
+        "702032040": [
+            "music_chapter02_MengDeJianZhang_M201",
+            "music_weather_SM_A1"
+        ],
+        "872597717": [
+            "music_chapter02_Navia_F059",
+            "music_explore_BaiSongZhen_F059"
+        ],
+        "800581785": [
+            "music_chapter02_PaiGuangGao_L001",
+            "music_city_LiYue_day_B_M40"
+        ],
+        "524356583": [
+            "music_chapter02_Pole_Emo06BuAn",
+            "music_chapter10_KeLuoLinDe_M08"
+        ],
+        "1011695457": "music_chapter02_QianZhi",
+        "661327115": [
+            "music_chapter02_SaiNuo_X094",
+            "music_city_XuMi_X94"
+        ],
+        "867909437": [
+            "music_chapter02_SanChuanHuaJi_D059",
+            "music_explore_SheShenZhiShou_A2"
+        ],
+        "184981471": [
+            "music_chapter02_ZhuXianZhongZhang_NR12",
+            "music_chapter_Emo_NR12"
+        ],
+        "924472628": "music_chapter03_HaiDengJie_L006",
+        "788155509": [
+            "music_chapter03_QianZhi_F070",
+            "music_city_FengDan_F070"
+        ],
+        "183461902": [
+            "music_chapter03_SaiNuo_X140",
+            "music_explore_ShengXianTing_X140"
+        ],
+        "120452089": "music_chapter04_Cook_D123",
+        "620093375": [
+            "music_chapter04_Furina_Dead_FR17_B_01",
+            "music_chapter04_Furina_Dead_FR17_B_02"
+        ],
+        "717081221": [
+            "music_chapter04_Furina_F003",
+            "music_city_FengDan_F003"
+        ],
+        "927033822": [
+            "music_chapter04_Furina_F004",
+            "music_city_FengDan_F004"
+        ],
+        "330291729": [
+            "music_chapter04_Navia_F026",
+            "music_chapter05_PaiGuangGao_F026",
+            "music_explore_BaiSongZhen_F026"
+        ],
+        "111095661": "music_chapter04_SaiNuo_Emo15_17JinZhang",
+        "344256348": [
+            "music_chapter04_XiGeWen_F064",
+            "music_chapter_trial_F064"
+        ],
+        "718255962": "music_chapter05_Cook",
+        "1040828522": [
+            "music_chapter05_HaiDengJie_F421",
+            "music_explore_BW_F421"
+        ],
+        "808472952": [
+            "music_chapter05_KeLuoLinDe_F090",
+            "music_explore_BW_F090"
+        ],
+        "703360584": [
+            "music_chapter05_SaiNuo_X137b1",
+            "music_explore_ShengXianTing_X137b"
+        ],
+        "369911706": "music_chapter05_ZhuXianJianMu_CS_N06ed",
+        "705702836": "music_chapter05_ZhuXian_K065",
+        "316931709": "music_chapter06_Cook",
+        "394913044": "music_chapter06_MengJianYueRuiXi_NR18",
+        "186499264": [
+            "music_chapter06_SaiNuo_X024c",
+            "music_city_XuMi_X24c"
+        ],
+        "557858122": [
+            "music_chapter06_SaiNuo_X026",
+            "music_city_XuMi_X26"
+        ],
+        "997160650": [
+            "music_chapter06_ZhuXian_KR06",
+            "music_chapter_Emo_KR06"
+        ],
+        "68973391": "music_chapter06_ZhuXian_N061",
+        "611296826": [
+            "music_chapter08_KeLuoLinDe_F048",
+            "music_explore_BW_F048"
+        ],
+        "200160976": [
+            "music_chapter09_KeLuoLinDe_F036",
+            "music_explore_BW_F036"
+        ],
+        "888053098": "music_chapter_Emo_FR01_YuShiCaiDingZhiShi",
+        "298568802": "music_chapter_Emo_FR04_YanYiYuYanYiFa",
+        "822274250": [
+            "music_chapter_Emo_FR08_MoLuXinJiao",
+            "music_chapter_FR08"
+        ],
+        "314533319": [
+            "music_chapter_Emo_FR09_BiYingNiGuang",
+            "music_chapter_FR09"
+        ],
+        "5582158": "music_chapter_Emo_FR11_ZhongLinDeJiFa",
+        "51266310": "music_chapter_Emo_FR13_WeiPoZhiKe",
+        "138938794": "music_chapter_Emo_FR15_RuJuanDeYiLian",
+        "79673548": "music_chapter_Emo_FR16_JiuShiYiChen",
+        "1060166603": "music_chapter_Emo_FR18_TeErKeXiDeQingYu",
+        "23322131": "music_chapter_Emo_FR27",
+        "586991948": [
+            "music_chapter_Emo_GR03_JianYingYuNieBu",
+            "music_quest_suspicious"
+        ],
+        "79095185": "music_chapter_Emo_GR04_WeiXianDeXiaoJing",
+        "232377083": [
+            "music_chapter_Emo_GR06_EZheKeMeiXiangDao",
+            "music_quest_awkward"
+        ],
+        "823028793": [
+            "music_chapter_Emo_GR07_YouQuDeTiaoZhan",
+            "music_quest_playful",
+            "music_quest_playful_01",
+            "music_quest_playful_02"
+        ],
+        "535003777": "music_chapter_Emo_GR10_ZhenJing",
+        "58219641": "music_chapter_Emo_GR12_TongBanDeLiLiang",
+        "271777943": "music_chapter_Emo_GR13_WuLvWuCaiDeSuiYue",
+        "347339616": "music_chapter_Emo_GR14_PuWeiRuSi",
+        "42135994": "music_chapter_Emo_GR15_MoMaLiBing",
+        "473097738": "music_chapter_Emo_GR16_XiaoXiaoEZuoJu",
+        "726502993": "music_chapter_Emo_GR17_XiongXianDeMiMou",
+        "572421923": "music_chapter_Emo_KR05",
+        "323098330": "music_chapter_Emo_KR07",
+        "579116638": "music_chapter_Emo_KR09",
+        "567949237": "music_chapter_Emo_KR10",
+        "351424162": "music_chapter_Emo_NR01",
+        "529345434": "music_chapter_Emo_NR02",
+        "973404356": "music_chapter_Emo_NR03",
+        "49307990": "music_chapter_Emo_NR04",
+        "236301386": "music_chapter_Emo_NR06",
+        "62549318": "music_chapter_Emo_NR07",
+        "776516867": "music_chapter_Emo_NR08",
+        "610550267": "music_chapter_Emo_NR09",
+        "522011250": "music_chapter_Emo_NR11",
+        "1002242240": "music_chapter_Emo_NR13",
+        "297698186": "music_chapter_Emo_NR14",
+        "710359783": "music_chapter_Emo_NR17",
+        "166299927": "music_chapter_Emo_NR19",
+        "366552895": "music_chapter_Emo_NR19b",
+        "920543624": "music_chapter_Emo_NR20",
+        "367981899": "music_chapter_Emo_NR21",
+        "852678643": "music_chapter_Emo_NR22",
+        "139120552": "music_chapter_Emo_NR23",
+        "93980630": "music_chapter_Emo_NR24",
+        "548966522": "music_chapter_Emo_NR26",
+        "280367488": [
+            "music_chapter_Emo_X056_XianShiZhiKe",
+            "music_explore_DiaoLingZhiSen_X56"
+        ],
+        "438557446": "music_chapter_FR06",
+        "863777438": "music_chapter_FR06_loop",
+        "321370671": "music_chapter_FR07",
+        "816424787": "music_chapter_FR10",
+        "261740142": "music_chapter_trial_FR03",
+        "45991041": "music_city_FengDan_F005",
+        "960344513": "music_city_FengDan_F006",
+        "602318284": "music_city_FengDan_F045",
+        "766317937": "music_city_FengDan_F077",
+        "214392038": "music_city_LiYue_day_A",
+        "806834245": "music_city_LiYue_dusk",
+        "895307912": "music_city_LiYue_night_C_New",
+        "807774842": "music_city_LiYue_night_M46",
+        "655713917": "music_city_LiYue_night_M47",
+        "723047496": "music_city_MengDe_dawn",
+        "38647730": "music_city_MengDe_dusk",
+        "58753381": "music_city_XuMi_X02a",
+        "628404129": "music_city_XuMi_X03",
+        "1045590730": "music_city_XuMi_X04",
+        "74736530": "music_city_XuMi_X43",
+        "497335831": "music_city_XuMi_X48",
+        "752949560": "music_city_XuMi_X65",
+        "168715686": "music_city_mengde_day_01",
+        "191603067": "music_city_mengde_day_02",
+        "603725238": "music_city_mengde_day_03",
+        "994723831": "music_city_mengde_night_01",
+        "190570995": "music_city_mengde_night_02",
+        "159786226": "music_city_mengde_night_03",
+        "297173670": "music_city_mengde_night_04",
+        "696730968": "music_combat_A",
+        "478914784": [
+            "music_combat_B",
+            "music_combat_B_Loop",
+            "music_combat_B_Start"
+        ],
+        "136255647": "music_combat_C",
+        "49261198": [
+            "music_combat_CYJY_level1",
+            "music_combat_CYJY_level1_loop"
+        ],
+        "726076451": [
+            "music_combat_CYJY_level2_DDC_1",
+            "music_combat_CYJY_level2_DDC_2",
+            "music_combat_CYJY_level2_DDC_3_loop",
+            "music_combat_CYJY_level2_DDC_loop"
+        ],
+        "965216962": [
+            "music_combat_CYJY_level2_SMYJ_1",
+            "music_combat_CYJY_level2_SMYJ_2",
+            "music_combat_CYJY_level2_SMYJ_3_loop",
+            "music_combat_CYJY_level2_SMYJ_loop"
+        ],
+        "472748042": [
+            "music_combat_CYJY_level2_YGQJ_1",
+            "music_combat_CYJY_level2_YGQJ_2",
+            "music_combat_CYJY_level2_YGQJ_3_loop"
+        ],
+        "469114909": [
+            "music_combat_CYJY_level3_1",
+            "music_combat_CYJY_level3_2",
+            "music_combat_CYJY_level3_3_loop"
+        ],
+        "34673173": "music_combat_DaoQi_B",
+        "722901412": "music_combat_DaoQi_C",
+        "1004349364": "music_combat_DaoQi_D",
+        "244454803": "music_combat_FengDan_F011",
+        "474887520": "music_combat_FengDan_F013",
+        "950894835": [
+            "music_combat_G",
+            "music_combat_G_Loop",
+            "music_combat_G_Start"
+        ],
+        "927407383": [
+            "music_combat_J",
+            "music_combat_J_Loop",
+            "music_combat_J_Start"
+        ],
+        "845202045": [
+            "music_combat_LiYue_A_Loop",
+            "music_combat_LiYue_A_Start"
+        ],
+        "1043795978": [
+            "music_combat_LiYue_B_Loop",
+            "music_combat_LiYue_B_Start"
+        ],
+        "8514631": [
+            "music_combat_LiYue_C_Loop",
+            "music_combat_LiYue_C_Start"
+        ],
+        "735576514": "music_combat_LupiBoreasS02",
+        "600764806": [
+            "music_combat_XuMi_X101",
+            "music_combat_XuMi_X101_loop"
+        ],
+        "973452672": [
+            "music_combat_XuMi_X102",
+            "music_combat_XuMi_X102_loop"
+        ],
+        "262345734": [
+            "music_combat_XuMi_X151_Loop",
+            "music_combat_XuMi_X151_Start"
+        ],
+        "949776001": "music_combat_XuMi_X160",
+        "970330737": [
+            "music_combat_XuMi_X61",
+            "music_combat_XuMi_X61_loop"
+        ],
+        "142835112": [
+            "music_combat_XuMi_X62",
+            "music_combat_XuMi_X62_loop"
+        ],
+        "161541716": "music_combat_XuMi_X63",
+        "193741903": [
+            "music_combat_YXG_Elite_loop_01",
+            "music_combat_YXG_Elite_loop_02",
+            "music_combat_YXG_Elite_start"
+        ],
+        "983383532": [
+            "music_combat_YXG_MoRenGuaiWu_01_loop",
+            "music_combat_YXG_MoRenGuaiWu_01_start"
+        ],
+        "347113118": [
+            "music_combat_YXG_MoRenGuaiWu_02_loop",
+            "music_combat_YXG_MoRenGuaiWu_02_start"
+        ],
+        "599746471": "music_combat_elite_XuMi_X51",
+        "884299965": "music_combat_fightForRuin",
+        "741476973": "music_cutscene_1200803",
+        "194295854": "music_cutscene_120240201",
+        "77934408": "music_cutscene_201104",
+        "566874686": "music_cutscene_4131815",
+        "559107737": "music_cutscene_4132107",
+        "594792140": "music_cutscene_AQ30180401",
+        "302028356": "music_cutscene_AQ60000101_CS_K05",
+        "819232968": "music_cutscene_AQ60020101_CS_K08",
+        "833674475": "music_cutscene_AQ60040101_CS_K07",
+        "641678106": "music_cutscene_AQ60050101_CS_K06",
+        "710976687": "music_cutscene_AQ80070901",
+        "507515965": "music_cutscene_AQ801210",
+        "672221576": "music_cutscene_ApepAppear",
+        "553331719": "music_cutscene_DLCLQ001",
+        "279248936": "music_cutscene_DLCLQ003",
+        "620538542": "music_cutscene_DQLQ1201308",
+        "466574899": "music_cutscene_EQ4002802",
+        "943515260": "music_cutscene_EQ4010313",
+        "125080649": "music_cutscene_EQ4016315",
+        "744233186": "music_cutscene_EQ4016402",
+        "625456625": "music_cutscene_EQAST4101304",
+        "883862026": "music_cutscene_EQHDJ005",
+        "550072394": "music_cutscene_F22a",
+        "519189477": "music_cutscene_F22b",
+        "747981230": "music_cutscene_F22c",
+        "272747129": "music_cutscene_KYLQ005",
+        "430644088": "music_cutscene_LQ120391901",
+        "777155148": "music_cutscene_LQ130021101",
+        "285347371": "music_cutscene_LQ130080601",
+        "649051871": "music_cutscene_LQ140260701_F32",
+        "752049998": "music_cutscene_LQ150180501",
+        "568487079": "music_cutscene_LYAQ001",
+        "128985209": "music_cutscene_LYAQ002",
+        "746889668": "music_cutscene_LYAQ003",
+        "15003396": "music_cutscene_LYAQ004P1",
+        "627962007": "music_cutscene_LYAQ1112303",
+        "683890804": "music_cutscene_LYLQ1102402",
+        "903935736": "music_cutscene_MDAQ000",
+        "659453457": "music_cutscene_MDAQ001",
+        "13318021": [
+            "music_cutscene_MDAQ005",
+            "music_quest_MDAQ005P2"
+        ],
+        "474394176": "music_cutscene_MDAQ013",
+        "65444144": "music_cutscene_MDAQ015",
+        "488599224": [
+            "music_cutscene_MDAQ019",
+            "music_cutscene_MDAQ063"
+        ],
+        "777346762": "music_cutscene_MDAQ022",
+        "649034000": "music_cutscene_MDAQ024",
+        "798607409": "music_cutscene_MDAQ040",
+        "23632235": "music_cutscene_MDAQ041",
+        "1049285041": "music_cutscene_MDAQ063P2",
+        "722379855": "music_cutscene_MDAQ073P2",
+        "19124075": "music_cutscene_MNLQ001",
+        "651569151": "music_cutscene_RZLQ001",
+        "956467438": "music_cutscene_RZLQ004",
+        "128934674": "music_cutscene_WQ75145",
+        "1047942328": "music_cutscene_WQ75147",
+        "1031797448": "music_cutscene_WQ75149",
+        "867889603": "music_cutscene_WQ79060",
+        "671480668": "music_cutscene_WanYe",
+        "419369240": "music_cutscene_XLLQ001",
+        "874565217": "music_cutscene_XiaoGong",
+        "62372592": "music_cutscene_YLLQ1012008",
+        "1034643047": "music_cutscene_YXG_Gate",
+        "110546729": "music_cutscene_goddessUpgrade",
+        "752343764": [
+            "music_deadzone_combat_01",
+            "music_deadzone_combat_01_loop",
+            "music_deadzone_explore_01"
+        ],
+        "681554145": [
+            "music_deadzone_combat_01",
+            "music_deadzone_combat_01_loop"
+        ],
+        "242772682": [
+            "music_deadzone_combat_01",
+            "music_deadzone_combat_01_loop"
+        ],
+        "919066846": [
+            "music_deadzone_combat_02",
+            "music_deadzone_combat_02_loop",
+            "music_deadzone_explore_02"
+        ],
+        "167680458": [
+            "music_deadzone_combat_02",
+            "music_deadzone_combat_02_loop"
+        ],
+        "310030781": [
+            "music_deadzone_combat_02",
+            "music_deadzone_combat_02_loop"
+        ],
+        "163813280": [
+            "music_deadzone_combat_03",
+            "music_deadzone_explore_03"
+        ],
+        "481365814": "music_deadzone_combat_03",
+        "427450677": "music_deadzone_combat_03",
+        "938822335": "music_dungeon_com_CYJY_rogue",
+        "748555918": "music_dungeon_daoqi",
+        "402842488": "music_dungeon_tartaglia",
+        "772404045": "music_emotion_agitated",
+        "512840868": "music_explore_ARuCun_X153",
+        "696123763": "music_explore_ARuCun_X154a",
+        "407506544": "music_explore_ARuCun_X155",
+        "486423100": "music_explore_ARuCun_X156",
+        "165785095": "music_explore_AoMoSiGang_X18",
+        "655106731": "music_explore_AoMoSiGang_X19",
+        "61694084": "music_explore_AoMoSiGang_X40",
+        "597079513": "music_explore_AoMoSiGang_X41",
+        "870777847": [
+            "music_explore_BW_F037",
+            "music_explore_BW_F037b"
+        ],
+        "494405932": "music_explore_BW_F037a",
+        "664543693": "music_explore_BW_F039",
+        "667253914": "music_explore_BW_F040",
+        "792173169": "music_explore_BW_F041",
+        "219381171": [
+            "music_explore_BW_F049",
+            "music_explore_BW_F049b"
+        ],
+        "419742443": "music_explore_BW_F050",
+        "952032954": "music_explore_BW_F065",
+        "712160102": "music_explore_BW_F066",
+        "207108331": "music_explore_BW_F067",
+        "772665627": "music_explore_BW_F071",
+        "373764598": "music_explore_BW_F079",
+        "405254495": "music_explore_BW_F080",
+        "1058848336": "music_explore_BW_F083",
+        "273031959": "music_explore_BW_F084",
+        "206976266": "music_explore_BW_F093",
+        "17274689": "music_explore_BW_F102",
+        "1046662439": "music_explore_BW_F103",
+        "696571502": "music_explore_BW_F107",
+        "496737899": "music_explore_BW_F109",
+        "499479208": "music_explore_BW_F122",
+        "495079843": "music_explore_BW_F123",
+        "103458772": "music_explore_BW_F124",
+        "917813621": "music_explore_BW_F128",
+        "760000357": "music_explore_BW_F129",
+        "355504823": "music_explore_BW_F401",
+        "618958350": "music_explore_BW_F402",
+        "483790011": "music_explore_BW_F403",
+        "102680272": "music_explore_BW_F408",
+        "776232952": "music_explore_BW_F409",
+        "1002120894": "music_explore_BW_F411",
+        "571254571": "music_explore_BW_F418",
+        "205245091": "music_explore_BW_F420",
+        "741216419": "music_explore_BW_F422",
+        "749227935": "music_explore_BW_F435",
+        "227435201": "music_explore_BW_F439",
+        "979362750": "music_explore_BW_F440",
+        "770407743": "music_explore_BaSongDing_X602",
+        "479795610": "music_explore_BaSongDing_X613",
+        "644780673": "music_explore_BaSongDing_X618",
+        "282193099": "music_explore_BaSongDing_X619",
+        "677921748": "music_explore_BaYunDao_A1",
+        "788607069": "music_explore_BaYunDao_A2",
+        "304461976": "music_explore_BaYunDao_A3",
+        "567412487": "music_explore_BaYunDao_A4",
+        "611079985": "music_explore_BiShuiYuan_day_E",
+        "1050088926": "music_explore_CYJY_level1_01",
+        "1049396092": "music_explore_CYJY_level1_02",
+        "1017542931": "music_explore_CYJY_level1_03",
+        "438928215": "music_explore_CYJY_level1_04",
+        "13501434": "music_explore_CYJY_level1_05",
+        "511327520": "music_explore_CYJY_level1_06",
+        "140038712": "music_explore_CYJY_level1_07",
+        "22048333": "music_explore_CYJY_level1_08",
+        "688377905": "music_explore_CYJY_level1_anquanqu_01",
+        "848499808": "music_explore_CYJY_level1_anquanqu_02",
+        "897583045": "music_explore_CYJY_level2_DDC_01",
+        "190143883": [
+            "music_explore_CYJY_level2_DDC_02",
+            "music_explore_CYJY_level2_DDC_02_trans"
+        ],
+        "899889361": "music_explore_CYJY_level2_SMYJ_01",
+        "471236944": [
+            "music_explore_CYJY_level2_SMYJ_02",
+            "music_explore_CYJY_level2_SMYJ_02_trans"
+        ],
+        "535946397": "music_explore_CYJY_level2_YGQJ_01",
+        "382264539": [
+            "music_explore_CYJY_level2_YGQJ_02",
+            "music_explore_CYJY_level2_YGQJ_02_trans"
+        ],
+        "740291715": [
+            "music_explore_CYJY_level3_02",
+            "music_explore_CYJY_level3_02_trans"
+        ],
+        "911368132": "music_explore_CaiQiaoGu_day",
+        "380363826": "music_explore_CaiQiaoGu_night",
+        "185402680": "music_explore_Cave_F086",
+        "876835495": "music_explore_Cave_F087",
+        "402665236": "music_explore_Cave_F088",
+        "653156001": [
+            "music_explore_Cave_F108",
+            "music_explore_HouShanDongTian_F108"
+        ],
+        "795977173": "music_explore_Cave_X143",
+        "675255017": "music_explore_Cave_X144",
+        "425195995": "music_explore_Cave_X147",
+        "697176686": "music_explore_Cave_X611",
+        "752660255": "music_explore_Cave_X617",
+        "976334032": "music_explore_Cave_YiJi_X145",
+        "640657979": "music_explore_Cave_YiJi_X607",
+        "973397828": "music_explore_Cave_YiJi_X615",
+        "491545661": "music_explore_CengYanJuYuan_day-night_01",
+        "281860354": "music_explore_CengYanJuYuan_day-night_02",
+        "1042981605": "music_explore_CengYanJuYuan_day_01",
+        "28700452": "music_explore_CengYanJuYuan_day_02",
+        "1047143405": "music_explore_CengYanJuYuan_day_03",
+        "793098887": "music_explore_CengYanJuYuan_day_04",
+        "180021937": "music_explore_CengYanJuYuan_day_05",
+        "184323572": "music_explore_CengYanJuYuan_night_01",
+        "655498": "music_explore_CengYanJuYuan_night_02",
+        "49308647": "music_explore_CengYanJuYuan_night_03",
+        "417587514": "music_explore_CengYanJuYuan_night_04",
+        "201050178": "music_explore_Circus_X806",
+        "493585669": "music_explore_DaoQi_A2",
+        "149464289": "music_explore_DaoQi_A3",
+        "75625808": "music_explore_DaoQi_A4",
+        "528320252": "music_explore_DaoQi_B1",
+        "789921246": "music_explore_DaoQi_B2",
+        "785048494": "music_explore_DiHuaZhou_A",
+        "1027543062": "music_explore_DiHuaZhou_F",
+        "28841172": "music_explore_DiHuaZhou_G",
+        "191897906": "music_explore_DiHuaZhou_H",
+        "179979592": "music_explore_DiHuaZhou_I",
+        "474213577": "music_explore_DiaoLingDongXue_X57",
+        "713470750": "music_explore_DiaoLingZhiSen_X06",
+        "380280607": "music_explore_FDStation_F010",
+        "247429925": "music_explore_FDStation_F078",
+        "532541724": "music_explore_FaTiaoGongFang_F117",
+        "642851742": "music_explore_FangShaShaoZhan_X05",
+        "839750125": "music_explore_FangShaShaoZhan_X45",
+        "673066409": "music_explore_FangShaShaoZhan_X46",
+        "371982829": "music_explore_FangShaShaoZhan_X47",
+        "907312215": "music_explore_FeiTengHu_F025",
+        "288241734": "music_explore_FeiTengHu_F089",
+        "1050033998": "music_explore_FengRenLinZe_X426",
+        "1012130838": "music_explore_FerrisWheel_X804",
+        "989867788": "music_explore_FerrisWheel_X805",
+        "866245781": "music_explore_FerrisWheel_X814",
+        "753429241": "music_explore_FerrisWheel_X816",
+        "735477837": "music_explore_GanJinDao_A1",
+        "977163100": "music_explore_GanJinDao_A2",
+        "906190855": "music_explore_GanLuHuaHai_X603",
+        "735324938": "music_explore_GanLuHuaHai_X604",
+        "1006882566": "music_explore_GanLuHuaHai_X608",
+        "751509260": "music_explore_GanLuHuaHai_X612",
+        "334480162": "music_explore_GanTianCun_A1",
+        "653786343": "music_explore_GanTianCun_B1",
+        "209506603": "music_explore_GeJuYuan_F009",
+        "643984614": "music_explore_GeJuYuan_F034",
+        "400984655": "music_explore_GeJuYuan_F044",
+        "1012853961": "music_explore_GeJuYuan_F052",
+        "176723012": "music_explore_GeJuYuan_F061",
+        "815777758": "music_explore_GenShiDongKu_X07",
+        "258798670": "music_explore_GenShiDongKu_X89",
+        "729238488": "music_explore_GuiLiYuan_A",
+        "654886310": "music_explore_GuiLiYuan_B",
+        "684052424": "music_explore_GuiLiYuan_C",
+        "422302160": "music_explore_GuiLiYuan_D",
+        "165672941": "music_explore_HaiLuoQin_F076",
+        "11462952": "music_explore_HaiMoCun_F018",
+        "344253854": "music_explore_HaiMoCun_F074",
+        "124562141": "music_explore_HaiQiDao_A1",
+        "892628273": "music_explore_HaiQiDao_A2",
+        "706090713": "music_explore_HaiQiDao_A3",
+        "614716232": "music_explore_HaiQiDao_A4",
+        "634073749": "music_explore_HaiQiDao_A5",
+        "203135072": "music_explore_HaiQiDao_A6",
+        "277433238": "music_explore_HaiQiDao_A7",
+        "175824660": "music_explore_HeGuan_A1",
+        "113357379": "music_explore_HeGuan_A2",
+        "489175454": "music_explore_HeGuan_A3",
+        "342499829": "music_explore_HeGuan_A4",
+        "375173278": "music_explore_HeGuan_A5",
+        "920733390": "music_explore_HeGuan_A6",
+        "368179970": "music_explore_HeGuan_A7",
+        "549665042": "music_explore_HeGuan_A8",
+        "803398975": "music_explore_HuanYuZhiSen_X08a",
+        "353128709": "music_explore_HuanYuZhiSen_X09a",
+        "681601539": "music_explore_HuanYuZhiSen_X34",
+        "781227669": "music_explore_HuanYuZhiSen_X52",
+        "930777603": "music_explore_HuanYuZhiSen_X53",
+        "1066280983": "music_explore_HuanYuZhiSen_X54",
+        "96336506": "music_explore_HuanYuZhiSen_X55",
+        "868722411": "music_explore_HuiHe_F027",
+        "897653352": "music_explore_JiuTiaoZhenWu_A1",
+        "792624302": "music_explore_JiuTiaoZhenWu_A2",
+        "293550381": "music_explore_JiuTiaoZhenWu_A3",
+        "951590775": "music_explore_JuRenZhiBei_X10",
+        "1025813842": "music_explore_JuRenZhiBei_X36",
+        "818892135": "music_explore_JuRenZhiBei_X37",
+        "63120769": "music_explore_JuRenZhiBei_X38",
+        "233770728": "music_explore_JuRenZhiBei_X39",
+        "64138816": "music_explore_JuRenZhiBei_X60",
+        "566936560": "music_explore_JuShenZhiXin_F024",
+        "644853297": "music_explore_JuShenZhiXin_Inside_F023",
+        "512708777": "music_explore_JuShenZhiXin_Inside_F095",
+        "29510743": "music_explore_KongJianYiJi_F043",
+        "169436176": "music_explore_KongZhongShuiTi_F119",
+        "913004554": "music_explore_KongZhongShuiTi_F126",
+        "198237388": "music_explore_KongZhongShuiTi_F127",
+        "750554007": "music_explore_KongZhongShuiTi_F130",
+        "684344017": "music_explore_LP_A1",
+        "389382935": "music_explore_LeiShuiZhiCheng_F019",
+        "1003653051": "music_explore_LeiShuiZhiCheng_F030",
+        "536157868": "music_explore_LiDao_A_night",
+        "429954230": "music_explore_LiDao_day_A",
+        "1030086121": "music_explore_LiDao_day_B",
+        "86423974": "music_explore_LiDao_day_B2",
+        "955889878": "music_explore_LiDao_day_C",
+        "81603154": "music_explore_LiDao_night_A",
+        "654693243": "music_explore_LiDao_night_B",
+        "137285185": "music_explore_LiDao_night_C",
+        "799397378": "music_explore_LiDao_night_D",
+        "650108358": "music_explore_LiYue_day_01",
+        "349070107": "music_explore_LiYue_day_02",
+        "944938452": "music_explore_LiYue_night_01",
+        "218012450": "music_explore_LiYue_night_02",
+        "515156049": "music_explore_LvZhou_X119",
+        "362016828": "music_explore_LvZhou_X125",
+        "412642687": "music_explore_LvZhou_X126",
+        "627095069": "music_explore_LvZhou_X134",
+        "851732457": "music_explore_Marian_F060",
+        "768369706": "music_explore_MengDe_negative",
+        "85019842": "music_explore_MingShenDaShe_day",
+        "659121590": "music_explore_MingShenDaShe_night",
+        "535648689": "music_explore_MingShenDao_A1",
+        "316403560": "music_explore_MingShenDao_A2",
+        "316293412": "music_explore_MingShenDao_A3",
+        "457830129": "music_explore_MingShenDao_A4",
+        "547159852": "music_explore_MingShenDao_A5",
+        "591504228": "music_explore_MingShenDao_C1",
+        "923453440": "music_explore_MingShenDao_C2",
+        "705432988": "music_explore_MingShenDao_C3",
+        "802282839": "music_explore_MingShenDao_C4",
+        "228483903": "music_explore_MingShenDao_C5",
+        "961311605": "music_explore_MingShenDao_C6",
+        "834420719": "music_explore_MingShenDao_C7",
+        "880378784": "music_explore_MingZhuiTan_A1",
+        "757582165": "music_explore_MingZhuiTan_A2",
+        "994985481": "music_explore_Pyramid_X104",
+        "626441184": "music_explore_Pyramid_X110",
+        "623175272": "music_explore_Pyramid_X118",
+        "602612837": "music_explore_Pyramid_X127",
+        "712992633": "music_explore_Pyramid_X128",
+        "80788109": "music_explore_Pyramid_X129",
+        "64420199": "music_explore_Pyramid_X130",
+        "81186871": "music_explore_Pyramid_X131",
+        "200912469": "music_explore_Pyramid_X132",
+        "178697019": "music_explore_Pyramid_X141",
+        "30627650": "music_explore_QZJCZX_F110",
+        "796674462": "music_explore_QZJCZX_F115",
+        "210292688": "music_explore_QiZhu_X142",
+        "555469989": "music_explore_QiZhu_X149",
+        "69827964": "music_explore_QianLaiShenShe_A1",
+        "704864974": "music_explore_QianLaiShenShe_A2",
+        "857545469": "music_explore_QingLaiDao_A1",
+        "723419323": "music_explore_QingLaiDao_A2",
+        "1013628236": "music_explore_QingLaiDao_A3",
+        "307140501": "music_explore_QingLaiDao_A4",
+        "919432584": "music_explore_QingLaiDao_A5",
+        "61625131": "music_explore_QingLaiDao_A6",
+        "514604927": "music_explore_QingLaiDao_A7",
+        "943577892": "music_explore_QingQuanZhen_day_02",
+        "145174672": "music_explore_QiuQiuKeXueGuangChang_F125",
+        "399265366": "music_explore_SenDiMiJing_X11",
+        "693653293": "music_explore_SenDiMiJing_X28",
+        "21142854": "music_explore_SenDiMiJing_X29",
+        "450807769": "music_explore_SenDiMiJing_X30",
+        "310327186": "music_explore_SenDiMiJing_X31",
+        "218853877": "music_explore_SheGuKuangDong_A1",
+        "794936201": "music_explore_SheShenZhiShou_A1",
+        "92927784": "music_explore_SheShenZhiShou_A3",
+        "229643163": "music_explore_ShenLiWuFu_A1",
+        "320346132": "music_explore_ShenWuZhong_A1",
+        "430872013": "music_explore_ShenWuZhong_A2",
+        "461165427": "music_explore_ShenWuZhong_A3",
+        "262090691": "music_explore_ShenWuZhong_A3b",
+        "14555279": "music_explore_ShenWuZhong_A4",
+        "551087319": "music_explore_ShenYuanZhiKou_X32",
+        "738327357": "music_explore_ShenYuanZhiKou_X33",
+        "607992794": "music_explore_ShenYuanZhiKou_X90",
+        "899946427": "music_explore_ShenYuanZhiKou_X91",
+        "578028799": "music_explore_ShenYuanZhiKou_X92",
+        "686149910": "music_explore_ShengXianTing_X137a",
+        "241034481": "music_explore_ShuiShangCunZhuang_X16",
+        "287225652": "music_explore_ShuiShangCunZhuang_X17",
+        "624358530": "music_explore_ShuiXiaGongChang_F042",
+        "341325771": "music_explore_ShuiXiaGongChang_F120",
+        "197022919": "music_explore_ShuiXiaGongChang_F121",
+        "232649758": "music_explore_ShuiXiaGongChang_UW_F111",
+        "747222268": "music_explore_ShuiXiaGongChang_UW_F112",
+        "361441588": "music_explore_ShuiXiaGongChang_UW_F113",
+        "1061136617": "music_explore_ShuiXiaGongChang_channel_F116",
+        "415988447": "music_explore_ShuiXiaGongChang_channel_F118",
+        "1015727921": "music_explore_TaBeiSha_A1",
+        "407078477": "music_explore_TaBeiSha_A2",
+        "435964782": "music_explore_TaBeiSha_A3",
+        "654422120": "music_explore_TaBeiSha_A4",
+        "438429353": "music_explore_TaNiTeLuYingDi_X422",
+        "368388244": "music_explore_TaNiTeLuYingDi_X423",
+        "504098390": "music_explore_TaiTanYiJi_X12",
+        "92864793": "music_explore_TaiTanYiJi_X13",
+        "387059715": "music_explore_TaiTanYiJi_X35",
+        "677181352": "music_explore_TaiTanYiJi_X49",
+        "50246061": [
+            "music_explore_TaiTanYiJi_X49",
+            "music_explore_TaiTanYiJi_X59"
+        ],
+        "758451207": "music_explore_TaiTanYiJi_X50",
+        "1055653448": "music_explore_TaiTanYiJi_X58",
+        "221042757": "music_explore_TaiTanYiJi_X74",
+        "160686809": "music_explore_ThemePark_Castle_X807",
+        "38417281": "music_explore_ThemePark_Pirate_X813",
+        "972028850": "music_explore_ThemePark_X808",
+        "792889756": "music_explore_ThemePark_X810",
+        "389624984": "music_explore_ThemePark_X812",
+        "756931245": "music_explore_ThemePark_X818",
+        "525163260": "music_explore_ThemePark_X819",
+        "239073880": "music_explore_TuNiHeiYuan_X123",
+        "413709281": "music_explore_TuNiHeiYuan_X136b",
+        "539609988": "music_explore_UW_F014",
+        "177862507": "music_explore_UW_F015",
+        "421339347": "music_explore_UW_F016",
+        "88351248": "music_explore_UW_F017",
+        "888404101": "music_explore_UW_F032",
+        "79594112": "music_explore_UW_F033",
+        "349548361": "music_explore_UW_F058",
+        "962457641": "music_explore_UW_F063",
+        "339898834": "music_explore_UW_F069",
+        "116956176": "music_explore_UW_F072",
+        "337258553": "music_explore_WuJinHuiLang_F021",
+        "352441559": "music_explore_WuJinHuiLang_F029",
+        "581014472": "music_explore_WuXiangRenXiaJian_A1",
+        "268651733": "music_explore_WuXiangRenXiaJian_A2",
+        "113414013": "music_explore_XinFengKeYuan_F114",
+        "160636698": "music_explore_XuMi_BW_CSX22",
+        "737608955": "music_explore_XuMi_BW_X103",
+        "28543002": "music_explore_XuMi_BW_X105",
+        "1041369109": "music_explore_XuMi_BW_X106",
+        "431207217": "music_explore_XuMi_BW_X107",
+        "960917917": "music_explore_XuMi_BW_X108",
+        "408116640": "music_explore_XuMi_BW_X109",
+        "1014392922": "music_explore_XuMi_BW_X111",
+        "781779504": "music_explore_XuMi_BW_X112",
+        "956423941": "music_explore_XuMi_BW_X113",
+        "882136401": "music_explore_XuMi_BW_X114",
+        "519549785": "music_explore_XuMi_BW_X115",
+        "823857942": "music_explore_XuMi_BW_X117",
+        "167488262": "music_explore_XuMi_BW_X122",
+        "801300098": "music_explore_XuMi_BW_X124",
+        "563464261": "music_explore_XuMi_BW_X133",
+        "569611452": "music_explore_XuMi_BW_X146",
+        "392139817": "music_explore_XuMi_BW_X148",
+        "214669966": "music_explore_XuMi_BW_X14a",
+        "1059263995": "music_explore_XuMi_BW_X14b",
+        "882025883": "music_explore_XuMi_BW_X15",
+        "557353147": "music_explore_XuMi_BW_X152",
+        "1057567984": "music_explore_XuMi_BW_X157",
+        "102472832": "music_explore_XuMi_BW_X20",
+        "53955644": "music_explore_XuMi_BW_X21",
+        "243582329": "music_explore_XuMi_BW_X22a-v1",
+        "789616238": "music_explore_XuMi_BW_X22a-v2",
+        "403706550": "music_explore_XuMi_BW_X22b",
+        "674660934": "music_explore_XuMi_BW_X23a",
+        "290290808": "music_explore_XuMi_BW_X23b",
+        "1072746992": "music_explore_XuMi_BW_X24a",
+        "323853999": "music_explore_XuMi_BW_X24b",
+        "366494934": "music_explore_XuMi_BW_X25",
+        "693688069": "music_explore_XuMi_BW_X401",
+        "703674847": "music_explore_XuMi_BW_X404",
+        "1020116764": "music_explore_XuMi_BW_X405",
+        "616038472": "music_explore_XuMi_BW_X406",
+        "401418403": "music_explore_XuMi_BW_X407",
+        "912542489": "music_explore_XuMi_BW_X409",
+        "843654857": "music_explore_XuMi_BW_X410",
+        "2531415": "music_explore_XuMi_BW_X411",
+        "267951597": "music_explore_XuMi_BW_X413",
+        "247781623": "music_explore_XuMi_BW_X415",
+        "178909598": "music_explore_XuMi_BW_X416",
+        "463292321": "music_explore_XuMi_BW_X418",
+        "198079439": "music_explore_XuMi_BW_X419",
+        "869131383": "music_explore_XuMi_BW_X42",
+        "1053312079": "music_explore_XuMi_BW_X420",
+        "211491306": "music_explore_XuMi_BW_X425",
+        "63299776": "music_explore_XuMi_BW_X601",
+        "89284570": "music_explore_XuMi_BW_X605",
+        "605807411": "music_explore_XuMi_BW_X606",
+        "523186931": "music_explore_XuMi_BW_X609",
+        "430602507": "music_explore_XuMi_BW_X610",
+        "627351601": "music_explore_XuMi_BW_X614",
+        "927047971": "music_explore_XuMi_BW_X620",
+        "771948965": "music_explore_XuMi_BW_X621",
+        "649861504": "music_explore_XuMi_BW_X622",
+        "548546781": "music_explore_XuMi_BW_X623",
+        "843376021": "music_explore_XuMi_BW_X68",
+        "1025184996": "music_explore_XuMi_BW_X69",
+        "799925864": "music_explore_XuMi_BW_X70",
+        "405442326": "music_explore_XuMi_BW_X71",
+        "662618545": "music_explore_XuMi_BW_X72",
+        "1006750490": "music_explore_XuMi_BW_X73",
+        "898232688": "music_explore_XuMi_BW_X75",
+        "243352368": "music_explore_XuMi_BW_X76",
+        "243076718": "music_explore_XuMi_BW_X93",
+        "823734272": "music_explore_XuMi_BW_X95",
+        "687231584": "music_explore_XuMi_UG_X402",
+        "152101310": "music_explore_XuMi_UG_X408",
+        "993180057": "music_explore_XuMi_UG_X417",
+        "661724231": "music_explore_XuMi_UG_X421",
+        "400793723": "music_explore_XuMi_UG_X424",
+        "171827693": "music_explore_XuMi_X78",
+        "171034001": "music_explore_XuMi_X78",
+        "130806651": "music_explore_XuMi_X85",
+        "714986478": "music_explore_XuMi_X85",
+        "409014111": "music_explore_XuMi_X86",
+        "832095812": "music_explore_XuMi_X86",
+        "160570049": "music_explore_XuMi_X87",
+        "186711942": "music_explore_XuMi_X87",
+        "54041995": "music_explore_YXG_DaRiYuYu_25_01",
+        "618863702": "music_explore_YXG_DaRiYuYu_25_02",
+        "483751189": "music_explore_YXG_DaRiYuYu_25_03",
+        "916470798": "music_explore_YXG_DaRiYuYu_day_01",
+        "981157918": "music_explore_YXG_DaRiYuYu_day_02",
+        "673935356": "music_explore_YXG_DaRiYuYu_day_03",
+        "113245557": "music_explore_YXG_DaRiYuYu_night_01",
+        "922636736": "music_explore_YXG_DaRiYuYu_night_02",
+        "21177772": "music_explore_YXG_DaRiYuYu_night_03",
+        "308263829": "music_explore_YXG_SheChangZhiLu_01",
+        "432176232": "music_explore_YXG_main_day_01",
+        "229627565": "music_explore_YXG_main_day_02",
+        "979392252": "music_explore_YXG_main_day_03",
+        "573674342": "music_explore_YXG_main_day_04",
+        "242357070": "music_explore_YXG_main_day_05",
+        "638146802": "music_explore_YXG_main_day_06",
+        "197552570": "music_explore_YXG_main_day_07",
+        "941323923": "music_explore_YXG_main_day_08",
+        "837003311": "music_explore_YXG_main_day_09",
+        "149092856": "music_explore_YXG_main_day_10",
+        "405979883": "music_explore_YXG_main_day_11",
+        "1023702068": "music_explore_YXG_main_day_12",
+        "142549094": "music_explore_YXG_main_day_13",
+        "474825713": "music_explore_YXG_main_night_01",
+        "654798518": "music_explore_YXG_main_night_02",
+        "256075335": "music_explore_YXG_main_night_03",
+        "693724723": "music_explore_YXG_main_night_04",
+        "184207384": "music_explore_YXG_main_night_05",
+        "66563645": "music_explore_YXG_main_night_06",
+        "742331100": "music_explore_YXG_main_night_07",
+        "47355809": "music_explore_YXG_main_night_08",
+        "447648161": "music_explore_YXG_main_night_09",
+        "233714220": "music_explore_YXG_main_night_10",
+        "212423008": "music_explore_YiBiangDaTing_F104",
+        "326502572": "music_explore_YongHengLvZhou_X403a",
+        "146922132": "music_explore_YongHengLvZhou_X403b",
+        "37419087": "music_explore_YongHengLvZhou_X403c",
+        "764756165": "music_explore_YongHengLvZhou_X412",
+        "528509311": "music_explore_dragonNest_01",
+        "1000891771": "music_explore_dragonNest_02",
+        "78261972": "music_explore_dragonNest_03",
+        "838670777": "music_explore_inBoat_C",
+        "732663902": "music_explore_mengde_day_01",
+        "536230413": "music_explore_mengde_day_02",
+        "1018550253": "music_explore_mengde_day_03",
+        "706773557": "music_explore_mengde_day_04",
+        "12832170": "music_explore_mengde_day_05",
+        "273906494": "music_explore_mengde_day_06",
+        "873194651": "music_explore_mengde_day_08",
+        "634801133": "music_explore_mengde_day_09",
+        "24934535": "music_explore_mengde_day_10",
+        "557109564": "music_explore_mengde_day_11",
+        "1040695997": "music_explore_mengde_day_12",
+        "1069778080": "music_explore_mengde_day_13",
+        "1045493012": "music_explore_mengde_day_14",
+        "640434957": "music_explore_mengde_day_15",
+        "129366847": "music_explore_mengde_night_01",
+        "873438997": "music_explore_mengde_night_02",
+        "32398804": "music_explore_mengde_night_03",
+        "698154248": "music_explore_mengde_night_05",
+        "121812133": "music_explore_mengde_night_06",
+        "5210831": "music_explore_mengde_night_07",
+        "175025543": "music_explore_mengde_night_08",
+        "531049061": "music_explore_mengde_night_09",
+        "878460629": "music_explore_mengde_night_10",
+        "894533524": "music_explore_zone_ruins_01",
+        "490850055": "music_explore_zone_ruins_02",
+        "1062900556": "music_explore_zone_ruins_03",
+        "102921876": "music_explore_zone_winery_day_01",
+        "373800030": "music_explore_zone_winery_day_03",
+        "777774445": "music_explore_zone_winery_night_01",
+        "1020885662": "music_explore_zone_winery_night_02",
+        "65108693": "music_goddess_activate_mengde",
+        "1045584607": "music_login_common",
+        "125192142": [
+            "music_login_dawn",
+            "music_login_dusk"
+        ],
+        "476352662": "music_login_day",
+        "503700731": "music_login_night",
+        "1037568877": "music_object_shengjishu",
+        "665572248": "music_quest_Niloudance",
+        "268417083": "music_quest_Scaramouche",
+        "516394464": "music_quest_XianglingsPlan",
+        "425085964": "music_quest_awkward_02",
+        "959895920": "music_quest_danger",
+        "595845662": "music_quest_goodEndding",
+        "965444295": "music_quest_incoming",
+        "173553995": "music_quest_mengdeDialog",
+        "919429826": "music_quest_repression",
+        "114209104": "music_quest_reunion",
+        "1005978956": "music_quest_sayMyName",
+        "511800573": "music_quest_suspense_heavy",
+        "874266614": "music_quest_suspense_light",
+        "261485847": "music_quest_tense",
+        "664980890": "music_scene_daoqi_uyutei_B",
+        "197254179": "music_scene_xumi_library_X67",
+        "314209629": "music_stinger_combat",
+        "685005032": "music_theme_bond",
+        "683356377": "music_theme_bond_M",
+        "625907861": "music_theme_venti_harp",
+        "109360849": "music_vehicle_WaterShip_F035",
+        "198531704": "music_vehicle_WaterShip_F051",
+        "604157060": "music_weather_SM_A2",
+        "422800847": "music_weather_SM_A3",
+        "146118458": "music_weather_SM_A4",
+        "367652412": "music_weather_SM_A5",
+        "707297586": "music_weather_SM_B1",
+        "41795294": "music_weather_SM_B2",
+        "905735155": "music_weather_SM_B3",
+        "552886292": "music_weather_SM_B4",
+        "107692597": "music_weather_SM_B6",
+        "690221156": "music_weather_SM_C1",
+        "1014216801": "music_weather_SM_C2",
+        "533987522": "music_weather_SM_C3",
+        "475631286": "music_weather_SM_D1",
+        "134302071": "music_weather_SM_D2",
+        "466008929": "music_weather_SM_D3",
+        "100819569": "music_wq_chapter01_F008d",
+        "661667677": "sfx_monster_Eremite_freePose_playDaff_Loop_oud_01",
+        "1060232373": "sfx_monster_Eremite_freePose_playDaff_Loop_oud_18",
+        "42138964": "sfx_monster_Eremite_freePose_playDaff_Loop_oud_18_01",
+        "121943103": "sfx_monster_Eremite_freePose_playDaff_Loop_oud_19",
+        "92585247": "sfx_monster_Eremite_freePose_playDaff_Loop_oud_19_01",
+        "705111091": "sfx_monster_Eremite_freePose_playDaff_Loop_oud_20",
+        "477590737": "sfx_monster_Eremite_freePose_playDaff_Loop_oud_20_01",
+        "798085481": "sfx_monster_Eremite_freePose_playDaff_Loop_oud_21",
+        "224044020": "sfx_monster_Eremite_freePose_playDaff_Loop_oud_21_01",
+        "171491913": "sfx_monster_Eremite_freePose_playDaff_Loop_oud_22"
+    },
+    "HSR": {
+        "860349784": "BGM_Belobog_Combat_Cocolia_High_01",
+        "904752923": "BGM_Belobog_Combat_Cocolia_Low",
+        "807716686": "BGM_Belobog_Maze_M3_3_EverwinterHill",
+        "79383396": "BGM_Belobog_Maze_M3_3_PathSpace",
+        "7847104": "BGM_Belobog_Overworld_Battle_Low",
+        "330343707": "BGM_Belobog_Overworld_Flowershop",
+        "907417071": "BGM_Belobog_Overworld_Hollowing",
+        "934151": "BGM_Belobog_Overworld_Relaxing",
+        "726622932": "BGM_Belobog_Underworld_Combat_High",
+        "138287197": "BGM_Belobog_Underworld_Combat_Low",
+        "196190843": "BGM_Belobog_Underworld_Combat_Svarog",
+        "23593101": "BGM_Belobog_Underworld_Joyful",
+        "392839220": "BGM_Belobog_Underworld_M2_1A",
+        "289250785": "BGM_Belobog_Underworld_M2_2A",
+        "598322913": "BGM_Herta_Space_Station_Base_Zone",
+        "815525815": "BGM_Herta_Space_Station_Base_Zone_Combat",
+        "228228077": "BGM_Herta_Space_Station_Base_Zone_Combat_High",
+        "14023493": "BGM_Herta_Space_Station_Storage_Zone_Combat_full",
+        "321885412": "BGM_Herta_Space_Station_Storage_Zone_D",
+        "425437175": "BGM_Herta_Space_Station_Storage_Zone_E2_4",
+        "780099280": "BGM_Herta_Space_Station_Storage_Zone_E3_5",
+        "24761600": "BGM_Herta_Space_Station_Suppy_Zone_Combat_Beast",
+        "563697725": "BGM_JukeBox_Amphoreus_ADV_A00_MainTheme01",
+        "60160354": "BGM_JukeBox_Amphoreus_ADV_A01_Bath",
+        "811872641": "BGM_JukeBox_Amphoreus_ADV_A01_CavalryBeast",
+        "965609027": "BGM_JukeBox_Amphoreus_ADV_A01_Garden",
+        "960481671": "BGM_JukeBox_Amphoreus_ADV_A01_MainTheme",
+        "130585369": "BGM_JukeBox_Amphoreus_ADV_A01_Market",
+        "788097075": "BGM_JukeBox_Amphoreus_ADV_A02_Senate",
+        "752380645": "BGM_JukeBox_Amphoreus_ADV_A04",
+        "445672962": "BGM_JukeBox_Amphoreus_ADV_A05_Fairyland",
+        "642276075": "BGM_JukeBox_Amphoreus_ADV_A05_Village",
+        "195603908": "BGM_JukeBox_Amphoreus_Combat_ADV_Normal_High",
+        "941839896": "BGM_JukeBox_Amphoreus_Combat_ADV_Normal_Low",
+        "912319389": "BGM_JukeBox_Amphoreus_Combat_Boss_FireProwler",
+        "820330701": "BGM_JukeBox_Amphoreus_Combat_Boss_Hearse",
+        "862737526": "BGM_JukeBox_Amphoreus_Combat_Boss_Nikadory",
+        "902246577": "BGM_JukeBox_Amphoreus_Combat_Boss_Pollux",
+        "861732442": "BGM_JukeBox_Amphoreus_Combat_Boss_Serpent",
+        "428770835": "BGM_JukeBox_Amphoreus_Combat_Boss_Theoroi",
+        "670617653": "BGM_JukeBox_Amphoreus_Combat_Boss_Theoroi_Dark",
+        "941719025": "BGM_JukeBox_Amphoreus_Combat_DawnsEye_Phase01",
+        "1018398348": "BGM_JukeBox_Amphoreus_Combat_DawnsEye_Phase02",
+        "466762582": "BGM_JukeBox_Amphoreus_Combat_DawnsEye_Phase03",
+        "927780952": "BGM_JukeBox_Amphoreus_Combat_DawnsEye_Song",
+        "997178810": "BGM_JukeBox_Amphoreus_Combat_MAZ_A201_High",
+        "452719433": "BGM_JukeBox_Amphoreus_Combat_MAZ_A201_Low",
+        "923539004": "BGM_JukeBox_Amphoreus_Combat_MAZ_Normal_02_High",
+        "184565967": "BGM_JukeBox_Amphoreus_Combat_MAZ_Normal_02_Low",
+        "72451365": "BGM_JukeBox_Amphoreus_Combat_MAZ_Normal_High",
+        "885098235": "BGM_JukeBox_Amphoreus_Combat_MAZ_Normal_Low",
+        "542207878": "BGM_JukeBox_Amphoreus_MAZ_A02_Night_Senate",
+        "630729872": "BGM_JukeBox_Amphoreus_MAZ_A101_Colosseum",
+        "319049862": "BGM_JukeBox_Amphoreus_MAZ_A101_MainTheme",
+        "688457263": "BGM_JukeBox_Amphoreus_MAZ_A102_MainTheme",
+        "926357951": "BGM_JukeBox_Amphoreus_MAZ_A103_Entrance",
+        "824280602": "BGM_JukeBox_Amphoreus_MAZ_A201_OutDoor",
+        "301880325": "BGM_JukeBox_Amphoreus_MAZ_A202_MainTheme",
+        "948841822": "BGM_JukeBox_Amphoreus_MAZ_A203",
+        "405447592": "BGM_JukeBox_Amphoreus_MAZ_A501_SecretRoom",
+        "294227274": "BGM_JukeBox_Amphoreus_MAZ_A501_UnderGround",
+        "617448514": "BGM_JukeBox_Amphoreus_MAZ_A501_Village",
+        "402724652": "BGM_JukeBox_Amphoreus_MAZ_A502_ComputerRoom",
+        "466932404": "BGM_JukeBox_Amphoreus_MAZ_A601",
+        "302034407": "BGM_JukeBox_Amphoreus_MAZ_A602_Matrix",
+        "477601170": "BGM_JukeBox_Penacony_MusicProduction_DeepHouse",
+        "91975600": "BGM_JukeBox_Penacony_MusicProduction_Disco",
+        "1020395099": "BGM_JukeBox_Penacony_MusicProduction_HipHop",
+        "976109787": "BGM_JukeBox_Penacony_MusicProduction_JRock",
+        "630242052": "BGM_JukeBox_Penocony_ADV_P06",
+        "272746509": "BGM_JukeBox_Penocony_ADV_P06_Office",
+        "884932883": "BGM_Jukebox_Belobog_Cocolia_Vocal",
+        "778461344": "BGM_Jukebox_Belobog_Overworld_Grandhotel",
+        "785402497": "BGM_Jukebox_Combat_Avatar_Robin_Vocal",
+        "808311552": "BGM_Jukebox_Herta_Space_Station_Ending",
+        "1050226477": "BGM_Jukebox_Penocony_ADV_P01_ArcadeSq",
+        "64421390": "BGM_Jukebox_Penocony_ADV_P01_MainSt",
+        "966259922": "BGM_Jukebox_Penocony_ADV_P01_MarketSt",
+        "504958877": "BGM_Jukebox_Penocony_ADV_P01_NearOpera",
+        "85119054": "BGM_Jukebox_Penocony_ADV_P01_Prop_DreamShop",
+        "701323217": "BGM_Jukebox_Penocony_ADV_P02_Terrace",
+        "693968515": "BGM_Jukebox_Penocony_ADV_P05_CommonRoom",
+        "315422379": "BGM_Jukebox_Penocony_ADV_P05_Lobby",
+        "875717184": "BGM_Jukebox_Penocony_ADV_P401_Bridge",
+        "615590688": "BGM_Jukebox_Penocony_ADV_P401_Current",
+        "1040205323": "BGM_Jukebox_Penocony_ADV_Prop_JazzBand1",
+        "501658267": "BGM_Jukebox_Penocony_ADV_Prop_JazzBand2",
+        "1061789795": "BGM_Jukebox_Penocony_ADV_Prop_JazzBand3",
+        "758141379": "BGM_Jukebox_Penocony_ADV_Prop_JazzBand4",
+        "374334666": "BGM_Jukebox_Penocony_Combat_Aventurine",
+        "1071939244": "BGM_Jukebox_Penocony_Combat_Clock_A",
+        "509275257": "BGM_Jukebox_Penocony_Combat_Clock_BC",
+        "359292074": "BGM_Jukebox_Penocony_Combat_Clock_P2P3_SongVocal",
+        "799720929": "BGM_Jukebox_Penocony_Combat_Clock_SongIntro",
+        "747558215": "BGM_Jukebox_Penocony_Combat_Clock_SongOutro",
+        "483719041": "BGM_Jukebox_Penocony_Combat_Death",
+        "1014627746": "BGM_Jukebox_Penocony_Combat_P01_InDoor_High",
+        "419747315": "BGM_Jukebox_Penocony_Combat_P01_InDoor_Low",
+        "718301991": "BGM_Jukebox_Penocony_Combat_P01_OutDoor_High",
+        "785346857": "BGM_Jukebox_Penocony_Combat_P01_OutDoor_low",
+        "134679865": "BGM_Jukebox_Penocony_Combat_P03_InDoor_High",
+        "478879151": "BGM_Jukebox_Penocony_Combat_P03_InDoor_Low",
+        "374229712": "BGM_Jukebox_Penocony_Combat_P03_OutDoor_High",
+        "518510488": "BGM_Jukebox_Penocony_Combat_P03_OutDoor_Low",
+        "318326260": "BGM_Jukebox_Penocony_Combat_Sam",
+        "635048040": "BGM_Jukebox_Penocony_Gameplay_ClockBoy",
+        "266099632": "BGM_Jukebox_Penocony_Gameplay_MovieGame_Race",
+        "686225243": "BGM_Jukebox_Penocony_Gameplay_MovieGame_Shoot",
+        "6328661": "BGM_Jukebox_Penocony_Gameplay_WolfBro",
+        "328847138": "BGM_Jukebox_Penocony_MAZ_P101_MainTheme",
+        "702595253": "BGM_Jukebox_Penocony_MAZ_P102_MainTheme",
+        "201680312": "BGM_Jukebox_Penocony_MAZ_P102_Study",
+        "899389739": "BGM_Jukebox_Penocony_MAZ_P103_MainTheme",
+        "835671463": "BGM_Jukebox_Penocony_MAZ_P103_Terrace_Vocal",
+        "486385960": "BGM_Jukebox_Penocony_MAZ_P201_Gangster",
+        "239690095": "BGM_Jukebox_Penocony_MAZ_P201_Hamster",
+        "4680150": "BGM_Jukebox_Penocony_MAZ_P201_MainTheme",
+        "807331646": "BGM_Jukebox_Penocony_MAZ_P202_MainTheme",
+        "70583950": "BGM_Jukebox_Penocony_MAZ_P203_MainTheme",
+        "942279804": "BGM_Jukebox_Penocony_MAZ_P301_A1A2",
+        "174427664": "BGM_Jukebox_Penocony_MAZ_P301_B1",
+        "225430861": "BGM_Jukebox_Penocony_MAZ_P301_B2",
+        "394609389": "BGM_Jukebox_Penocony_MAZ_P301_MainTheme_Ver1",
+        "270766273": "BGM_Jukebox_Penocony_MAZ_P301_MainTheme_Ver3",
+        "1018934830": "BGM_Jukebox_Penocony_MAZ_P302_Chaos",
+        "805860076": "BGM_Jukebox_Penocony_MAZ_P302_MainTheme_Ver1",
+        "388538165": "BGM_Jukebox_Penocony_MAZ_P302_MainTheme_Ver2",
+        "708389082": "BGM_Jukebox_Penocony_MAZ_P302_Norm",
+        "244655928": "BGM_Jukebox_Penocony_MAZ_P302_Order",
+        "642577021": "BGM_Jukebox_Penocony_P4_Song_Vocal",
+        "156459569": "BGM_Jukebox_Spacetrain_Combat",
+        "679668188": "BGM_Jukebox_Spacetrain_Combat_Argenti",
+        "648054331": "BGM_Jukebox_Xianzhou_Combat_Feixiao",
+        "70922644": "BGM_Jukebox_Xianzhou_Combat_Fuyan",
+        "1032928123": "BGM_Jukebox_Xianzhou_Combat_LycanKing",
+        "355549113": "BGM_Jukebox_Xianzhou_Combat_Phantylia_01",
+        "342391119": "BGM_Jukebox_Xianzhou_Combat_Phantylia_02",
+        "1011064258": "BGM_Jukebox_Xianzhou_Combat_Phantylia_03",
+        "641104838": "BGM_Jukebox_Xianzhou_Combat_X401_High",
+        "1033541713": "BGM_Jukebox_Xianzhou_Combat_X401_Low",
+        "845543013": "BGM_Jukebox_Xianzhou_Combat_X402_High",
+        "247966797": "BGM_Jukebox_Xianzhou_Combat_X402_Low",
+        "842649507": "BGM_Jukebox_Xianzhou_Combat_Yanqing_Stinger",
+        "4988458": "BGM_Jukebox_Xianzhou_Danheng_Vocal",
+        "646319887": "BGM_Jukebox_Xianzhou_MAZ_X401_Fire",
+        "881954857": "BGM_Jukebox_Xianzhou_MAZ_X401_Ice",
+        "323906185": "BGM_Jukebox_Xianzhou_MAZ_X402_OutDoor",
+        "152533900": "BGM_Jukebox_Xianzhou_MAZ_X403",
+        "565017399": "BGM_Jukebox_Xianzhou_Maze_Alchemy_Commission",
+        "876712143": "BGM_Jukebox_Xianzhou_Maze_Arteria_Inceptionis",
+        "788714477": "BGM_Jukebox_Xianzhou_Maze_Scalegorge_Waterscape",
+        "688794374": "BGM_Jukebox_Xianzhou_Maze_Scalegorge_Waterscape_OpenSea",
+        "833050080": "BGM_Jukebox_Xianzhou_Maze_SuiGarden",
+        "745092632": "BGM_Jukebox_Xianzhou_Maze_X3_Combat_High",
+        "105139624": "BGM_Jukebox_Xianzhou_Maze_X3_Combat_Low",
+        "43730896": "BGM_Jukebox_Xianzhou_Sanctum_Alley",
+        "92431254": "BGM_Xianzhou_Combat_Kafuka",
+        "508312696": "BGM_Xianzhou_Exalting_Sanctum",
+        "443232188": "BGM_Xianzhou_Exalting_Sanctum_Combat_Abundant_Ebon_Deer",
+        "341250018": "BGM_Xianzhou_Maze_Artisanship_Commission",
+        "752517820": "BGM_Xianzhou_Maze_Cloudford",
+        "564758724": "BGM_Xianzhou_Maze_Divination_Commission",
+        "787892762": "BGM_Xianzhou_Maze_Stargazer_Navalia",
+        "139278119": "BGM_Xianzhou_Maze_X1_1_Combat_High",
+        "395777464": "BGM_Xianzhou_Maze_X1_1_Combat_Low",
+        "187192704": "BGM_Xianzhou_Maze_X2_1_Combat_High",
+        "685650695": "BGM_Xianzhou_Maze_X2_1_Combat_Low",
+        "353582510": "BGM_Xianzhou_Palace_of_Astrum",
+        "842913012": "BGM_Xianzhou_Seat_of_Divine_Foresight",
+        "315021168": "BGM_Xianzhou_Starskiff_Haven",
+        "574471730": "State_Amphoreus_Cmobat_Boss_FireProwler_P1",
+        "1008179209": "State_Amphoreus_Cmobat_Boss_FireProwler_P1",
+        "947913558": "State_Amphoreus_Cmobat_Boss_FireProwler_P2",
+        "961740632": "State_Amphoreus_Cmobat_Boss_FireProwler_P2",
+        "634641865": "State_Amphoreus_Combat_Boss_FireProwlerNoMask",
+        "988806326": "State_Amphoreus_Combat_Boss_FireProwlerNoMask",
+        "259918617": "State_Amphoreus_Combat_Boss_Hearse",
+        "865731174": "State_Amphoreus_Combat_Boss_Hearse",
+        "530895465": "State_Amphoreus_Combat_Boss_Nikadory",
+        "654983566": "State_Amphoreus_Combat_Boss_Nikadory",
+        "171147901": "State_Amphoreus_Combat_Boss_Pollux_P1",
+        "518924119": "State_Amphoreus_Combat_Boss_Pollux_P1",
+        "108438412": "State_Amphoreus_Combat_Boss_Pollux_P2",
+        "1000240477": "State_Amphoreus_Combat_Boss_Pollux_P2",
+        "218138858": "State_Amphoreus_Combat_Boss_Serpent",
+        "739109348": "State_Amphoreus_Combat_Boss_Serpent",
+        "24324019": "State_Amphoreus_Combat_Boss_Theoroi",
+        "418415995": "State_Amphoreus_Combat_Boss_Theoroi",
+        "666788264": "State_Amphoreus_Combat_Boss_Theoroi_Dark",
+        "892345961": "State_Amphoreus_Combat_Boss_Theoroi_Dark",
+        "918914599": "State_Amphoreus_Combat_DawnsEye_Phase01",
+        "422617454": "State_Amphoreus_Combat_DawnsEye_Phase02",
+        "451903728": "State_Amphoreus_Combat_DawnsEye_Phase02",
+        "196245954": "State_Amphoreus_Combat_DawnsEye_Phase03",
+        "208037855": "State_Amphoreus_Combat_DawnsEye_Phase03",
+        "305587356": "State_Amphoreus_Combat_DawnsEye_Phase04_Weekly",
+        "817250255": "State_Belobog_Combat_Cocolia_High_01",
+        "435737021": "State_Belobog_Combat_Cocolia_High_02",
+        "257910157": "State_Belobog_Combat_Cocolia_High_02",
+        "1062506702": "State_Belobog_Combat_Cocolia_Low",
+        "306823752": "State_Belobog_Combat_Cocolia_Low",
+        "485383818": "State_Belobog_Underworld_Combat_Svarog",
+        "706306585": "State_Belobog_Underworld_Combat_Svarog",
+        "6625455": "State_Combat_ZhiGengNiao_UltraSkill",
+        "173889886": "State_Combat_ZhiGengNiao_UltraSkill",
+        "322636558": [
+            "State_Combat_ZhiGengNiao_UltraSkill",
+            "State_Combat_ZhiGengNiao_UltraSkill_DoubleSpeed"
+        ],
+        "154952040": [
+            "State_Combat_ZhiGengNiao_UltraSkill",
+            "State_Combat_ZhiGengNiao_UltraSkill_DoubleSpeed"
+        ],
+        "976040860": "State_Combat_ZhiGengNiao_UltraSkill_DoubleSpeed",
+        "491312655": "State_Combat_ZhiGengNiao_UltraSkill_DoubleSpeed",
+        "898850708": "State_Combat_ZhiGengNiao_UltraSkill_Ready",
+        "1070367636": "State_Herta_Space_Station_Base_Zone_Combat_03",
+        "80050": "State_Penocony_Combat_Aventurine_Common",
+        "539854667": "State_Penocony_Combat_Aventurine_Common",
+        "542056066": "State_Penocony_Combat_Aventurine_Ultra",
+        "96744320": "State_Penocony_Combat_Aventurine_Ultra",
+        "866204889": "State_Penocony_Combat_Aventurine_Ultra",
+        "823758584": "State_Penocony_Combat_Aventurine_Ultra",
+        "104039409": "State_Penocony_Combat_Clock_Choir02",
+        "1007998948": "State_Penocony_Combat_Clock_Choir02_DoubleSpeed",
+        "799819292": "State_Penocony_Combat_Clock_P1",
+        "820472028": "State_Penocony_Combat_Clock_P1",
+        "563044859": "State_Penocony_Combat_Clock_P2",
+        "204642017": "State_Penocony_Combat_Clock_P3_Die",
+        "264208627": "State_Penocony_Combat_Clock_P3_Die",
+        "372867936": "State_Penocony_Combat_Clock_Pre",
+        "28145304": "State_Penocony_Combat_Clock_Pre",
+        "84255126": "State_Penocony_Combat_Clock_Pre",
+        "570969003": "State_Penocony_Combat_Death",
+        "620412078": "State_Penocony_Combat_Death",
+        "633218823": "State_Penocony_Combat_Death_02",
+        "292930551": "State_Penocony_Combat_P03_InDoor_High_Ver2",
+        "520727452": "State_Penocony_Combat_P03_InDoor_High_Ver2",
+        "44441306": "State_Penocony_Combat_Sam",
+        "1066022638": "State_Penocony_Combat_Sam",
+        "222205037": "State_Spacetrain_Combat_Argenti",
+        "891746708": "State_Spacetrain_Combat_Argenti",
+        "12535227": "State_Xianzhou_Combat_Feixiao_P1",
+        "208328135": "State_Xianzhou_Combat_Feixiao_P1",
+        "172331657": "State_Xianzhou_Combat_Feixiao_P2",
+        "936096558": "State_Xianzhou_Combat_Feixiao_P2",
+        "1067315605": "State_Xianzhou_Combat_Fuyan",
+        "105768594": "State_Xianzhou_Combat_Kafuka",
+        "370643369": "State_Xianzhou_Combat_LycanKing",
+        "758342450": "State_Xianzhou_Combat_LycanKing",
+        "697489044": "State_Xianzhou_Combat_Phantylia_01",
+        "407680816": "State_Xianzhou_Combat_Phantylia_01",
+        "752856407": "State_Xianzhou_Combat_Yanqing",
+        "569228873": "State_Xianzhou_Combat_Yanqing"
+    }
+}
