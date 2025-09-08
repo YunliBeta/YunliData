@@ -10,7 +10,7 @@ It is hereby forbidden to marry one's closest kin. That is to say, no union shal
 It is forbidden to enter into marriage with someone from a clan that has committed blasphemy.
 It is forbidden to enter into marriage with someone from a clan that has taken the life of an innocent.
 It is forbidden to enter into marriage with someone from a clan that has broken its oath.
-It is forbidden to enter into marriage with someone from a clan that does not bear a horned crown.
+It is forbidden to enter into marriage with someone from a clan that does not bear an antlered crown.
 It is forbidden to enter into marriage with someone from a clan that has committed parricide.
 It is forbidden to enter into marriage with any person disturbed of mind.
 It is forbidden to enter into marriage with the descendants of the fae.
@@ -19,7 +19,7 @@ It is forbidden to enter into marriage with an outlander.
 Marriage is a most sacred act of virtue and must be kept pure. Therefore, let no unclean act stain our bloodline.
 Let no action be taken to incur the displeasure of the mistress of the Frost Moon, and let no one betray their oaths.
 Whosoever enters into marriage must first obtain the permission and blessing of the Archpriestess, lest a curse befall their bloodline.
-Said curse shall plague their bloodline for seven generations and then seven more.
+Said curse shall plague their bloodline for seven generations, and then for seven more.
 Whosoever breaks this oath shall have their horns severed with a silver blade. They who have been marked thus shall be cast into the long, lightless night.
 Hear now the ancient prophecy: In the fullness of time, Elysium shall come, and with it, the sovereign ordained to rule over it shall also appear.
 The false sevenfold radiance of the high heavens shall fall at her feet, and the bones of the earth shall rise to follow her.
@@ -27,15 +27,15 @@ For from her shall spring union with the world, and from her shall the first gre
 Let these words of wisdom find root in your heart, and neglect not the sanctity of your blessed bloodline.
 
 ...
-Decree VI: Offerings to the SAMPO
+Decree VI: Offerings to the Sampo Mill
 The children of Hyperborea shall guard the sacred treasure forged by the apostle of the Golden City at all costs.
-Let it be known that the relic that is the SAMPO is a sacred work, for its blessing yields unending gold, grain, and salt.
-Only the prophesied sacred heir shall have the power to rouse the SAMPO, and thus bring forth an Elysium of eternal abundance for us all.
-According to the revelation of our ancestors, the sacred heir, even before her birth, shall be sealed within a holy sanctum to preserve her from taint and desecration until the appointed time.
-All followers below the rank of priestess shall not enter the holy sanctuary wherein the SAMPO is sealed. Those who violate this precept shall have a curse befall their bloodline.
-Said curse shall plague their bloodline for seven generations, and then seven more.
-Before sowing in spring, an offering of wheat, goat's milk, and salt must be made unto the SAMPO, lest famine befall you.
-At least one priestess shall be designated to chant prayers to the SAMPO day and night, to ensure a bountiful harvest and enduring prosperity.
+Let it be known that the relic that is the Sampo Mill is a sacred work, for its blessing yields unending gold, grain, and salt.
+Only the prophesied sacred heir shall have the power to rouse the Mill, and thus bring forth an Elysium of eternal abundance for us all.
+According to the revelation of our ancestors, the Mill shall be sealed within a holy sanctum to preserve it from taint and desecration until the appointed time, when the sacred heir is born at last.
+All followers below the rank of priestess shall not enter the holy sanctuary wherein the Mill is sealed. Those who violate this precept shall have a curse befall their bloodline.
+Said curse shall plague their bloodline for seven generations, and then for seven more.
+Before sowing in spring, an offering of wheat, goat's milk, and salt must be made unto the Sampo Mill, lest famine befall you.
+At least one priestess shall be designated to chant prayers to the Mill day and night, to ensure a bountiful harvest and enduring prosperity.
 
 ...
 Decree X: Offering to the Arrow of Terpikeraunas
@@ -49,5 +49,5 @@ Add sulfur, salt, sawdust, and wax in their proper order while stirring with gre
 Stir until the substances inside the vessel are of one uniform color.
 The number for your counting shall be seven hours. Six you shall not count, neither count you eight,
 Excepting that you should count to seven. Five and nine are right out.
-Then, anoint your bow and arrow with the holy oil,
+Then, anoint your bow and arrows with the holy oil,
 And your arrows shall snuff out the pitch-black foe, shattering them like plates of silver.
