@@ -26,6 +26,10 @@
             "music_cutscene_Wsqh_U610_Loop",
             "music_cutscene_Wsqh_U610_Start"
         ],
+        "753429241": [
+            "Beyond_Music_Scene_Level_Yly_X816",
+            "music_explore_FerrisWheel_X816"
+        ],
         "492937576": "L10_music_explore_WangShuKeZhan_day",
         "819547704": "L11_music_explore_LiYue_B",
         "915471035": "L12_music_explore_QingCeZhuang_A_3_0",
@@ -41,9 +45,11 @@
         "701589675": "L36_music_explore_GuiLiYuan_C",
         "345152271": "L37_music_explore_GuiLiYuan_D",
         "939409772": "L39_music_explore_MinLin_E",
+        "840321909": "L40_music_scene_northlandBank",
         "555803006": "L41_music_explore_BiShuiYuan_A",
         "1007875621": "L42_music_explore_BiShuiYuan_B",
         "211986270": "L43_music_explore_zone_winery_day_NEW_A",
+        "821137281": "L44_music_scene_liyue_liuliting",
         "510415257": "L45_music_explore_MinLin_C",
         "961406772": "L46_music_explore_BiShuiYuan_E",
         "20714195": "L47_music_explore_GuiLiYuan_A",
@@ -54,7 +60,10 @@
         "807191371": "L55_music_combat_LupiBoreasS01_edited",
         "764591658": "L56_music_explore_LiYue_F",
         "603706746": "L57_music_explore_LiYue_G",
-        "816167065": "L58_music_explore_LiYue_H",
+        "816167065": [
+            "L58_music_explore_LiYue_H",
+            "Music_Dungeon_Activity_JueSeZhuanJing_Qiqi_L058"
+        ],
         "685287793": "L59_music_explore_MinLin_G",
         "47765947": "L60_music_explore_MinLin_I",
         "837487996": "L61_music_explore_LiYue_E_ErHu",
@@ -82,7 +91,10 @@
         "831956517": "L76_music_explore_BiShuiYuan_G_Erhu+Piano",
         "651648887": "L77_music_explore_BiShuiYuan_I",
         "836732735": "L78_music_explore_DiZhongZhiYan_A",
-        "634364563": "L79_music_explore_LiYue_B",
+        "634364563": [
+            "L79_music_explore_LiYue_B",
+            "Music_Dungeon_Activity_JueSeZhuanJing_Qiqi_L079"
+        ],
         "309603890": "L80_music_explore_LiYue_C",
         "79358565": "L81_music_explore_MinLin_B",
         "763655864": "L82_music_explore_MinLin_D",
@@ -102,6 +114,10 @@
         "544297093": "L93_music_explore_BiShuiYuan_K",
         "908491447": "M03_music_scene_mengde_church",
         "1037834722": "M04_music_combat_C(dungeon_ice)",
+        "654724513": [
+            "M04_music_combat_C(dungeon_ice)_UGC",
+            "M04_music_combat_C(dungeon_ice)_UGC_loop"
+        ],
         "501026093": "M11_music_combat_E",
         "640137243": "M13_music_combat_A(dungeon_fire)",
         "255057382": "M20_music_boss_dvalinS01",
@@ -122,7 +138,10 @@
             "M63_music_quest_happy",
             "music_chapter_Emo_GR09_KaiXinDeYiTian"
         ],
-        "175355110": "M65_music_quest_niceDay",
+        "175355110": [
+            "M65_music_quest_niceDay",
+            "Music_Dungeon_JiMaPaiDui_GR02"
+        ],
         "478914784": [
             "Music_Activity_QiuQiu_Boss_combat_B_Loop",
             "Music_Activity_QiuQiu_Boss_combat_B_Start",
@@ -187,8 +206,14 @@
             "Music_Dungeon_MoRenGuaiWu_NaTa_N013"
         ],
         "679529144": "Music_Combat_NanShanYinShou_F431",
-        "100494426": "Music_Combat_Nutcracker_S01_loop",
-        "280277610": "Music_Combat_Nutcracker_S02",
+        "100494426": [
+            "Music_Combat_Nutcracker_S01",
+            "Music_Combat_Nutcracker_S01_loop"
+        ],
+        "280277610": [
+            "Music_Combat_Nutcracker_S02",
+            "Music_Combat_Nutcracker_S02_loop"
+        ],
         "832868701": "Music_Combat_RenMa_F626",
         "1039197988": "Music_Combat_RenMa_F626",
         "167885802": [
@@ -200,6 +225,7 @@
             "Music_Explore_SiXiangFengYin_AB_F214"
         ],
         "801264865": "Music_Combat_TheAbyssXiuhcoatl_JuQing_S02_N305",
+        "1062581414": "Music_Combat_TheAbyssXiuhcoatl_ZhouBen_N306",
         "853299061": [
             "Music_Combat_WeiGuanYuZhou_F012",
             "music_combat_FengDan_F012"
@@ -234,9 +260,20 @@
             "Music_Dungeon_Activity_JueSeZhuanJing_Kazuha_CS_D02a",
             "music_scene_daoqi_syabugyo"
         ],
+        "320346132": [
+            "Music_Dungeon_Activity_JueSeZhuanJing_Kazuha_D047",
+            "music_explore_ShenWuZhong_A1"
+        ],
         "772404045": [
             "Music_Dungeon_Activity_JueSeZhuanJing_WenDi_M052",
             "music_emotion_agitated"
+        ],
+        "551482449": [
+            "Music_Dungeon_BW_NaTa_CopyWorld_Day_N023",
+            "Music_Explore_BW_HuoShanQuYu_Day_N023",
+            "Music_Explore_BW_NaTa_Day_N023",
+            "Music_Explore_BW_Smr_JiNiQi_Day_N023",
+            "music_chapter04_DaHuoDong_N023"
         ],
         "914209542": [
             "Music_Dungeon_BW_NaTa_CopyWorld_Day_N044",
@@ -280,6 +317,7 @@
             "Music_Explore_BW_Smr_JiNiQi_Night_N079"
         ],
         "34152166": "Music_Dungeon_BW_NaTa_CopyWorld_Stage_02_N101",
+        "914984115": "Music_Dungeon_BW_NaTa_CopyWorld_Stage_03_N103",
         "124848058": [
             "Music_Dungeon_Combat_Activity_JueSeZhuanJing_Ningguang_L066",
             "music_dungeon_huzhongdongtian"
@@ -310,6 +348,7 @@
         "755607": "Music_Dungeon_HaiDengJie_HuTaoYiShiKongJian",
         "804543815": "Music_Dungeon_HaiDengJie_HuTaoYiShiKongJian",
         "1045268866": "Music_Dungeon_HuoShenKongJianV2_N062",
+        "446211445": "Music_Dungeon_JiMaPaiDui_I612",
         "451883832": "Music_Dungeon_KaLiBeiEr_S01_F703",
         "766567034": "Music_Dungeon_KaLiBeiEr_S02_CS-F34",
         "407560447": [
@@ -317,6 +356,8 @@
             "Music_v53_Activity_JieBaFangKuai_FR22",
             "music_chapter_Emo_FR22_CunXiangHuanSheng"
         ],
+        "197884890": "Music_Dungeon_LiShiZhiWuCunFangShi_N206",
+        "839393612": "Music_Dungeon_LiuYun_FR24",
         "782156052": "Music_Dungeon_LiuYun_FR25",
         "850263006": "Music_Dungeon_QiaSiKa_N235",
         "1042142070": "Music_Dungeon_QianZhiDiCheng_N302",
@@ -342,11 +383,18 @@
             "Music_Dungeon_Smr_AiMeiLiAi_X089",
             "music_explore_GenShiDongKu_X89"
         ],
+        "1008053142": "Music_Dungeon_TearLand_Black_F219",
         "1023258954": "Music_Dungeon_TearLand_Black_F220",
+        "877881083": "Music_Dungeon_TearLand_White_F218",
         "707978262": "Music_Dungeon_WaLeiSha_N524b",
+        "548392958": "Music_Dungeon_WaLeiSha_Run_N524",
         "197022919": [
             "Music_Dungeon_XiGeWenDiCheng_F121",
             "music_explore_ShuiXiaGongChang_F121"
+        ],
+        "1051178157": [
+            "Music_Dungeon_XiTeLaLi_N213",
+            "Music_Explore_LingShiLongBuLuo_day_N213"
         ],
         "1002242240": [
             "Music_Dungeon_ZhuXian_HuoShenKongJianV3_Stage_01_NR13",
@@ -356,7 +404,12 @@
             "Music_Dungeon_ZhuXian_HuoShenKongJianV3_Stage_02_NR14",
             "music_chapter_Emo_NR14"
         ],
+        "919119265": [
+            "Music_Dungeon_v58_LianJiPenHui_N811_Loop",
+            "Music_Explore_TuYaXiaGu_day_N811"
+        ],
         "1054685386": "Music_Dungeon_v60_LaWuMa_KR01",
+        "673032712": "Music_Dungeon_v60_MoonAltar_Flight_K039",
         "190600791": "Music_Dungeon_v60_MoonAltar_K076",
         "386078808": "Music_Dungeon_v61_ChiYueKongJian_K104",
         "513137705": "Music_Dungeon_v61_ChiYueKongJian_K104a",
@@ -365,6 +418,7 @@
             "Music_Dungeon_v61_ChiYueKongJian_K104a_Loop"
         ],
         "316741038": "Music_Dungeon_v61_LieYueRenHuiYi_Chess_K106",
+        "920945239": "Music_Dungeon_v61_LieYueRenHuiYi_Final_K107",
         "698066707": "Music_Dungeon_v61_LieYueRenHuiYi_Normal_K106a",
         "718469346": "Music_Emo_17QianXing_DuoMaoMao",
         "742059817": "Music_Explore_AnXiZhiDian_F630",
@@ -396,6 +450,10 @@
             "Music_Explore_BW_GongYueShenJi_Night_S01_K048",
             "Music_Explore_BW_GongYueShenJi_Night_S02_K048"
         ],
+        "635730919": [
+            "Music_Explore_BW_GongYueShenJi_Night_S02_K059",
+            "Music_Explore_PingLiuCeng_Track03_K059"
+        ],
         "52616357": "Music_Explore_BW_HuiJingCheng_N224",
         "434035090": "Music_Explore_BW_HuiJingCheng_N226",
         "514345416": [
@@ -407,11 +465,6 @@
         "348041036": [
             "Music_Explore_BW_HuoShanQuYu_Day_N008",
             "Music_Explore_BW_Smr_JiNiQi_Day_N008"
-        ],
-        "551482449": [
-            "Music_Explore_BW_HuoShanQuYu_Day_N023",
-            "Music_Explore_BW_Smr_JiNiQi_Day_N023",
-            "music_chapter04_DaHuoDong_N023"
         ],
         "802575907": [
             "Music_Explore_BW_HuoShanQuYu_Day_N025",
@@ -432,6 +485,11 @@
             "Music_Explore_BW_HuoShanQuYu_Night_N009",
             "Music_Explore_BW_Smr_JiNiQi_Night_N009",
             "music_chapter06_DaHuoDong_N009"
+        ],
+        "413413746": [
+            "Music_Explore_BW_HuoShanQuYu_Night_N040",
+            "Music_Explore_BW_NaTa_Night_N040",
+            "Music_Explore_BW_Smr_JiNiQi_Night_N040"
         ],
         "817281373": [
             "Music_Explore_BW_HuoShanQuYu_Night_N047",
@@ -477,9 +535,18 @@
         "805792976": "Music_Explore_BW_NaXiaZhen_Night_K079",
         "689780334": "Music_Explore_BW_NaXiaZhen_Night_K080",
         "598834395": "Music_Explore_BW_NaXiaZhen_Night_K081",
-        "186210148": "Music_Explore_BW_NaXiaZhen_Night_K083",
+        "186210148": [
+            "Music_Explore_BW_NaXiaZhen_Night_K083",
+            "music_chapter01_ZhuXian_K083"
+        ],
         "639713326": "Music_Explore_BW_NiHongWeiQiang_Day_N055",
         "59061851": "Music_Explore_BW_NiHongWeiQiang_Day_N202",
+        "716409109": [
+            "Music_Explore_BW_NiHongWeiQiang_Day_N204",
+            "Music_Explore_NiHongWeiQiangXiaBu_N204",
+            "music_chapter03_DaHuoDong_N204",
+            "music_chapter04_QiaSiKa_N204"
+        ],
         "118706531": [
             "Music_Explore_BW_NiHongWeiQiang_Day_N217",
             "music_chapter02_XiTeLaLi_N217"
@@ -489,7 +556,10 @@
         "4982092": "Music_Explore_BW_NiHongWeiQiang_Night_N017",
         "669585747": "Music_Explore_BW_NiHongWeiQiang_Night_N056",
         "923440407": "Music_Explore_BW_NiHongWeiQiang_Night_N203",
-        "292530427": "Music_Explore_BW_NiHongWeiQiang_Night_N220",
+        "292530427": [
+            "Music_Explore_BW_NiHongWeiQiang_Night_N220",
+            "music_chapter05_QiaSiKa_N220"
+        ],
         "609632517": "Music_Explore_BW_NiHongWeiQiang_Night_N230",
         "552894039": [
             "Music_Explore_BW_NiHongWeiQiang_Night_N243",
@@ -503,7 +573,6 @@
             "Music_Explore_v52_Cave_N072",
             "music_chapter03_ZhuXianJianMu_N072"
         ],
-        "413413746": "Music_Explore_BW_Smr_JiNiQi_Night_N040",
         "504142361": "Music_Explore_BaiSheDongFu_F430",
         "892079681": "Music_Explore_Barcarolla_F407a",
         "521624942": "Music_Explore_Barcarolla_F407b",
@@ -535,7 +604,10 @@
             "Music_Explore_ChenChuanJiuGuan_F207",
             "Music_Explore_MoNiJingYing_Day_F207"
         ],
-        "912081968": "Music_Explore_ChuanSongMenYiJi_N222",
+        "912081968": [
+            "Music_Explore_ChuanSongMenYiJi_N222",
+            "Music_Explore_YangYuJian_N222"
+        ],
         "740217930": [
             "Music_Explore_CiBaoDao_Two_S01_K015",
             "Music_Explore_CiLiXiaGu_YiKongJian_K015"
@@ -544,13 +616,27 @@
         "346489053": "Music_Explore_CiLiXiaGu_Two_K064",
         "460577867": [
             "Music_Explore_DaZhuanKuaiHuiChang_N051_End",
+            "Music_Explore_DaZhuanKuaiHuiChang_N051_Loop",
+            "Music_Explore_DaZhuanKuaiHuiChang_N051_Start",
             "Music_Explore_ZuanDiLongBuLuoWuTai_N051_End",
-            "Music_Explore_ZuanDiLongBuLuo_N051_End"
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N051_Loop",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N051_Start",
+            "Music_Explore_ZuanDiLongBuLuo_N051",
+            "Music_Explore_ZuanDiLongBuLuo_N051_End",
+            "Music_Explore_ZuanDiLongBuLuo_N051_Loop",
+            "Music_Explore_ZuanDiLongBuLuo_N051_Start"
         ],
         "186109437": [
             "Music_Explore_DaZhuanKuaiHuiChang_N051_End",
+            "Music_Explore_DaZhuanKuaiHuiChang_N051_Loop",
+            "Music_Explore_DaZhuanKuaiHuiChang_N051_Start",
             "Music_Explore_ZuanDiLongBuLuoWuTai_N051_End",
-            "Music_Explore_ZuanDiLongBuLuo_N051_End"
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N051_Loop",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N051_Start",
+            "Music_Explore_ZuanDiLongBuLuo_N051",
+            "Music_Explore_ZuanDiLongBuLuo_N051_End",
+            "Music_Explore_ZuanDiLongBuLuo_N051_Loop",
+            "Music_Explore_ZuanDiLongBuLuo_N051_Start"
         ],
         "215951637": [
             "Music_Explore_FeiXingJiaXiao_N031",
@@ -564,6 +650,7 @@
         ],
         "717578032": [
             "Music_Explore_FengYinTaShuiXia_F055",
+            "Music_explore_KeLuoLinDeCangBao_F055",
             "music_explore_UW_F055"
         ],
         "687204785": [
@@ -648,7 +735,10 @@
             "Music_Explore_KaPiTuoLiMu_InDiving_F614",
             "Music_Explore_XieLvYuan_InDiving_F614"
         ],
-        "122276258": "Music_Explore_KaPiTuoLiMu_InDiving_F620",
+        "122276258": [
+            "Music_Explore_KaPiTuoLiMu_InDiving_F620",
+            "Music_Explore_XieLvYuan_InDiving_F620"
+        ],
         "569398455": [
             "Music_Explore_KaPiTuoLiMu_InDiving_F624",
             "Music_Explore_XieLvYuan_InDiving_F624"
@@ -700,7 +790,6 @@
             "Music_v58_Activity_XiangQianChong_N815"
         ],
         "659778594": "Music_Explore_LingShiLongBuLuoXiaCeng_N021",
-        "1051178157": "Music_Explore_LingShiLongBuLuo_day_N213",
         "465339641": "Music_Explore_LingShiLongBuLuo_day_N216",
         "265732858": "Music_Explore_LingShiLongBuLuo_night_N201",
         "115286917": "Music_Explore_LingShiLongBuLuo_night_N211",
@@ -733,12 +822,16 @@
         "955271570": "Music_Explore_NaTaShaPan_N521",
         "714659202": "Music_Explore_NaXiaZhen_Two_Day_K011",
         "1054666659": "Music_Explore_NaXiaZhen_Two_Day_K017",
-        "347742739": "Music_Explore_NaXiaZhen_Two_Day_K045",
+        "347742739": [
+            "Music_Explore_NaXiaZhen_Two_Day_K045",
+            "Music_Scene_KaLai_QiJian_Track04_K045"
+        ],
         "592960175": "Music_Explore_NaXiaZhen_Two_Day_K050",
         "437744414": "Music_Explore_NaXiaZhen_Two_Day_K063",
         "988965225": "Music_Explore_NaXiaZhen_Two_Night_K002",
         "994022799": [
             "Music_Explore_NaXiaZhen_Two_Night_K012",
+            "Music_Scene_KaLai_QiJian_Track02_K012",
             "music_chapter01_DaHuoDongXian_K012"
         ],
         "472132947": "Music_Explore_NaXiaZhen_Two_Night_K018",
@@ -757,10 +850,10 @@
         "448218104": "Music_Explore_PingLiuCeng_Base_K038",
         "596587707": [
             "Music_Explore_PingLiuCeng_Track01_K059a",
+            "Music_Explore_PingLiuCeng_Track02_K059b",
             "Music_Explore_PingLiuCeng_Track03_K059"
         ],
         "73289050": "Music_Explore_PingLiuCeng_Track02_K059b",
-        "635730919": "Music_Explore_PingLiuCeng_Track03_K059",
         "313844739": "Music_Explore_QiaoYingZhuang_day_F404",
         "1001905456": "Music_Explore_QiaoYingZhuang_day_F415",
         "408887391": "Music_Explore_QiaoYingZhuang_night_F416",
@@ -807,7 +900,10 @@
         "98202908": "Music_Explore_Smr_MaLaNi_HuGuangArea_NR05",
         "916592659": "Music_Explore_TianKongCheng_N208",
         "627451453": "Music_Explore_TianKongCheng_N214",
-        "287873414": "Music_Explore_TuJiaoLongBuLuoLeiTai_N518_Loop",
+        "287873414": [
+            "Music_Explore_TuJiaoLongBuLuoLeiTai_N518_Loop",
+            "Music_Explore_TuJiaoLongBuLuoLeiTai_N518_Start"
+        ],
         "580128977": [
             "Music_Explore_TuJiaoLongBuLuoLeiTai_N518b_Loop",
             "Music_Explore_TuJiaoLongBuLuoLeiTai_N518b_Start"
@@ -830,7 +926,6 @@
         "475841122": "Music_Explore_TuJiaoLongBuLuo_Night_N523",
         "51342118": "Music_Explore_TuYaDongXue_N060",
         "1026928219": "Music_Explore_TuYaXiaGu_Night_N812",
-        "919119265": "Music_Explore_TuYaXiaGu_day_N811",
         "806612801": "Music_Explore_TuiSeGuBao_F601",
         "528899082": "Music_Explore_TuiSeGuBao_F612",
         "409336159": "Music_Explore_TuiSeGuBao_F622",
@@ -866,7 +961,10 @@
         "532666169": "Music_Explore_YiLongBu_night_F405",
         "431886206": "Music_Explore_YiLongBu_night_F425",
         "938605480": "Music_Explore_YiShouLongBuLuo_day_N034",
-        "801153787": "Music_Explore_YiShouLongBuLuo_day_N038",
+        "801153787": [
+            "Music_Explore_YiShouLongBuLuo_day_N038",
+            "music_chapter03_QiaSiKa_N038"
+        ],
         "156293276": [
             "Music_Explore_YiShouLongBuLuo_night_N018",
             "music_chapter02_QiaSiKa_N018"
@@ -910,13 +1008,21 @@
         "375011752": "Music_Explore_ZhiShiKu_N509",
         "542318383": "Music_Explore_ZhiWuYuan_N205",
         "668095326": [
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N014_End",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N014_Loop",
             "Music_Explore_ZuanDiLongBuLuoWuTai_N014_Start",
             "Music_Explore_ZuanDiLongBuLuo_N014",
+            "Music_Explore_ZuanDiLongBuLuo_N014_End",
+            "Music_Explore_ZuanDiLongBuLuo_N014_Loop",
             "Music_Explore_ZuanDiLongBuLuo_N014_Start"
         ],
         "657895145": [
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N014_End",
+            "Music_Explore_ZuanDiLongBuLuoWuTai_N014_Loop",
             "Music_Explore_ZuanDiLongBuLuoWuTai_N014_Start",
             "Music_Explore_ZuanDiLongBuLuo_N014",
+            "Music_Explore_ZuanDiLongBuLuo_N014_End",
+            "Music_Explore_ZuanDiLongBuLuo_N014_Loop",
             "Music_Explore_ZuanDiLongBuLuo_N014_Start"
         ],
         "11765212": [
@@ -989,6 +1095,8 @@
         ],
         "1025423110": "Music_HomeWorld_QG_HuiJiaDeLu_S07CN",
         "741682145": "Music_HomeWorld_QG_HuiJiaDeLu_S07EN",
+        "335996499": "Music_MusicGame_Beat_JiShiDeMiCang_N051",
+        "639414060": "Music_MusicGame_Beat_JiShiDeMiCang_N051",
         "51339973": "Music_MusicGame_Beat_LiuQuanZuiYue_N032",
         "40362337": "Music_MusicGame_Beat_LiuQuanZuiYue_N032",
         "747907128": "Music_MusicGame_Beat_QinJuanZhiZhen_N516",
@@ -1025,11 +1133,26 @@
             "Music_Scene_JingJiChangJiuDian_N022",
             "music_chapter01_ZhuXianZhongZhang_N022"
         ],
+        "679958380": "Music_Scene_KaLai_AiNuoDeJia_K060",
+        "547328883": "Music_Scene_KaLai_MiWenGuan_K071",
         "705702836": [
             "Music_Scene_KaLai_QiJian_Track01_K065",
             "music_chapter05_ZhuXian_K065"
         ],
+        "954473890": "Music_Scene_LiShiZhiWuCunFangShi_N206",
+        "588071830": "Music_Scene_LiYue44_ChaGongFang_F433",
         "710197223": "Music_Scene_TeLaZuoLiDeJia_N102",
+        "535753395": "Music_Scene_XiTeLaLiDeJia_N301",
+        "281264498": [
+            "Music_SpecialQuest_Activity_DaPaoDaBa2_X803",
+            "Music_v55_Activity_DaZhuanKuai_Common_X803",
+            "music_explore_Circus_X803"
+        ],
+        "1034147896": [
+            "Music_SpecialQuest_Activity_DaPaoDaBa2_X809",
+            "Music_v55_Activity_DaZhuanKuai_Common_X809",
+            "music_explore_Circus_X809"
+        ],
         "724501305": [
             "Music_SpecialQuest_Activity_DaPaoDaBa2_X817",
             "Music_v55_Activity_DaZhuanKuai_Boss_X817",
@@ -1038,7 +1161,9 @@
         "266105252": "Music_SpecialQuest_KaPiMuBanYou_F625",
         "769386082": "Music_SpecialQuest_QiuQiu_Sneak",
         "134537761": "Music_SpecialQuest_ShenHaiXiaGuBanYou_F627",
+        "835050437": "Music_UiPage_Beyd_UGCBeyondGachaPage_U002",
         "1042222047": "Music_UiPage_Beyd_UGCCharacterPage_U001",
+        "657229424": "Music_cutscene_AQ80210901_CS-F34",
         "492604506": "Music_interactiveTimeLine_4_6_Mural_F619",
         "917536113": "Music_v46_YiDouPaiMengChangGe",
         "433475954": "Music_v50_Activity_HuGuang_NR07",
@@ -1051,76 +1176,97 @@
         ],
         "125358735": "Music_v50_MonsterUkulele_NC01a",
         "179631739": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "273358127": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "164680225": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "960864615": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "485617727": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "44319413": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "129254575": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "568965452": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "238556962": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "1047638542": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "757934344": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "164930607": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "761847215": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "153858779": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "980337470": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "233785342": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "316352244": [
+            "Music_v50_YouLieLong_BandShow01",
             "Music_v50_YouLieLong_BandShow02",
             "Music_v50_YouLieLong_BandShow03"
         ],
         "635062334": [
             "Music_v50_Zhuxian_HuGuang_N011",
             "Music_v53_HuoShenXian_HuGuang_N011"
+        ],
+        "971222246": [
+            "Music_v52_Activity_LingShiLongTiaoZhan_NR15",
+            "music_chapter_Emo_NR15"
         ],
         "1031617941": "Music_v52_MonsterPanflute_NC01b",
         "913438008": [
@@ -1202,6 +1348,7 @@
             "music_chapter01_Cook_F068",
             "music_vehicle_WaterShip_F068"
         ],
+        "572497162": "music_chapter01_Film_S02",
         "772272054": [
             "music_chapter01_HuaShenDanJi_X116",
             "music_explore_Pyramid_X116"
@@ -1224,6 +1371,12 @@
             "music_chapter01_PaiGuangGao_M024",
             "music_explore_mengde_day_02"
         ],
+        "892511887": [
+            "music_chapter01_SaiNuo_XR01",
+            "music_chapter_Emo_XR01_QuQiuLeFa",
+            "music_quest_XM_humor_XR01"
+        ],
+        "525052820": "music_chapter01_YeLanZhuiXiong_PV_D39",
         "230426508": "music_chapter01_YinYouYinDao_Harp",
         "911870489": [
             "music_chapter01_YinYou_D122",
@@ -1293,7 +1446,10 @@
             "music_chapter04_Furina_Dead_FR17_B_01",
             "music_chapter04_Furina_Dead_FR17_B_02"
         ],
-        "924472628": "music_chapter03_HaiDengJie_L006",
+        "924472628": [
+            "music_chapter03_HaiDengJie_L006",
+            "music_city_LiYue_dawn"
+        ],
         "788155509": [
             "music_chapter03_QianZhi_F070",
             "music_city_FengDan_F070"
@@ -1321,7 +1477,6 @@
             "music_chapter05_PaiGuangGao_F026",
             "music_explore_BaiSongZhen_F026"
         ],
-        "716409109": "music_chapter04_QiaSiKa_N204",
         "111095661": "music_chapter04_SaiNuo_Emo15_17JinZhang",
         "344256348": [
             "music_chapter04_XiGeWen_F064",
@@ -1353,7 +1508,10 @@
             "music_chapter06_F093",
             "music_explore_BW_F093"
         ],
-        "394913044": "music_chapter06_MengJianYueRuiXi_NR18",
+        "394913044": [
+            "music_chapter06_MengJianYueRuiXi_NR18",
+            "music_chapter_Emo_NR18"
+        ],
         "186499264": [
             "music_chapter06_SaiNuo_X024c",
             "music_city_XuMi_X24c"
@@ -1371,6 +1529,10 @@
         "611296826": [
             "music_chapter08_KeLuoLinDe_F048",
             "music_explore_BW_F048"
+        ],
+        "200160976": [
+            "music_chapter09_KeLuoLinDe_F036",
+            "music_explore_BW_F036"
         ],
         "79095185": "music_chapter12_ZhuXian_GR04",
         "100819569": "music_chapter15_ZhuXian_F008d",
@@ -1390,6 +1552,14 @@
         "79673548": "music_chapter_Emo_FR16_JiuShiYiChen",
         "1060166603": "music_chapter_Emo_FR18_TeErKeXiDeQingYu",
         "23322131": "music_chapter_Emo_FR27",
+        "586991948": [
+            "music_chapter_Emo_GR03_JianYingYuNieBu",
+            "music_quest_suspicious"
+        ],
+        "232377083": [
+            "music_chapter_Emo_GR06_EZheKeMeiXiangDao",
+            "music_quest_awkward"
+        ],
         "535003777": "music_chapter_Emo_GR10_ZhenJing",
         "58219641": "music_chapter_Emo_GR12_TongBanDeLiLiang",
         "271777943": "music_chapter_Emo_GR13_WuLvWuCaiDeSuiYue",
@@ -1412,7 +1582,6 @@
         "776516867": "music_chapter_Emo_NR08",
         "610550267": "music_chapter_Emo_NR09",
         "522011250": "music_chapter_Emo_NR11",
-        "971222246": "music_chapter_Emo_NR15",
         "710359783": "music_chapter_Emo_NR17",
         "166299927": "music_chapter_Emo_NR19",
         "146540973": "music_chapter_Emo_NR19",
@@ -1424,10 +1593,6 @@
         "280367488": [
             "music_chapter_Emo_X056_XianShiZhiKe",
             "music_explore_DiaoLingZhiSen_X56"
-        ],
-        "892511887": [
-            "music_chapter_Emo_XR01_QuQiuLeFa",
-            "music_quest_XM_humor_XR01"
         ],
         "438557446": "music_chapter_FR06",
         "863777438": "music_chapter_FR06_loop",
@@ -1479,6 +1644,7 @@
             "music_combat_CYJY_level2_DDC_loop"
         ],
         "965216962": [
+            "music_combat_CYJY_level2_SMYJ",
             "music_combat_CYJY_level2_SMYJ_1",
             "music_combat_CYJY_level2_SMYJ_2",
             "music_combat_CYJY_level2_SMYJ_3_loop",
@@ -1498,6 +1664,7 @@
         "34673173": "music_combat_DaoQi_B",
         "722901412": [
             "music_combat_DaoQi_C",
+            "music_dungeon_OnmyoMaze_part3_combat_intro",
             "music_dungeon_OnmyoMaze_part3_combat_loop"
         ],
         "1004349364": "music_combat_DaoQi_D",
@@ -1513,6 +1680,7 @@
         "279259520": "music_combat_E",
         "244454803": "music_combat_FengDan_F011",
         "474887520": "music_combat_FengDan_F013",
+        "309670097": "music_combat_LaSignora_S01",
         "1015193145": "music_combat_LaSignora_S03",
         "845202045": [
             "music_combat_LiYue_A_Loop",
@@ -1535,7 +1703,12 @@
             "music_combat_Scaramouche_S03",
             "music_combat_Scaramouche_S03_loop"
         ],
+        "408999677": "music_combat_Shougun_Mita_stinger_01",
         "818396380": "music_combat_Shougun_Mita_stinger_02",
+        "998589907": [
+            "music_combat_Shougun_S01",
+            "music_combat_Shougun_S01_loop"
+        ],
         "239052546": [
             "music_combat_Tartaglia_S01",
             "music_combat_Tartaglia_S02"
@@ -1555,6 +1728,7 @@
             "music_combat_XuMi_X61",
             "music_combat_XuMi_X61_loop"
         ],
+        "272994013": "music_combat_XuMi_X62",
         "161541716": "music_combat_XuMi_X63",
         "193741903": [
             "music_combat_YXG_Elite_loop_01",
@@ -1584,12 +1758,16 @@
         "764158979": "music_cutscene_201903",
         "566874686": "music_cutscene_4131815",
         "559107737": "music_cutscene_4132107",
+        "951072386": "music_cutscene_AQ30000601",
+        "778398094": "music_cutscene_AQ30000801",
         "594792140": "music_cutscene_AQ30180401",
         "436751190": "music_cutscene_AQ40200501",
+        "33112253": "music_cutscene_AQ40220201",
         "302028356": "music_cutscene_AQ60000101_CS_K05",
         "819232968": "music_cutscene_AQ60020101_CS_K08",
         "833674475": "music_cutscene_AQ60040101_CS_K07",
         "641678106": "music_cutscene_AQ60050101_CS_K06",
+        "671180395": "music_cutscene_AQ6006_CS_N39_clip",
         "710976687": "music_cutscene_AQ80070901",
         "507515965": "music_cutscene_AQ801210",
         "672221576": "music_cutscene_ApepAppear",
@@ -1600,14 +1778,17 @@
         "943515260": "music_cutscene_EQ4010313",
         "125080649": "music_cutscene_EQ4016315",
         "744233186": "music_cutscene_EQ4016402",
+        "326459518": "music_cutscene_EQ4016425",
         "625456625": [
             "music_cutscene_EQAST4101304",
-            "music_cutscene_EQAST4101304_loop"
+            "music_cutscene_EQAST4101304_loop",
+            "music_cutscene_EQAST4101304_start"
         ],
         "883862026": "music_cutscene_EQHDJ005",
         "550072394": "music_cutscene_F22a",
         "519189477": "music_cutscene_F22b",
         "747981230": "music_cutscene_F22c",
+        "867698446": "music_cutscene_KLLQ001",
         "272747129": "music_cutscene_KYLQ005",
         "168060551": "music_cutscene_LQ10300101",
         "492844640": "music_cutscene_LQ10310101",
@@ -1625,11 +1806,13 @@
         "128985209": "music_cutscene_LYAQ002",
         "746889668": "music_cutscene_LYAQ003",
         "15003396": "music_cutscene_LYAQ004P1",
+        "725050251": "music_cutscene_LYAQ004P2",
         "627962007": "music_cutscene_LYAQ1112303",
         "896712688": [
             "music_cutscene_LYAQ301P1",
             "music_cutscene_LYAQ301P2"
         ],
+        "963246925": "music_cutscene_LYLQ1101206",
         "683890804": "music_cutscene_LYLQ1102402",
         "903935736": "music_cutscene_MDAQ000",
         "659453457": "music_cutscene_MDAQ001",
@@ -1645,6 +1828,7 @@
         ],
         "777346762": "music_cutscene_MDAQ022",
         "649034000": "music_cutscene_MDAQ024",
+        "604274240": "music_cutscene_MDAQ031",
         "798607409": "music_cutscene_MDAQ040",
         "23632235": "music_cutscene_MDAQ041",
         "1049285041": "music_cutscene_MDAQ063P2",
@@ -1653,6 +1837,9 @@
         "19124075": "music_cutscene_MNLQ001",
         "651569151": "music_cutscene_RZLQ001",
         "956467438": "music_cutscene_RZLQ004",
+        "560462141": "music_cutscene_SZAQ800305",
+        "312468621": "music_cutscene_SZAQ800306",
+        "6164511": "music_cutscene_WDLQ004",
         "128934674": "music_cutscene_WQ75145",
         "1047942328": "music_cutscene_WQ75147",
         "1031797448": "music_cutscene_WQ75149",
@@ -1698,9 +1885,16 @@
         "76575588": "music_dungeon_BoxMatch_F106",
         "370867738": "music_dungeon_DreamIsland_kazuha02_special",
         "110508030": "music_dungeon_Fontaine_F094",
+        "126210918": "music_dungeon_LinNi_F091",
+        "577417561": "music_dungeon_OnmyoMaze_part1_combat",
+        "931019607": "music_dungeon_OnmyoMaze_part1_nonCombat",
         "99542767": "music_dungeon_OnmyoMaze_part2_noncombat",
-        "899874812": "music_dungeon_OnmyoMaze_part3_noncombat_loop",
+        "899874812": [
+            "music_dungeon_OnmyoMaze_part3_noncombat_intro",
+            "music_dungeon_OnmyoMaze_part3_noncombat_loop"
+        ],
         "662009229": "music_dungeon_RestrictedArea_F105",
+        "165934613": "music_dungeon_SlateRuin_F062",
         "408632457": "music_dungeon_SlateRuin_F217",
         "938822335": "music_dungeon_com_CYJY_rogue",
         "511135527": "music_dungeon_dreamIsland_fischl01",
@@ -1709,10 +1903,13 @@
         "841092554": "music_dungeon_dreamIsland_fischl03",
         "962663279": "music_dungeon_dreamIsland_fischl04",
         "124070006": "music_dungeon_dreamIsland_fischl_combat",
+        "635137475": "music_dungeon_dreamIsland_mona_01",
         "306562176": "music_dungeon_dreamIsland_xinyan_combat",
         "101650021": "music_dungeon_dreamIsland_xinyan_noncombat",
         "306539694": "music_dungeon_exp_CYJY_Rogue_01",
         "985305684": "music_dungeon_exp_CYJY_Rogue_02",
+        "808899325": "music_dungeon_exp_CYJY_Rogue_03",
+        "537486299": "music_dungeon_exp_CYJY_Rogue_04",
         "298853514": "music_dungeon_qunyuge",
         "402842488": "music_dungeon_tartaglia",
         "512840868": "music_explore_ARuCun_X153",
@@ -1723,13 +1920,18 @@
         "655106731": "music_explore_AoMoSiGang_X19",
         "61694084": "music_explore_AoMoSiGang_X40",
         "597079513": "music_explore_AoMoSiGang_X41",
-        "200160976": "music_explore_BW_F036",
-        "870777847": "music_explore_BW_F037",
+        "870777847": [
+            "music_explore_BW_F037",
+            "music_explore_BW_F037b"
+        ],
         "494405932": "music_explore_BW_F037a",
         "664543693": "music_explore_BW_F039",
         "667253914": "music_explore_BW_F040",
         "792173169": "music_explore_BW_F041",
-        "219381171": "music_explore_BW_F049b",
+        "219381171": [
+            "music_explore_BW_F049",
+            "music_explore_BW_F049b"
+        ],
         "419742443": "music_explore_BW_F050",
         "952032954": "music_explore_BW_F065",
         "712160102": "music_explore_BW_F066",
@@ -1828,9 +2030,7 @@
         "655498": "music_explore_CengYanJuYuan_night_02",
         "49308647": "music_explore_CengYanJuYuan_night_03",
         "417587514": "music_explore_CengYanJuYuan_night_04",
-        "281264498": "music_explore_Circus_X803",
         "201050178": "music_explore_Circus_X806",
-        "1034147896": "music_explore_Circus_X809",
         "493585669": "music_explore_DaoQi_A2",
         "149464289": "music_explore_DaoQi_A3",
         "75625808": "music_explore_DaoQi_A4",
@@ -1856,7 +2056,6 @@
         "1012130838": "music_explore_FerrisWheel_X804",
         "989867788": "music_explore_FerrisWheel_X805",
         "866245781": "music_explore_FerrisWheel_X814",
-        "753429241": "music_explore_FerrisWheel_X816",
         "735477837": "music_explore_GanJinDao_A1",
         "977163100": "music_explore_GanJinDao_A2",
         "906190855": "music_explore_GanLuHuaHai_X603",
@@ -1919,6 +2118,7 @@
         "198237388": "music_explore_KongZhongShuiTi_F127",
         "750554007": "music_explore_KongZhongShuiTi_F130",
         "684344017": "music_explore_LP_A1",
+        "48269964": "music_explore_LP_fog_default",
         "389382935": "music_explore_LeiShuiZhiCheng_F019",
         "1003653051": "music_explore_LeiShuiZhiCheng_F030",
         "536157868": "music_explore_LiDao_A_night",
@@ -1989,7 +2189,6 @@
         "794936201": "music_explore_SheShenZhiShou_A1",
         "92927784": "music_explore_SheShenZhiShou_A3",
         "229643163": "music_explore_ShenLiWuFu_A1",
-        "320346132": "music_explore_ShenWuZhong_A1",
         "430872013": "music_explore_ShenWuZhong_A2",
         "461165427": "music_explore_ShenWuZhong_A3",
         "262090691": "music_explore_ShenWuZhong_A3b",
@@ -2216,7 +2415,6 @@
         "665572248": "music_quest_Niloudance",
         "268417083": "music_quest_Scaramouche",
         "516394464": "music_quest_XianglingsPlan",
-        "232377083": "music_quest_awkward",
         "425085964": "music_quest_awkward_02",
         "1011953591": "music_quest_badSituation",
         "959895920": "music_quest_danger",
@@ -2224,20 +2422,26 @@
             "music_quest_goodEndding",
             "music_theme_wendi_harp"
         ],
+        "1032399019": "music_quest_humor",
         "965444295": "music_quest_incoming",
+        "849586792": "music_quest_longStory",
         "173553995": "music_quest_mengdeDialog",
         "919429826": "music_quest_repression",
         "114209104": "music_quest_reunion",
         "1005978956": "music_quest_sayMyName",
         "511800573": "music_quest_suspense_heavy",
         "874266614": "music_quest_suspense_light",
-        "586991948": "music_quest_suspicious",
         "776571892": "music_quest_suspicious",
         "261485847": "music_quest_tense",
         "701445659": "music_scene_above_day_01",
+        "1011381369": "music_scene_above_day_02",
         "1044759240": "music_scene_above_day_03",
         "101462596": "music_scene_above_night_01",
+        "575152678": "music_scene_above_night_02",
         "1068997431": "music_scene_above_night_03",
+        "120565918": "music_scene_daoqi_donjon_A",
+        "302850071": "music_scene_daoqi_donjon_B",
+        "914342791": "music_scene_daoqi_tenryuBugyo",
         "664980890": "music_scene_daoqi_uyutei_B",
         "917436882": "music_scene_fengdan_Dyz_F101",
         "497037537": "music_scene_fengdan_GeJuYuan_F053",
@@ -2247,14 +2451,26 @@
         "605145651": "music_scene_fengdan_ShuiXian_F008c",
         "358824641": "music_scene_fengdan_YiHuiTing_F056",
         "1063551221": "music_scene_karst_day_01",
+        "726567999": "music_scene_karst_day_02",
+        "505358679": "music_scene_karst_day_03",
+        "544534931": "music_scene_karst_night_01",
+        "44997815": "music_scene_karst_night_02",
+        "752466281": "music_scene_karst_night_03",
         "947579197": "music_scene_liyue_CardGame",
         "305190127": "music_scene_liyue_baizhuer",
         "570731154": "music_scene_liyue_huangjinwu",
         "131373184": "music_scene_liyue_qunyuge",
+        "675250293": "music_scene_ly_apartment_01",
+        "329334773": "music_scene_md_apartment_01",
         "311763579": "music_scene_mengde_CattailTavern",
+        "439663094": "music_scene_mengde_knights",
         "767012445": "music_scene_mengde_saloon",
+        "233435186": "music_scene_uncharted_day_01",
         "231716384": "music_scene_uncharted_day_02",
+        "573296070": "music_scene_uncharted_day_03",
+        "745895921": "music_scene_uncharted_night_01",
         "616790638": "music_scene_uncharted_night_02",
+        "453379146": "music_scene_uncharted_night_03",
         "492192559": "music_scene_xumi_arucun_X120",
         "1024439275": "music_scene_xumi_csd_X88",
         "197254179": "music_scene_xumi_library_X67",
