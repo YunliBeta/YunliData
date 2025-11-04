@@ -2647,6 +2647,10 @@
         "976109787": "BGM_JukeBox_Penacony_MusicProduction_JRock",
         "630242052": "BGM_JukeBox_Penocony_ADV_P06",
         "272746509": "BGM_JukeBox_Penocony_ADV_P06_Office",
+        "998117465": "BGM_JukeBox_Penocony_ADV_P07_Cloister",
+        "106832067": "BGM_JukeBox_Penocony_ADV_P07_Deck",
+        "595203984": "BGM_JukeBox_Penocony_ADV_P07_Pavilion",
+        "943945725": "BGM_JukeBox_Penocony_Combat_Sam_02",
         "884932883": [
             "BGM_Jukebox_Belobog_Cocolia_Vocal",
             "State_Spaceship_Default"
@@ -2691,7 +2695,10 @@
         "328847138": "BGM_Jukebox_Penocony_MAZ_P101_MainTheme",
         "702595253": "BGM_Jukebox_Penocony_MAZ_P102_MainTheme",
         "201680312": "BGM_Jukebox_Penocony_MAZ_P102_Study",
-        "899389739": "BGM_Jukebox_Penocony_MAZ_P103_MainTheme",
+        "899389739": [
+            "BGM_Jukebox_Penocony_MAZ_P103_MainTheme",
+            "State_Penocony_ADV_P07"
+        ],
         "835671463": [
             "BGM_Jukebox_Penocony_MAZ_P103_Terrace_Vocal",
             "State_Spaceship_Default"
@@ -8996,15 +9003,25 @@
         "196245954": "State_Amphoreus_Combat_DawnsEye_Phase03",
         "208037855": "State_Amphoreus_Combat_DawnsEye_Phase03",
         "305587356": "State_Amphoreus_Combat_DawnsEye_Phase04_Weekly",
+        "245294589": "State_Amphoreus_Combat_IronTomb_Phase01_AfterA",
         "618466014": "State_Amphoreus_Combat_IronTomb_Phase01_BeforeA",
+        "551080691": "State_Amphoreus_Combat_IronTomb_Phase01_Intro",
+        "970667274": "State_Amphoreus_Combat_IronTomb_Phase01_Intro",
         "442377864": "State_Amphoreus_Combat_IronTomb_Phase01_Weekly",
         "207626222": "State_Amphoreus_Combat_IronTomb_Phase01_Weekly",
         "19531342": "State_Amphoreus_Combat_IronTomb_Phase02",
         "477408865": "State_Amphoreus_Combat_IronTomb_Phase02",
         "1067535665": "State_Amphoreus_Combat_IronTomb_Phase02_Outro",
         "617750678": "State_Amphoreus_Combat_IronTomb_Phase02_Outro",
+        "110353297": "State_Amphoreus_Combat_IronTomb_Phase02_Standby",
         "686045248": "State_Amphoreus_Combat_IronTomb_Phase02_Weekly",
         "603284994": "State_Amphoreus_Combat_IronTomb_Phase02_Weekly",
+        "324808005": "State_Amphoreus_Combat_IronTomb_Phase03",
+        "678259831": "State_Amphoreus_Combat_IronTomb_Phase03",
+        "645298698": "State_Amphoreus_Combat_IronTomb_Phase03_QTE",
+        "506325943": "State_Amphoreus_Combat_IronTomb_Phase03_QTE",
+        "107971954": "State_Amphoreus_Combat_IronTomb_Phase03_QTE",
+        "459304125": "State_Amphoreus_Combat_IronTomb_Phase03_QTE",
         "840889156": "State_Amphoreus_Combat_IronTomb_Phase03_Weekly",
         "57425024": "State_Amphoreus_Combat_IronTomb_Phase03_Weekly",
         "792618699": "State_Amphoreus_Combat_MAZ_A801_03_High",
@@ -9156,6 +9173,10 @@
         "456748632": [
             "State_BGM_D1",
             "State_Penocony_MAZ_P302"
+        ],
+        "1008337367": [
+            "State_BGM_D1",
+            "State_Penocony_ADV_P07"
         ],
         "510297733": "State_Battle_Avatar_Acheron",
         "611540455": "State_Battle_Avatar_Acheron",
@@ -9679,12 +9700,21 @@
             "State_Penocony_MAZ_P203",
             "State_Spaceship_Default"
         ],
-        "745870876": "State_Penocony_ADV_P02",
-        "991996631": "State_Penocony_ADV_P02",
+        "745870876": [
+            "State_Penocony_ADV_P01",
+            "State_Penocony_ADV_P02"
+        ],
+        "115621293": [
+            "State_Penocony_ADV_P01",
+            "State_Penocony_ADV_P02"
+        ],
+        "991996631": [
+            "State_Penocony_ADV_P02",
+            "State_Penocony_MAZ_P302"
+        ],
         "720506475": "State_Penocony_ADV_P02",
         "657170438": "State_Penocony_ADV_P02",
         "416263668": "State_Penocony_ADV_P02",
-        "115621293": "State_Penocony_ADV_P02",
         "911246642": "State_Penocony_ADV_P02",
         "887667483": "State_Penocony_ADV_P02",
         "83685553": "State_Penocony_ADV_P05",
@@ -9692,6 +9722,13 @@
         "630663551": "State_Penocony_ADV_P06",
         "999718400": "State_Penocony_ADV_P06",
         "72073727": "State_Penocony_ADV_P06",
+        "438213825": "State_Penocony_ADV_P07",
+        "339366971": "State_Penocony_ADV_P07",
+        "1022527791": [
+            "State_Penocony_ADV_P08",
+            "State_Spaceship_Default"
+        ],
+        "472442058": "State_Penocony_ADV_P08",
         "486304724": "State_Penocony_ADV_P401",
         "931933435": "State_Penocony_ADV_P401",
         "314261157": "State_Penocony_ADV_P401",
@@ -9702,6 +9739,11 @@
         "178363265": "State_Penocony_ADV_P401",
         "997487739": "State_Penocony_ADV_P401",
         "292625939": "State_Penocony_ADV_P401",
+        "291105122": [
+            "State_Penocony_ADV_P401",
+            "State_Penocony_MAZ_P103"
+        ],
+        "669265647": "State_Penocony_ADV_P401",
         "80050": "State_Penocony_Combat_Aventurine_Common",
         "539854667": "State_Penocony_Combat_Aventurine_Common",
         "96744320": "State_Penocony_Combat_Aventurine_Ultra",
@@ -9716,6 +9758,8 @@
         "429000486": "State_Penocony_Combat_Clock_P2_Song",
         "264208627": "State_Penocony_Combat_Clock_P3_Die",
         "204642017": "State_Penocony_Combat_Clock_P3_Die",
+        "1028002067": "State_Penocony_Combat_Clock_P3_Inst_380",
+        "440124748": "State_Penocony_Combat_Clock_P3_Inst_380",
         "28145304": "State_Penocony_Combat_Clock_Pre",
         "372867936": "State_Penocony_Combat_Clock_Pre",
         "84255126": "State_Penocony_Combat_Clock_Pre",
@@ -9738,6 +9782,8 @@
         "471208671": "State_Penocony_Combat_P03_OutDoor_Low",
         "1066022638": "State_Penocony_Combat_Sam",
         "44441306": "State_Penocony_Combat_Sam",
+        "506468606": "State_Penocony_Combat_Sam_02",
+        "116611564": "State_Penocony_Combat_Sam_02",
         "652851270": "State_Penocony_MAZ_P101",
         "890993860": "State_Penocony_MAZ_P101",
         "636065066": "State_Penocony_MAZ_P101",
@@ -9748,7 +9794,6 @@
         "237272551": "State_Penocony_MAZ_P102",
         "363243798": "State_Penocony_MAZ_P103",
         "486606400": "State_Penocony_MAZ_P103",
-        "291105122": "State_Penocony_MAZ_P103",
         "785417111": "State_Penocony_MAZ_P103",
         "139563132": "State_Penocony_MAZ_P103",
         "814829470": "State_Penocony_MAZ_P103",
@@ -9765,6 +9810,7 @@
             "State_Penocony_MAZ_P203",
             "State_Spaceship_Default"
         ],
+        "835758893": "State_Penocony_MAZ_P203",
         "372304116": "State_Penocony_MAZ_P301",
         "850398206": "State_Penocony_MAZ_P301",
         "694635083": "State_Penocony_MAZ_P301",
@@ -9776,10 +9822,10 @@
         "57191911": "State_Penocony_MAZ_P302",
         "794341408": "State_Penocony_MAZ_P302",
         "1044086159": "State_Spaceship_Default",
-        "1022527791": "State_Spaceship_Default",
         "11602899": "State_Spaceship_Default",
         "153567614": "State_Spaceship_Default",
         "453227845": "State_Spaceship_Default",
+        "689584400": "State_Spaceship_Default",
         "768837481": "State_Spacetrain_Combat",
         "167555554": "State_Spacetrain_Combat",
         "222205037": "State_Spacetrain_Combat_Argenti",
