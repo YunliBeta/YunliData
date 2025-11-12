@@ -213,7 +213,8 @@
         ],
         "230396117": [
             "Music_Combat_NaTa_N013",
-            "Music_Dungeon_MoRenGuaiWu_NaTa_N013"
+            "Music_Dungeon_MoRenGuaiWu_NaTa_N013",
+            "Music_UiPage_Teyvat_ChiHunDouShiComicBook_N013"
         ],
         "679529144": "Music_Combat_NanShanYinShou_F431",
         "100494426": [
@@ -1399,8 +1400,10 @@
             "music_quest_awkward"
         ],
         "281037339": "Music_v62_SpecialCase_NaXiaZhenCopyWorld_KR15",
+        "93555855": "Music_v62_SpecialCase_NaXiaZhenCopyWorld_KR15",
         "608754344": "Music_v62_SpecialCase_NaXiaZhenCopyWorld_KR16",
         "567613915": "Music_v62_SpecialCase_NaXiaZhenCopyWorld_Speaker_KR15",
+        "200578759": "Music_v62_SpecialCase_NaXiaZhenCopyWorld_Speaker_KR15",
         "483270115": "Music_v62_SpecialCase_NaXiaZhenCopyWorld_Speaker_KR16",
         "248637414": [
             "music_Chapter01_Pole_FR12",
@@ -1535,7 +1538,8 @@
         "620093375": [
             "music_chapter03_Furina_Dead_FR17_A",
             "music_chapter04_Furina_Dead_FR17_B_01",
-            "music_chapter04_Furina_Dead_FR17_B_02"
+            "music_chapter04_Furina_Dead_FR17_B_02",
+            "music_chapter06_DuLinXian_FR17"
         ],
         "924472628": [
             "music_chapter03_HaiDengJie_L006",
@@ -1623,6 +1627,7 @@
             "music_chapter06_ZhuXian_KR06",
             "music_chapter_Emo_KR06"
         ],
+        "915683922": "music_chapter07_DuLinXian_F818",
         "1033985890": "music_chapter07_ShaoNvRenWu_YueLing",
         "611296826": [
             "music_chapter08_KeLuoLinDe_F048",
@@ -1864,6 +1869,8 @@
         "833674475": "music_cutscene_AQ60040101_CS_K07",
         "641678106": "music_cutscene_AQ60050101_CS_K06",
         "671180395": "music_cutscene_AQ6006_CS_N39_clip",
+        "117056109": "music_cutscene_AQ6026_CS_K15",
+        "1054639807": "music_cutscene_AQ60270201_CS_K17",
         "710976687": "music_cutscene_AQ80070901",
         "507515965": "music_cutscene_AQ801210",
         "672221576": "music_cutscene_ApepAppear",
